@@ -1,0 +1,2770 @@
+[
+  {
+    "reddit_id": "t3_1x3bjkp",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 1,
+    "created_at": "2026-10-11T15:48:39.000Z",
+    "sanitized_text": "Which answer is correct?\nA. 4x+2-x = 9\n\nB. 3x+2 = 9\n\n  \n1) How can we get Equation **B** from Equation **A**?\n\nOptions:\nA. Multiply/divide both sides by the same non-zero constant\nB. Multiply/divide only one side by a non-zero constant\nC. Rewrite one side (or both) by combining like terms\nD. Rewrite one side (or both) using the distributive property\n\n\n\nIs it C or D? I am asking this question because i think its C but khan academy said D. Even Gemini said C is correct. Now i am confuse. I dont have tutur to ask so this is why i am asking here. Please help."
+  },
+  {
+    "reddit_id": "pfdytpt",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "4x - X = 3X.\n\nSo 4x + 2 - x is 3x + 2. Just do the math. 4 - 1 =3"
+  },
+  {
+    "reddit_id": "t3_1xj0ntv",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 4,
+    "created_at": "2026-10-30T00:09:16.000Z",
+    "sanitized_text": "Am I stupid or is something wrong?\n[REDACTED_URL]\n\n# Did I do something wrong? I placed my points at (1, 60) and what I think is (2, 120) based on the number of lines but apparently Khan Academy decided the slope was 40.\nEdit: I was being a dumbass, the 2nd point is at (2,100)"
+  },
+  {
+    "reddit_id": "19rn0j5p1dihu",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'm basically working through the entire math curriculum, starting with Early Math Review and mastering every skill. So far I've made it to 5th grade and have mastered about 650 unique skills in the past 2 weeks"
+  },
+  {
+    "reddit_id": "19s77ct3nqy91",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Hey everyone!\n\nI've been building a free interactive maths game over at [r/DailyMathProblem](/r/DailyMathProblem/) and thought some of you might enjoy it.\n\nThere are 3 new questions every day covering algebra, calculus, trigonometry and more, with full worked solutions if you get stuck.\n\nThere's also a timed Daily Blitz with 10 quick-fire questions and a global leaderboard if you fancy a bit of competition.\n\nEverything runs directly inside Reddit. No downloads, no sign-ups, completely free.\n\nThought it might be a fun way to get some extra maths practice alongside Khan Academy. Feel free to give it a go!"
+  },
+  {
+    "reddit_id": "t3_1x4d4cl",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 0,
+    "created_at": "2026-10-12T20:33:19.000Z",
+    "sanitized_text": "Unreasonable no calculator questions\nHey, Im currently doing algebra 2 and im getting some very hard airthmatic steps and im not given a calculator to solve, for example 128(1-0.5\\^9)=127.75 is this intended. Am i expected to have an external calculator with me?"
+  },
+  {
+    "reddit_id": "t3_1x2ofcn",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 6,
+    "created_at": "2026-10-10T19:55:13.000Z",
+    "sanitized_text": "Math for physics\nI\u2019m wanting to learn physics with no real math foundation but I obviously want to learn the math I need to do physics what roadmap would you guys recommend for learning math for physics? I\u2019m taking highschool but you can also give pointers for college for anybody else looking for math on that level"
+  },
+  {
+    "reddit_id": "pghkxb1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "OP means they are not allowed to use a calculator. The other commenter explained how to solve it by hand in only a handful of steps, which of course is the entire point of the exercise."
+  },
+  {
+    "reddit_id": "pgjotc2",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Also i forgot to mention if i click skip or show answer the step by step solution states \"evaluating the expression in the calculator gives is...\""
+  },
+  {
+    "reddit_id": "pf46r88",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Hey! I'm an assistant headteacher managing the math and science department where I work, and I also have a Bachelor's degree in astronomy.\n\nKey mathematics for physics depend on what level we are looking at. Physics as a field was discovered by Isaac Newton, and he invented calculus to achieve it. That said, high school physics often is limited to algebra 1 and algebra 2, because you get around by using the formulae without necessarily understanding why they hold true. What you really need to master are fractions, equations, functions, and working with exponents for the physics to make sense. Trigonometry will also help massively for many subjects in physics.\n\nUniversity physics are also dependent on linear algebra, with vectors being essential concepts to understand the basics of classical mechanics, and matrices being necessary to work with fields.\n\nSo, in short, it all depends on what level you are aiming for. Can you provide some more details on that?"
+  },
+  {
+    "reddit_id": "pf6gug7",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Hello! First of all congratulations on the accomplishments second thank you for taking the time to help! \ud83d\ude4f as for the level I\u2019m looking to work on I was aiming more for highschool physics and if this gives any better idea I plan to do it on khan academy (specifying this because the courses may differ in how they\u2019re taught) if that makes sense, thank you!"
+  },
+  {
+    "reddit_id": "pf427kb",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Hey! Jumping on to comment/hopefully boost a little. I\u2019m in a similar boat, it\u2019s been a while since I\u2019ve taken any \u201cofficial\u201d upper level math courses, and even then I never had the strongest foundation. But the time has come now where I\u2019m looking to take college level physics over the summer or upcoming fall term, so I\u2019m starting to look into studying/prep/review. My school doesn\u2019t require any official pre-reqs, but I know that if I go in without at least reviewing it\u2019s not going to end well."
+  },
+  {
+    "reddit_id": "pf47jhk",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Get yourself familiar with Trigonometry, logarithms, limit functions, derivatives (calculus), vectors and matrices. They are essential for college level physics. The last three things are what college level physics are made out of, and the stuff before is a kind of necessary prerequisite."
+  },
+  {
+    "reddit_id": "pf4val3",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Thank you so much for this - this is incredibly helpful!"
+  },
+  {
+    "reddit_id": "pf76mbw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Professor Leonards Intermediate Algebra, Precalculus, Calculus I and Calculus II, after that you can learn the whole physics library on Khan academy (including the new physics C mechanics & E&M"
+  },
+  {
+    "reddit_id": "pf57qlf",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "As a final note, I cannot recommend 3blues1brown's videos on linear algebra (vectors and matrices) enough. I consider them essential for building an intuitive understanding of what you're doing in linear algebra, which helps cutting through the obtusive nature of it!"
+  },
+  {
+    "reddit_id": "t3_1x2ct95",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 1,
+    "created_at": "2026-10-10T11:18:38.000Z",
+    "sanitized_text": "Should I do activities and read articles\nHello. I'm currently self-teaching school subjects like Math, Sciences, and History, using Khan Academy, ChatGPT, and Anki.  \nI normally only take practices (except some subjects, such as World History, which I watch videos) and I ask ChatGPT and sometimes make Anki card when I encounter something I don't know or can't understand. Because I don't have much time, I can only afford to spend roughly 1.5 - 3 hours to Khan Academy.  \nHowever, I've also been wondering whether my current method is really enough. I need an objective opinion."
+  },
+  {
+    "reddit_id": "t3_1wzzszi",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 2,
+    "created_at": "2026-10-07T15:39:28.000Z",
+    "sanitized_text": "Is there a way to add an additional parent to my daughter\u2019s Khan Account?\nMy Daughters mother wants to be able to track her progress as well, I\u2019ve looked & cannot find an answer if there\u2019s a way to add another parent so we both have access to the parent dashboard from our own devices. We\u2019re split & I don\u2019t feel comfortable giving her my Gmail login to access my Parent account."
+  },
+  {
+    "reddit_id": "pf1uzuo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Objective opinion is a bit of an oxymoron\u00a0\n\nIt's really up to if you feel you need to study more. The Khan Academy quizzes and tests are a good gauge to check your understanding of the material, and the articles and activities are a way to help practice the material more."
+  },
+  {
+    "reddit_id": "pgo1x1r",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Thanks for reply! I\u2019ll try using the quizzes and tests to check my understanding and decide whether I need more practice for now."
+  },
+  {
+    "reddit_id": "t3_1wdmfj0",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 2,
+    "created_at": "2026-09-11T17:15:47.000Z",
+    "sanitized_text": "Why doesn't Organic Chemistry Essentials Unit 4 have any videos or articles?\nI've been working on the [Organic Chemistry Essentials]([REDACTED_URL] course and the units were pretty ordinary, up until Unit 4. For some reason, the unit on oxidizing and reducing agents in Organic Chemistry is missing any videos or articles, only having 3 quizzes and a unit quiz. I tried to do the quizzes but they require information not present in any of the previous 3 units. Is there something I'm missing?"
+  },
+  {
+    "reddit_id": "t3_1wpi50m",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 3,
+    "created_at": "2026-09-25T00:25:03.000Z",
+    "sanitized_text": "Need help from Khan Academy users\nHi there! I am currently doing a project for a product management course. For an assignment due, we use doing user research on khan Academy - student tool. I would like to interview users about their experience using Khan Academy. It would be of immense help if you could help me on this by answering a few questions. Please add your response to each question in the comment section.\n\nQuestions -\n\nInformation  \nGrade Level  \nHow often do you Khan Academy?  \nWhat subjects do you study on Khan Academy?\n\nInterwiew questions-  \nTell me a little about how you currently use Khan Academy.  \nWhat do you typically use Khan Academy for?  \nWalk me through the last time you used Khan Academy.  \nHow do you keep track of things you want to come back to?  \nHow do you add personal context or notes to your coursework?  \nHow do you decide what you are going to work on?  \nTell me about the last time you got stuck while using Khan Academy.\n\nThank you!"
+  },
+  {
+    "reddit_id": "t3_1wp9pgt",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 1,
+    "created_at": "2026-09-24T18:33:54.000Z",
+    "sanitized_text": "Any tips for retaining what you've learned?\nI'm 26, still struggle my times tables, and I just started the 6th grade math and planning to work my way up to become a math god. So far, I've been doing clusters of lessons and stopping for the day when I finish a quiz, but I am realizing I haven't been retaining everything I've learned, so I think I need to change up my strategy a bit. I have a habit of moving on because I got the question right rather than trying to fully understand what I'm being taught.\n\nAny advice?"
+  },
+  {
+    "reddit_id": "pd5guk9",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "1.  12th grade\n    \n2.  5 days a week\n    \n3.  Right now I am taking: precalculus, high school biology, chemistry, physics, grammar, history, and medieval Europe + Byzantium.\n    \n4.  I basically use it as if it were a school, from Monday to Friday, around 3 or 4 hours a day.\n    \n5.  It is one of my main sources of study.\n    \n6.  The last time I used it was this morning, I was doing the grammar course.\n    \n7.  I write it down, or I save the page in Chrome's favorites/bookmarks bar.\n    \n8.  I didn't quite understand the question (I speak Spanish), but I guess you're referring to how I take notes: in a notebook.\n    \n9.  The only thing I have to decide is the subject I'm going to study at the moment, since the courses have a specific order in which to watch the videos and take the tests, I just follow it.\n    \n10.  I don't remember getting stuck recently, they usually explain everything quite well. But it was probably in the physics course, I'm not very good at it.\n     \n\nAnd finally, I would like to say that Khan Academy is an amazing learning website, I owe most of my knowledge to it."
+  },
+  {
+    "reddit_id": "per74ui",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Cycle back on some of the quizzes after a time has passed and you forgot a little bit. Every time you do that, you'll remember it for longer. Just repeat that cycle until it sticks indefinitely.  \nAlso you can try writing things from memory 5 minutes before every study session just to test yourself and fill in the gaps. Hope this helps!"
+  },
+  {
+    "reddit_id": "t3_1w9geoe",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 2,
+    "created_at": "2026-09-07T03:11:20.000Z",
+    "sanitized_text": "Error in Mcat study Chemistry section\n[2 methylpentane and 3 methylpentate have the same molecular weight yet here it says that they are different? ]([REDACTED_URL]"
+  },
+  {
+    "reddit_id": "p8a8x6i",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "that isnt even the first of the errors its just the first one that stood out to me"
+  },
+  {
+    "reddit_id": "t3_1w84vmz",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 1,
+    "created_at": "2026-09-05T16:12:07.000Z",
+    "sanitized_text": "Calculus 1 & 2 or College Calculus BC?\nI want to learn the complete calculus that Khan has to offer, but it has many courses that cover same topics. What path should I take?"
+  },
+  {
+    "reddit_id": "t3_q8i5bg",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 8,
+    "created_at": "2021-10-15T06:08:46.000Z",
+    "sanitized_text": "Does linear algebra course on khan academy cover all the laws and topics in linear algebra?\nI don't talk about the complicated and hard questions, I am talking about the laws and the topics to fully understand linear algebra not just the basics, I am studying 3d programing and wandering If Khan academy will cover all I need in linear algebra and calculus"
+  },
+  {
+    "reddit_id": "t3_t29xic",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 7,
+    "created_at": "2022-02-26T23:19:14.000Z",
+    "sanitized_text": "Is Khan academy a good resource for learning linear algebra at an introductory level?\nIf not, what would you recommend that could catch me up to elementary matrices and determinants? I have about two weeks to study for my mid term. Not starting at 0 knowledge, but feeling unprepared as my online university course is pretty... Unrefined and confusing.\n\nThanks in advance!"
+  },
+  {
+    "reddit_id": "hgpva34",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "If by laws you mean the \"main theorems\" that you'd expect to be covered in a linear algebra class, then yes. Khan Academy's linear algebra course is meant to be a helpful resource for linear algebra students, so it covers all the same topics that one would find in a college LA course."
+  },
+  {
+    "reddit_id": "hyl5wdy",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's ok for like the calculations but its pretty weak on the theoretical side of linear algebra. Your best bet would be your textbook, read carefully and do lots of problems."
+  },
+  {
+    "reddit_id": "hylbgpt",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I think using Khan Academy with a textbook is always great. Learning to read textbooks alone is a really difficult skill to get used to. Having something explained verbally while also being able to follow along with the textbook helps a lot. Khan Academy also doesn't provide many practice problems, while a textbook does."
+  },
+  {
+    "reddit_id": "hylcxdo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "depending on how theoretical your course is it might be enough (you will learn to do algebra with matrices and computing determinants)\n\n[[REDACTED_URL]\n\nthis is a really good suggestion, its the mit linear algebra course"
+  },
+  {
+    "reddit_id": "t3_1snuuhm",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 35,
+    "created_at": "2026-04-17T08:21:41.000Z",
+    "sanitized_text": "is khan academy good as an adult learner?\nI'm 20 and I'm trying to learn math again; I always hated it in high school and I figured I should learn it and try to do something with it, would any of you recommend Khan Academy for learning math as an adult?"
+  },
+  {
+    "reddit_id": "t3_1jbq4dk",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 183,
+    "created_at": "2025-03-15T07:51:22.000Z",
+    "sanitized_text": "Why does my math teacher hate Khan Academy?\nMy math teacher was always so strict, he teaches calculus and and he's been showing his distaste for Khan Academy on multiple occassions now. Is something wrong with using it? Is it still reliable in learning maths, or is he just against it because most students rely on it and not his lectures? I've been using his lectures and Khan Academy hand-in-hand; Am I doing something wrong?"
+  },
+  {
+    "reddit_id": "ogod9l5",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It helped me a lot and I\u2019ve done multiple courses there. Though I would recommend reading a [textbook](/search/?q=math+textbook+recommendations&cId=b430c672-631a-4a08-a361-c2a46b40c10f&iId=98610d63-4596-45cf-9187-8c3143a3656b) as well and doing more [practice problems](/search/?q=math+practice+problems&cId=bd2b0bd7-6d7c-423e-9831-f12aaa0130f5&iId=e9962e06-0a5f-4ccb-b8b5-a8c96db3d686) alongside khan academy."
+  },
+  {
+    "reddit_id": "ogq9r5r",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "How do find practice problems for specific types of problems? Khan academy moves on to the next thing too fast for me to remember an i have a few tests coming up so I want to practice the specific things on the test so im not super slow since its timed"
+  },
+  {
+    "reddit_id": "ogv4op0",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Do you have a textbook? I\u2019ve always gotten practice problems for whatever topic from the chapter that topic was introduced in. If not there are open source textbooks online, openstax.org for example. You can also find books on amazon that are just sets of practice problems, bookstores will often have them too. They usually come with solutions as well."
+  },
+  {
+    "reddit_id": "ogr79dd",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I like Khan Academy. I'm 72 and I take a section every night.....but then, right now I'm just finishing High School Physics and watching the videos in their Language Arts sections.\n\nBut, when I use Khan Academy, I have a big reference library and a bunch of tools right next to it on my phone, including my journals"
+  },
+  {
+    "reddit_id": "ogp5j63",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It\u2019s definitely possible. I have a funny story actually! Used KA from the age of 22-27. Went to college and ended up studying math. Then taught HS mathematics. By the time I was done with college, I was taking such advanced courses in [Calc Analysis](/search/?q=Khan+Academy+Calc+Analysis&cId=f8c39de7-890e-49d8-bcbb-44989b21d13f&iId=a571ce2f-6fb7-431e-a404-e6b8386bed98) , [Statistics](/search/?q=Khan+Academy+Statistics&cId=71f056a0-4726-477f-94ea-3dec4850252a&iId=76152bf1-2eed-4430-81c3-e3a068431930) , and [Abstract Algebra](/search/?q=Khan+Academy+Abstract+Algebra&cId=e79a4a61-ee91-44dc-849c-821b2581b862&iId=253babff-91c7-4be4-9708-3b28337d9bb8) that I had to leverage Khan Academy myself in order to remind me of some techniques in HS Algebra and Geometry. Or to find alternate explanations that textbook/school resources didn\u2019t supply.\n\nKhan Academy was a great help."
+  },
+  {
+    "reddit_id": "ogrevv8",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "cannot stand his videos -- he goes off on tangents too much\n\nI wish he'd just stay on point, focus and get on with it\n\nbut so many people love his videos and style of teaching\n\nI prefer the organic chemistry tutor\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\nand this site [[REDACTED_URL]\n\nthat site has no videos, but awesome explanations"
+  },
+  {
+    "reddit_id": "ogrizu6",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I really appreciate that last link! Simple, static websites are underrated for learning (and just in general)."
+  },
+  {
+    "reddit_id": "oh99kpq",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Same, I always feel like I'm weird since everyone else loves his videos. He wastes so much time just writing out the examples, changing colors, erasing stuff, umm-ing and ahh-ing it was just unbearable. Maybe his later videos have better editing but the Algebra ones I did were awful."
+  },
+  {
+    "reddit_id": "ogtdje1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Check out [Paul\u2019s Online Notes]([REDACTED_URL]"
+  },
+  {
+    "reddit_id": "ogovajq",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan Academy is a fantastic resource - kudos to everyone there. But be aware that it largely works through GCSE and A Level topics and it is essentially a collection of videos. So you might need help deciding which topics to look at, and some help figuring out the right path for you. So either having a private tutor, or at least, having some other self-learners to talk to, will be useful too. Good luck to you! Improving your maths skills is a great choice at any age (and you're still super young!)."
+  },
+  {
+    "reddit_id": "ogpvs6d",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "there is substantial amount of math lessons on YouTube up to college algebra level and beyond , its up to you to try them as each may have a different teaching style , also don't shy away from LLM's , they are great at explaining concepts (just don't let them try and solve problems as they may err)\n\nmy personal favorite is [Greenemath.com]([REDACTED_URL] and Professor Leonard channels both with extensive lessons on pretty much everything you need to know to succeed in Calc 1 and beyond.\n\njust start from the beginning and plough it through systematically , there are free textbooks too with practice problems if you need more."
+  },
+  {
+    "reddit_id": "ogqqfwf",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's good for practice and to hear concepts re-explained and demonstrated. It helps to have more than one resource though as well as to work things out on paper and not just on screen."
+  },
+  {
+    "reddit_id": "ogrhvsm",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's designed around k12 school standards. There's nothing wrong with it, but after high school, I think it makes more sense to reconsider what your goal for learning math is.\n\nAre you trying to learn enough to feel confident to go to college for a specific degree?\n\nDo you just want to know enough to feel confident doing financial stuff?\n\nDo you just want to know as much as the average person?\n\nWhat is your goal?"
+  },
+  {
+    "reddit_id": "ogt2ehh",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Lower eng\\\\d math , content on youtube isn't very good quality because it doesn't force people to learn more and make a higher quality video. The farther you go in math videos , the higher the quality is , the bare minimum is higher."
+  },
+  {
+    "reddit_id": "ogtvaac",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I like Khan Academy and did it for over a year but recently switched over to using AI to custom tailor math courses for me"
+  },
+  {
+    "reddit_id": "ogvpsbo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yes! I've been using it for a few years now, I started a degree last year and it's been super helpful."
+  },
+  {
+    "reddit_id": "mhwi3mm",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "[Organic Chemistry Tutor](/search/?q=Organic+Chemistry+Tutor+math&cId=e4a0a6ab-6d10-4bb2-9832-6d367086ffb0&iId=aee7e80f-f276-4503-a845-1ac3a510f53b) is pedagogically superior. (Don't be fooled by the name. He teaches much more than organic chemistry). Kahn always muddled things up and left me more confused than I was going in."
+  },
+  {
+    "reddit_id": "mhwl9t8",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Well, I find myself quite flexible in using learning materials, using Khan Academy for relearning topics after listening to lectures then if I don't understand a specific topic, I head to Organic ChemTutor. All my other classmates are primarily using him though."
+  },
+  {
+    "reddit_id": "mhwg9ux",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan academy covers a significant amount of content in each given topic, but like any source of information it sometimes glosses over some details. In my experience, Khan is really good for studying or reviewing content that you've interacted with before, but may not always be effective for learning new content if you only use Khan as a source of information."
+  },
+  {
+    "reddit_id": "mi0gkgx",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I feel like it's actually really good for learning and review, but this will never be enough to fully understand a concept. You need more resources like textbooks that throw hard curveballs at you that allow you to understand things better. I will say, it's amazing for [Calculus BC](/search/?q=Calculus+BC+resources&cId=a9bc6ec6-8ed9-4f4d-9650-29c5ef258e39&iId=3084b358-a498-46f8-a25f-e9383e8517a4) and below."
+  },
+  {
+    "reddit_id": "mhyz03r",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I feel this, but I think you could also use it the opposite way and get introductions to topics you are about to learn in a class, that way the information presented to you in class isn\u2019t completely new and it is easier to follow."
+  },
+  {
+    "reddit_id": "mhw1oyo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "The absolute first thing I learned while self-studying programming was that a single source of truth and learning material is sometimes not enough. This seems to apply to learning math as well. You are not doing anything wrong."
+  },
+  {
+    "reddit_id": "mhw2fiz",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Not sure but I have a buddy that teaches old people who never went to any school, who don\u2019t know how to read/write/do math. He almost exclusively uses khan academy for the early lessons because the videos are so easy for his students to understand"
+  },
+  {
+    "reddit_id": "mhwgaqf",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I wonder how old your math teacher is. I've been teaching about 25 years and was around for the rise of Khan Academy.\n\nI have had to overcome my original distaste for it. When it first came on the scene it was sort of pushed all over the place as this \"wow, we're gonna be able to totally replace math teachers!\" idea and it really turned me off from ever using it. We were constantly asked \"Are you using Khan Academy?\" \"Why aren't you using this???\" \"Have you heard of this?\" \"My child has finished all of math on Khan Academy and is a genius!\" all the time. It was a real buzz kill.\n\nA few years ago I ventured back to the site and recognized that it has become much better than it was and now encourage my struggling students to use it as much as possible."
+  },
+  {
+    "reddit_id": "mi3us8n",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'm headed back to school as an adult and needed to brush up on calculus that I lass really used in the late 90s. It is all a bit rust and dusty.\n\nKahn academy is pretty great for review, but it's really easy to learn how to solve the sample problems and not generalize the learning. To overcome that problem, I paired it with an old calculus textbook and worked on sample problems from both KA and the book.\n\nThe biggest problem with online courses is that it's easy to win the activity and get all the stars, without learning a damn thing. I saw this when I tried to use code academy with my younger students.\n\nUnless you are metacognitive, curious and critical about your own learning, it's crazy hard to make sure you learn exclusively from an online platform, or a book for that matter."
+  },
+  {
+    "reddit_id": "mhwb8z0",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan academy is one of the best sources for learning mathematics. Keep using it."
+  },
+  {
+    "reddit_id": "mhxz4lv",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I learned all my math from Khan Academy, now I'm preparing for college and still using KA.\n\nThere isn't a single platform as good as KA and free at the same time.\n\nUse it."
+  },
+  {
+    "reddit_id": "mi071s4",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "If he's your math teacher, he likely has a wealth more understanding of math than even a bachelors of mathematics requires. Seriously, the amount of nitty gritty you cover in just a bachelors of mathematics is crazy (and it still hardly covers the scope of all maths).\n\nHe is probably annoyed with how Khanacademy teaches you how to solve problems in a purely algorithmic function. If I said to you\n\n> Take the exponent and make it a coefficient of the variable. Then subtract one from the exponent. That is the derivative. You have found the derivative!\n\nAnybody worth their salt would look at my instruction and furiously mention how I have basically taught you nothing about the foundation or meaning or purpose of the derivative. It's just pointless steps to get an answer. Khan academy, in an attempt to be one of the most accessible and popular sources of learning out there, obviously takes these shortcuts. It's just ingrained into it.\n\nNow, I can't speak for what he's upset about, but this definitely is something I've seen CS grads get upset about. CS grads get really annoyed with self-taught programmers because, though this doesn't come up daily, CS grads went through a wealth of problem solving as a foundation of their degree that self-taught people might just skim over or memorize the answer for. The differences between the two show up and it takes someone that's gone through the gauntlet to see it and get aggrivated by the lack of depth.\n\nIn this day and age, memory is cheap as heck. Computational power is so excessive that we can afford to make mistakes and this is something people hate to see. Your professor probably feels the same way."
+  },
+  {
+    "reddit_id": "mhwqwd8",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Our head of dep. of Economics encouraged me to use Khan Academy if I'm having trouble with my maths courses.\n\nSo I dunno what your math teacher is up with. Maybe just personal taste."
+  },
+  {
+    "reddit_id": "mhxa2k3",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "A frustrating part about teaching is someone misunderstanding information. I'm sure it's been the case where the teacher has had to talk an incorrect notion out of someone's head and because of a bad YouTube video.\n\nAnother way of saying all this is to say, you should talk to your instructor if you're confused. That's what they are there for.\n\nYour teacher can't control what's on YouTube or Khan academy, they don't know where you're struggling it makes it harder to connect with the class and adapt or even know what the issues are."
+  },
+  {
+    "reddit_id": "mhxxt9y",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Fellow calculus teacher here.\u00a0 I don't hate it, but I get it.\u00a0 Even though I think Khan Academy and Organic Chemistry Tutor videos are well done and rarely have mistakes, I still can't recommend them.\n\nI get students asking allllll the time if I can recommend YouTube videos, especially if they're going to be away from school for a while.\u00a0 I never recommend anything and here's why.\n\nFirst, Khan Academy doesn't know what your curriculum is, and quite frankly, neither do you.\u00a0 Students usually don't know what it is they're actually supposed to learn, and therefore don't know how to choose what to watch.\u00a0 You missed our lesson on the chain rule.\u00a0 You know it's about derivatives.\u00a0 So you watch a video on derivatives and now you think you learned what you missed, but you don't actually know if you learned the intended skills and neither do I.\n\nSecond, even if you do watch the appropriate topic, you aren't seeing the appropriate difficulty level.\u00a0 Sure, you missed our lesson on the chain rule, so you watched a video and you learned how to differentiate y=sqrt(x2 + 1) and now you think you learned what you need to know.\u00a0 But I'm not going to ask you to differentiate a simple function like that, you're going to have to actually think on my tests.\u00a0 These videos typically only show you very straight forward problems.\n\nWhich brings us to our third point- these videos only show you how to perform a procedure. And therefore encourage you to memorize \"the steps\". They will never ask you to think, and they'll never be able to check in on your understanding.\n\nSo I guess I'd say there's a time and place for it, but watching videos on YouTube will only lead to an extremely shallow, surface level understanding of anything."
+  },
+  {
+    "reddit_id": "mhyap3g",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "This is a really helpful perspective for me to understand my teacher. I don't want to approach him to ask since honestly, he's the teacher that the majority of the students at my school are afraid of due to his past history with students (that I wouldn't specify) but I couldn't really blame him for having a temper since I know he needed to show a face like this for a really hard subject. But that's also the reason why I wish not to ask him about being against other online learning materials. Thank you for this."
+  },
+  {
+    "reddit_id": "mi0dlmi",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "What is wrong with learning things that are outside the curriculum? What alternative do you offer, just nothing?"
+  },
+  {
+    "reddit_id": "t3_1w4y4zh",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 1,
+    "created_at": "2026-09-02T02:54:30.000Z",
+    "sanitized_text": "10th Grader Transitioning To Khan Academy\nI'm (16M) currently in High School. I feel as if it would be better if I did online schooling instead,   \nI've already talked to my parents about it.\n\n  \nI'm finding it very difficult to find a good program for myself. My first look was at Acellus then.. Georgia Cyber Academy.. They didn't seem to have much going for them.\n\n  \nAt a glance, what I see people saying about Khan and how it works. It seems nearly perfect!\n\nI ask for any advice? What should I know about Khan.. what is it best/low at? How would I work on my transcript? Would I still be eligible for most universities/community colleges?\n\n  \nI appreciate any response! :\\]"
+  },
+  {
+    "reddit_id": "t3_m98ytx",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 142,
+    "created_at": "2021-03-20T15:12:53.000Z",
+    "sanitized_text": "Is Khan Academies' Linear Algebra good enough for economics students?\nThis doesn't look as detailed as it should be however is it good enough for economics?"
+  },
+  {
+    "reddit_id": "p7dmk6c",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I do hear a lot of homeschoolers use Khan Academy, but I know Sal Khan has even mentioned in his book is that his ideal pathway for learning is using online videos to learn the core material than asking questions to your teachers on what you're having trouble with"
+  },
+  {
+    "reddit_id": "pa3wavo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Great for when you get stuck, but not a replacement for a comprehensive course of study.\n\nI have heard of people having good luck with Excel (for high school)."
+  },
+  {
+    "reddit_id": "p7w5yaq",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Also consider getting a regular tutor. There is nothing like a human (that is not your parent) to check in on your understanding of the material."
+  },
+  {
+    "reddit_id": "pd5i8ta",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I have been doing homeschool since I was 9 years old, and all that time I have done it only with Khan Academy. It works quite well, but I do recommend complementing it with a private tutor to reinforce. I have only studied with Khan Academy, and I can say that I know pretty much what you'd expect for my grade level, but there are things that need reinforcing."
+  },
+  {
+    "reddit_id": "grmb350",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "You might try Prof. Gilbert Strang's [lectures]([REDACTED_URL] on MIT OpenCourseWare instead."
+  },
+  {
+    "reddit_id": "grml3eu",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "This is a good answer, that guy is an amazing prof"
+  },
+  {
+    "reddit_id": "gro4uj6",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yeah +1 for Strang. I do not like Khan Academies vids on linear algebra. Just took my final exam today, and man, Strang came in clutch. Worth the time if you really want to learn the concepts."
+  },
+  {
+    "reddit_id": "grogky9",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'm taking linear algebra right now as well but I'm bored to death with my online lectures. Strang's lectures make the material more palatable."
+  },
+  {
+    "reddit_id": "grm6ttm",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I think 3Blue1Brown's Linear Algebra [series]([REDACTED_URL] really made things more clear for and deserves recognition"
+  },
+  {
+    "reddit_id": "grman00",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "but you still need to drill the stuff. KA is reasonably good for that, except (AFAIK) their problem sets are all mostly of the same difficulty"
+  },
+  {
+    "reddit_id": "grnubck",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Everyone keeps recommending that and I've seen all the videos as well. In my opinion, that doesn't help one to necessarily do problems, it only helps build up the intuition. Maybe I'm biased to MITOCW because it worked in the past."
+  },
+  {
+    "reddit_id": "grmngny",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "> drill\n\nLast I checked KA LA had no example problems/quizzes/tests, unlike most of the other math modules. Has that changed?"
+  },
+  {
+    "reddit_id": "grm72iv",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "What concepts do you use in econometrics that you would consider advanced linear algebra"
+  },
+  {
+    "reddit_id": "grlyixa",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "if you don't think it's enough you could go through the \"Advanced Linear Algebra\" by Steven Roman after finishing Khan Academy's linear alg course"
+  },
+  {
+    "reddit_id": "grmj9bg",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Look up \"Become a Linear Algebra Master by Krista King\" on Udemy, it helped me for my linear algebra course during my time at uni."
+  },
+  {
+    "reddit_id": "lmw8jln",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I personally found Gilbert Strang's lectures to be useful yet his textbook was very confusing and the practice problems were even more so confusing. I suggest Linear Algebra with Applications as a textbook. Sal's videos offer a great practical approach and Grant(3Blue1Brown)'s offer a great conceptual understanding of what is happening.\n\nI would read from the textbook, watch Sal's pertaining videos, do practice problems and repeat per section. This worked well for me."
+  },
+  {
+    "reddit_id": "t3_4ydfhy",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 3,
+    "created_at": "2016-08-18T17:06:20.000Z",
+    "sanitized_text": "A skill (Algebra II: positive and negative intervals of polynomials) is stuck on \"needs practice\" -- I have completed it three times now.\n**EDIT:** Just after posting, I tried one more time, being the 4th or 5th time I have completed it, and now it went to \"practiced\"... What is the reason?\n\nAnyone else experience this? I can click \"remove\", but I'm not sure what that will do. I really want to 100% everything."
+  },
+  {
+    "reddit_id": "t3_xreizh",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 77,
+    "created_at": "2022-09-29T18:00:11.000Z",
+    "sanitized_text": "Best Linear Algebra material I've found so far\nThis is my own response to a question I've posted here: [Original purpose]([REDACTED_URL]\n\nWhat I was trying to ask in that post was simply some online material to **learn L.A as a mathematician (at least close).** Keeping it short, most materials on internet, which sometimes are reflection of our school system, are kind of Wikipedia-*ish.* I've tried all kind of standard materials like Gilbert Strang's, David Poole, Sheldon Axler and Sergei Treil, but I wasn't getting it quite right.\n\nSo, I wanted something like this: [Essence of Linear Algebra, by 3blue1Brown]([REDACTED_URL] which really showed the beauty of L.A; but I wanted something more complete. And I've found this amazing course: [Essence of Linear Algebra, by MathTheBeautiful]([REDACTED_URL] which keeps the qualities of 3B1B, showing the power of creativity, deduction, pattern recognition and etc etc. Both materials are very different from the standard School/College approach. I'm watching this for 2-3 months now, but I thought I should post this for people in same position as I was.\n\nP.S: I'm not them, nor I know them, nor I was paid."
+  },
+  {
+    "reddit_id": "t3_m05tgz",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 8,
+    "created_at": "2021-03-08T02:35:09.000Z",
+    "sanitized_text": "A month to finish High School Math\nHi,\n\nI'm new to Khan and I'm very interested in completing its high school math topics from algebra 1 all the way to linear algebra. Is it possible to complete all of Khan's high school math topics in just a month? Fyi, I just graduated high school last year and was a strong math student in high school. I personally think that I've learned all those topics when I was in high school but there's a lot of holes in my math skills now since it's been a long time since I did high school math.\n\nThanks!"
+  },
+  {
+    "reddit_id": "iqgc92c",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "why was axler not a good fit for you? i found it to be the best linear algebra resource i have come across anywhere"
+  },
+  {
+    "reddit_id": "iqi340i",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Sincerely, I'm not good at expressing myself to people. Most of the time people get me wrong. I'm not that good at social \"things\". Maybe someone else in future will see this post, and know what I'm trying to say. But maybe these materials (the standard ones) are better for people more interested into applications or **how** it works instead of **why** it works? idk\n\nBefore these coursers, I could perform matrix multiplication and calculate the determinant of 2-3D matrices. I could just do it without knowing why it works and how to come up with that. These courses make me feel like I'm discovering math and proving to myself, like the first mathematicians maybe. I find myself saying:\n\n-   So beautiful;\n    \n-   Of course! It's so logical and right there, how couldn't I see that?!\n    \n-   I could invent math in old times\n    \n\nLike in Computer Science now, we are used to work with abstraction over abstraction. So for me, these standard materials are like that. We are using abstraction to get the optimal results, but without looking deeper on **how** and **why** it works. Now we use transistors, python, DvD and etc etc. But these are the evolution of some base. And by studying this \"base\" (low level maybe), you'll get a much more profound knowledge (even if it is more time consuming)\n\nAnd after all this, I now find myself remembering less, but deducting more and more until I remember a formula, following so a **path of reasoning**. It's like I don't need anymore to remember F=ma, because I understand enough to **come up** with it after a moments of thinking."
+  },
+  {
+    "reddit_id": "iqjc2sl",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "FWIW math books are often in their problem sets as much, or even more so than in their main text (in fact, there are also wonderful problem books). You often won't get their beauty by reading them, but by working through them. I'm not implying anything about how you engaged with these linear algebra resources, just know that you could be judging fishes by their ability to fly."
+  },
+  {
+    "reddit_id": "iqgobxr",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Has Krista king made linear algebra videos?\n\nEdit: It looks like they are on her website behind a paywall. I may have to check them out"
+  },
+  {
+    "reddit_id": "iqgmoim",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Do YouTube courses include practice problems and tests?"
+  },
+  {
+    "reddit_id": "iqi460h",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yes, but because there's no teacher to give it to you, you also have to search it yourself. And the more I do at least, the more I get better. It's like learning programming too. You start searching for projects and solving, until you move to a next subject. If it helps, here's the websites:\n\n[MathTheBeautiful]([REDACTED_URL]\n\n[3Blue1Brown]([REDACTED_URL]\n\nBut this is internet. You're learning for free, but **YOU** need to do the work that your teachers would do for you. You're on your own. But there's pleasure on keeping a schedule and whatever"
+  },
+  {
+    "reddit_id": "k3eio85",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Just going through the video course by 3blue2Brown and it's really a blast. I plan on following up with MathTheBeautiful. Thanks for the recommendation!"
+  },
+  {
+    "reddit_id": "iqjgx2w",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I didn't quite understand your point. Am I treating the books wrongly?"
+  },
+  {
+    "reddit_id": "d6ph47u",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I don't know if we're having the same issue but there's a bug that has grown exponentially more annoying over the last 2 weeks. It used to appear once in twenty exercises but now he appears 3 out of 5 times!\n\nIt basically does not change status from Needs Practice to Practice and after leaving the excercise page and then coming back> changes the status of my last exersize from \"tick\" to \"X\"\n\nHere's what I am talking about [[REDACTED_URL] I finished the exercise but status does not change\n\nAnd now I am basically forced to do twice as many exercises to have the same result. Infuriating"
+  },
+  {
+    "reddit_id": "gq6507z",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Maybe if you were to spend 10 hours a day. It takes around 2 months on average to complete 1 course. It\u2019s highly improbable you\u2019re going to go from algebra 1 to linear algebra in a month. Why a month tho? You will barely remember anything. You\u2019ll not be proficient in any of the topics. Just go slow bro. I know you have that hunger to consume everything on KA and that\u2019s good. Now use it the right way, build a routine and do not rush"
+  },
+  {
+    "reddit_id": "gq6heif",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Will it also be improbable if I'm actually just reviewing the topics? As I've written, I've actually learned all of the topics in high school. I just wanted to review them because it's been a year since I did high school math. I'm also gonna be studying econ in college in a month's time and since the econ in my university is said to be highly quantitative I wanted to get my math skills sharp again."
+  },
+  {
+    "reddit_id": "gq656iq",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "For example, I\u2019ve spent 3 hours a day in the span of a month and a half, doing Algebra 2, in only half way done but I\u2019ve retained almost all the knowledge from the topics"
+  },
+  {
+    "reddit_id": "gq6hno7",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "If by review you mean just watching the videos then idk, you may be able to complete them within 1-2 months but you won\u2019t achieve mastery in the courses because practice questions, quizzes and unit tests make up a significant portion of the points system. Also you learned linear algebra in HS??"
+  },
+  {
+    "reddit_id": "gq9fn6y",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I think you could complete a course in 2-4 weeks if you\u2019re dedicated. I spent a lot a month on precalc and 3 weeks on calc and that was quite a few hours a day. Algebra 2 is a lot of content but should also be doable in a month. The courses after calc start having less content on khan but if your foundation isn\u2019t good you\u2019ll run into trouble. The only way to do everything in a month is to be an actual genius or already know all the content and just blast through the exercises. You can\u2019t learn that much in so little time. But don\u2019t let that discourage you. Start now and in 3-6 months you\u2019ll be in good shape."
+  },
+  {
+    "reddit_id": "gq6k6hg",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yess! I live outside of the US and STEM high schools here teach linear algebra in advanced math classes.\n\nThank you for your answer though.. appreciate it."
+  },
+  {
+    "reddit_id": "t3_1m6cuen",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 14,
+    "created_at": "2025-07-22T12:32:38.000Z",
+    "sanitized_text": "Catching up on Maths as a 14 year old\nI am currently 14 years old, and have been homeschooled my whole life. \nI have had pretty bad math education up until this year, and have been using Khan Academy as a main resource to catch up.\nWhen I started using it, I began at 5th grade, and so far I am up to 7th grade in math, but I have a few questions.\n\nAfter 8th grade, what order should I do of the math courses?\n\nWhat course do I generally need to catch up to, considering my age?\n\nAre there any other good math programs I can use as well as Khan Academy?\n\nHow long does it take to complete all the courses?\n\nHow much math education should I do daily? (I\u2019ve been doing about 2 hours daily currently)"
+  },
+  {
+    "reddit_id": "n4iqnga",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "The page that shows all their math courses are laid out how you typically see it organized in many US K-12 schools.\n\n[[REDACTED_URL]\n\nWhen I was in highschool, the pathway was: Algebra I, Geometry, Algebra II\n\nThen you were able to pick a course based on your preference. It was a choice of Statistics, Algebra III (Which I presume is the integrated math courses on Khan Academy), or precalc.\n\nI picked precalc as my pathway because the major I was pursuing (computer science) often required calculus I and II to graduate.\n\n14 - 15 is typically freshman year for US students, so they would likely be in Algebra I. If you were in the advanced courses you would have likely taken Algebra I before highschool. At my school, there was an option to take Geometry, or Geometry and Algebra II. The latter was an accelerated course where they did the entire year of Geometry in a semester. Then the whole of Algebra II was done in the next semester.\n\nThe courses' pacing are going to be based on your comfort level. I think, generally, each math course is set up to take 40 hours to complete. I would advise not really trying to complete it with that timeframe as a benchmark, moreso just go at what pace you're comfortable with.\n\nHow much math you do is typically up to you. Schools usually teach them 1 hour a day\u00a0 every day, but they admittedly go at a slower pace than Khan Academy. Most school years will be about 36 weeks, with at least 4-5 hours a week spent on a single course.\n\nSo you are easily looking up to 100 hours spent practicing any one of the math courses at a school. That is about 2-3 times the length of the Khan Academy course. For college level math, it's definitely at a much more accelerated level as they're expecting you to do more of the practice\u00a0outside class time.\u00a0\n\nEdit: I also don't really use any math resources outside of Khan Academy and YouTube videos (I am also someone who has taken math to at least Calculus II so right now I'm doing courses that are more of a review of the material), but I do see that [r/learnmath](/r/learnmath/) has a resources section on their about page\n\n[[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "n4kjhut",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Small correction: The integrated math courses are the Algebra 1 Geomatry Algebra 2 and highschool statistics courses intertwined. So you have a few units of algebra, then a few units of geometry and then a few units of statistics and so on until you are done with the three courses. Once you are done with them you would have done the equivalent of taking those courses the traditional American way"
+  },
+  {
+    "reddit_id": "n56gbxv",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yes, doing the Khan academy courses daily. But you're 13 so it might take you longer since you haven't been exposed to certain math. I would start with Kindergarten, then 1st grade, 2nd grade, etc and move your way up.\n\n[[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "n88kd83",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Check out their state standards mapping site: [[REDACTED_URL]\n\nThis will help you understand exactly what skills the students in public schools in your state are working on."
+  },
+  {
+    "reddit_id": "nb8eklz",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "arithmetic, algebra, geometry, and alg 2 and calc to get you on par with the average person math wise (academically of course)"
+  },
+  {
+    "reddit_id": "n5oiyf9",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I actually am reading Sal Khan(the founder of Khan Academy)'s book.\u00a0\n\nHe is a believer that being exposed to the material--online-- before being introduced to it in the classroom setting is more impactful in learning the material.\n\nDoing this method allows you to identify areas you might find it more difficult to understand so when you are with a teacher you can focus more on working with them on that material."
+  },
+  {
+    "reddit_id": "t3_474lxf",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 6,
+    "created_at": "2016-02-23T03:02:35.000Z",
+    "sanitized_text": "Stuck on Algebra Basics\nHello,\n\nTo brush up on my math before possibly going back to college I have completed the Early Math, Arithmetic and Pre-Algebra courses. It seemed to me that the Algebra Basics course would be the logical next step.\n\nThe first chapter is called foundations, and seems to be stuff I mostly already know. Going through it anyway, I'm stuck on the \"[Simplify numerical radical expressions with multiple terms]([REDACTED_URL] exercises. \n\nThe videos in the [chapter]([REDACTED_URL] don't seem to cover the material in these exercises. The video linked inside the exercise helps a bit but not with all the problems, it is also a [video from the Algebra 1 course]([REDACTED_URL] \n\nAm I missing something here? It assumes I know (a+b).(a-b) and stuff but none of the videos I have watched actually covered this. I'm learning by showing the hints but it feels more advanced than it should be at this point. (The 'Foundations' chapter of 'Algebra Basics')\n\nI guess I could skip over it but I wanted to go through all the videos/exercises in order from here on out. \n\nWhat to do? Skip? Is there a video that explains the exercises better? Any help greatly appreciated."
+  },
+  {
+    "reddit_id": "t3_iqn3pg",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 6,
+    "created_at": "2020-09-11T09:11:41.000Z",
+    "sanitized_text": "How long would it take me to finish the math high school courses?\nI am pretty good at math, I've just been slacking lately especially because of online school, I'm doing my IGCSE's this year and I want to use Khan Academy to supplement my learning. Could I finish the Highschool courses in 1 year at the most, spending between 30mins - 4hrs per day, depending on how much time I have?\n\nThanks.\n\n\u200b\n\nThe math courses for high school:\n\nalgebra 1\n\ngeometry\n\nalgebra 2\n\ntrigonometry\n\nprecalculus\n\nstatistics and probability\n\nmultivariable calculus\n\ndifferential equations\n\nlinear algebra"
+  },
+  {
+    "reddit_id": "d0afrfo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Well I suggest to take your time and research what you can't find on KA elsewhere. \\[Polynomial identities\\] ([[REDACTED_URL] for example or whatever in the exercices aren't covered.\n\nGood luck, hope you enjoy Algebra and Trig before going to Pre-Calc!"
+  },
+  {
+    "reddit_id": "d0aft9f",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "That's the goal! Thank you for the extra resource, that's always a good thing. I ended up skipping past the Foundation part and stuff got really easy again. I think the order is a little whacky and that's where I got stuck."
+  },
+  {
+    "reddit_id": "d0b1eus",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "The algebra basics course is weird. All of the content is also in other courses. However, it seems to be missing a lot of the videos and progressing skills from the equivalent topics in algebra 1. I got stuck on some things just like you did, but then I skipped ahead to algebra 1 and had no problems."
+  },
+  {
+    "reddit_id": "d0b1klx",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I will take a look at algebra 1 then, or at least not get too hung up when exercises take a weird turn."
+  },
+  {
+    "reddit_id": "d0gjl3j",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "If you click on the \"featured concepts\" link, it will send you to a list of all related pages. I believe this would be helpful in your current situation, since \"Simplify numerical radical expressions with multiple terms\" is basically a review topic of all operations with radicals (square roots). Here is the link to all \"simplifying radicals\" topics: [[REDACTED_URL]\n\nIf you would like any additional help, I am a Khan Academy coach, so you can either PM me here, or add the class code 9VTTDK (all topics) on Khan Academy to add me as a coach."
+  },
+  {
+    "reddit_id": "d0gl64e",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Useful tip, although that list you linked is scary long. Will definitely use this function next time I get stuck on something though!"
+  },
+  {
+    "reddit_id": "d0gledo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "yeah, it gives you ALL related topics, which can be overwhelming, but is helpful if you're looking for something specific. :)"
+  },
+  {
+    "reddit_id": "d0eoaap",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Another point. The videos are limited. They don't teach mastery. They introduce a general concept and work through a few problems.\n\nHowever, when you being doing problems yourself, you find that there are many types of problems with different permutations that were not covered in the video. So then you have to read the details of Hints and/or explore other sources. There's a lot of math hidden in a particular skill that one video cannot capture. \"Stuck? Watch a Video\" is a huge exaggeration. In short, videos mark the beginning of a skill."
+  },
+  {
+    "reddit_id": "d0etsop",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "That makes me feel a bit better. Starting with Early Math got me used to being showered in those sweet energy points and things are definitely starting to slow down now that I'm -you know- actually *learning* something."
+  },
+  {
+    "reddit_id": "d0enr9q",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Same problem here. The KA materials are insufficient to understand simplifying radicals. Not only that, but I have downloaded many YT videos on same. Generally they do a poor job of explaining steps. They show steps but do not explain them. I found a little help with Math with Moon, who used prime factorization. But it was not enough. Don't let the word \"basic\" in \"Basic Algebra\" fool you. I have been working through the section on slope for a few weeks. It is slow progress. I also started with Early Math. KA teaches by human guided machines. There is no substitute for a human and skilled math teacher/tutor. I intend to progress but skip the skills, such as the above, and postpone them as much as I can. I will reserves these for a tutor. Or until I have more ability. My Pre-Algebra was stuck at 97% for a long time. I finally, when back and managed to bring that to 100%. I find some skills in Algebra 1 to be easier than \"Basic\" and visa-versa. I sometimes question how these skills are parcelled out."
+  },
+  {
+    "reddit_id": "g4tewde",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "*Probably* but I\u2019d warn you against rushing in or having some dead set goal. What\u2019s the rush?\n\nI\u2019ll be honest, like 95% of people who set these goals to not complete them. So I\u2019d go at your own pace, maybe setting aside and hour a day to go on khan academy, with some extra time to just make practice problems for yourself and all. You could probably complete them in a year or two."
+  },
+  {
+    "reddit_id": "g4u9t2o",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yea that's a valid point of view, I'm not necessarily in a rush per se but I would like to get a good amount of the courses done before my IGCSEs, considering that Khan Academy does not follow the IGCSE curriculum it shouldn't be a problem if I don't finish in time, as I have other resources (more suited for IGCSEs) and I am just using Khan academy to get better at math in general and to supplement my IGCSE studies.\n\nThank you for your response, it was very helpful"
+  },
+  {
+    "reddit_id": "g4tn5ew",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Not sure, I'm doing my IGCSE's currently, but either way, I plan to do something math-related for my major and so I will probably end up needing calc"
+  },
+  {
+    "reddit_id": "g55qteb",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'm taking my time. Started with geometry, went back to do pre-algebra and brush up on my arithmetics.\n\nI'm not 100% on whether I'm doing things correctly, with all the grade school material skipped. I'm thinking I must have missed some good foundational stuff, as when I got going with pre-algebra and geometry I'd hit the occasional question on a quiz that asks for fractions - and that wasn't part of the build up to the quiz in the videos or the rest of the course.\n\nSo I'm starting arithmetic and trying to get through the skills to get back to where I wanted to be.\n\nOverall great stuff. That's my current plan - no coach yet, sadly, as I think I'm ready to get one."
+  },
+  {
+    "reddit_id": "t3_6qsr87",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 32,
+    "created_at": "2017-08-01T00:42:50.000Z",
+    "sanitized_text": "How long would it take me to complete entire calculus section?\nI need to ace my calculus class , I am wondering how long did it take you if you completed it so i can see how long the average person takes , i have a test in two days and will study all the material covered on the test starting in a few minutes... How long do you think it would take me to complete it if I practice 5 hours per day in Khan Academy? besides my regular hw and lecture everyday.."
+  },
+  {
+    "reddit_id": "dl45whi",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Work hard, don't waste time, and remember to use other resources when stuck. (I recommend Paul's Online Math Notes \\[[1]([REDACTED_URL] as a supplement to all the information on Khan Academy)"
+  },
+  {
+    "reddit_id": "dl0xkhe",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I've been doing Khan Academy/World of Math all summer to prepare for my college Calculus class. After Algebra I each subject took me about 3-4 weeks to complete (and that's working about 5 hours a day). So I would say about a month give or take if you are aiming for watching all the videos AND doing 100% mastery for each section."
+  },
+  {
+    "reddit_id": "oa5eky5",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Personally it took me less than 2 days to learn basic derivatives ie: Derivative Rules, Taylor Series, Partial Derivatives, Second and above derivatives, limits, and infinity. About 1~2 hours a day. Its not really as hard as people say it is as long as you know Trigonometry and some basic pre-calculus which you would know sophomore year if you are in advanced pathway, you can do it within a week and have a solid foundation to do basic derivatives. Same for integrals but be careful because I went into it thinking it would be the same as derivatives and it was its just that notation can make memorization and internalization of things like substitution method and fourier series difficult. So make sure you take integrals more slow take like a week but for derivatives alone you can breeze on through."
+  },
+  {
+    "reddit_id": "dl8m38m",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yes Thanks for the comment. its the first calculus college course and Im trying to learn as much as I can because I already decided im not dropping it and I will do all I can to pass it. yeah im a computer science major and I love it! I also like math even though im not very good at it, its very interesting to me. Also, I hope not that mnay people drop the class because you are right, they avaerage grade is going up after the withdrawal deadline :/"
+  },
+  {
+    "reddit_id": "drwbwec",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'm also a computer science major and I just started Kahn calculus tonight. Did you finish the AB portion, and how long did it take you if so?\n\nI just want to learn enough to pass the AB Clepp test."
+  },
+  {
+    "reddit_id": "dmu79vq",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "In addition to this\n\nYoutube has some great sources\n\n[Calc Expert / Krista King]([REDACTED_URL]\n\n[MathBFF]([REDACTED_URL]\n\n[PatrickJMT]([REDACTED_URL]\n\nThen if you want full lectures in a class setting, this was great [Professor Leonard]([REDACTED_URL]"
+  },
+  {
+    "reddit_id": "drwo520",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I didnt finish it so I cant answer your question,sorry."
+  },
+  {
+    "reddit_id": "t3_fs8bbg",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 248,
+    "created_at": "2020-03-31T07:06:33.000Z",
+    "sanitized_text": "Is khan academy a good place to learn linear algebra?\nI'm trying to self learn linear algebra, and I'm wondering if khan academy is the best way to due this. Does it go over everything a regular linear algebra course goes over?\n\n\n\n\n\nEdit: thanks for all the responses and advice guys!"
+  },
+  {
+    "reddit_id": "fm02osu",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "If you want a very deep understanding, I would recommend Gilbert Strang's Linear Algebra course on Youtube. Its the best out there. If you want to learn linear algebra for application purposes and want to a have a more demonstrative approach, Khan Academy is also a very very good option."
+  },
+  {
+    "reddit_id": "fm11dmu",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Heads up op, Gilbert strangs course is intended for engineers not pure math enthusiasts"
+  },
+  {
+    "reddit_id": "fm0hj7l",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I second this .i use khan academy a lot and its what got me interested in math. Sal is great at explaining things but his videos on linear algebra are a bit lacking. I started linear algebra on KA but quit midway because the content and pacing was not quite what you'd expect for beginners. Now im using strang's book instead and plan on going through Axler's book once im done with this one i suggest you do the same. P.S 3blue1brown's linear algebra series is pretty good for getting the basic concepts down."
+  },
+  {
+    "reddit_id": "fm0jq4p",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Strang's course has no prerequisites except for basic algebra. Also the guy even at this age is really upbeat and pours his heart into explaining tiniest of things."
+  },
+  {
+    "reddit_id": "fm00p6q",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "3brown1blue has a lot of fans on here, particularly their linear algebra videos."
+  },
+  {
+    "reddit_id": "fm02l77",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Definitely not. Don't use video's as your primary resource. Khan academy and 3blue1brown are very good supplementary resources. They should never be used by themselves. You need an actual linear algebra book to go through too.  \nFurthermore, if you want to learn more mathematical linear algebra (vector spaces, subspaces, etc.) then khan academy is completely insufficient."
+  },
+  {
+    "reddit_id": "fm15rnw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "> Furthermore, if you want to learn more mathematical linear algebra (vector spaces, subspaces, etc.) then khan academy is completely insufficient.\n\nWhat is *non-mathematical* linear algebra? Serious question because I don\u2019t really follow your claim."
+  },
+  {
+    "reddit_id": "fm1745h",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It seems to me that his claim is vector spaces and subspaces are *more mathematical* than other elements of linear algebra that are encountered in Khan Academy. This does not mean that he is claiming there is such a thing as *non-mathematical* linear algebra.\n\nSome clarity on what it means to be more or less mathematical might help."
+  },
+  {
+    "reddit_id": "fm0pkmz",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Watch all of the 3Blue1Brown videos first then start Gilbert Strang\u2019s linear algebra course on MITOCW. Strang\u2019s book is great to follow along with the course and doing the readings. Use khan academy as a back up resource to try if something isn\u2019t quite clicking.\n\nAlso for another book look at Linear Algebra Done Right. A lot of big name schools use it as their text book for a rigorous class in LA. It has an associated website and everything. It\u2019s ordered a bit differently, with determinants at the end because a lot of mathematicians seem to feel strongly about them. But it\u2019s a great read\n\nStrang\u2019s course doesn\u2019t have a lot of rigorous proof but he leads you along enough for you to get the right intuition and make some proofs yourself. His book has more proofs than his corresponding course."
+  },
+  {
+    "reddit_id": "fm1jm7x",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "No. It's unrigorous and I doubt there are theoretical exercises. The best book is by Friedberg Insel Spence: [[REDACTED_URL]\n\nThe link above is missing at least the chapter on Jordan forms. The full 4th edition can be found on libgen.\n\nAxler's book is good, but it doesn't cover as much, and it barely covers matrices. For example, it doesn't cover the Gaussian elimination."
+  },
+  {
+    "reddit_id": "fm05ayw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Have look at this : [[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "fm0u30i",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I would recommend Linear Algebra by Klaus Janich. It's not very well known because it's mostly used in Germany, I believe. However, it's certainly a good introduction to the subject that makes you think. Also, I think he's a funny and memey writer, which fits my style quite a bit. Hopefully, it'll fit yours.\n\nI generally think of videos as an additional source of insight for a given subject. They're there to give you a sense of how the subject is done from another person's viewpoint. From there, you can construct your own style and use that when solving different problems. So, don't use Khan Academy as your main resource."
+  },
+  {
+    "reddit_id": "fm0fie5",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'd recommend Linear Algebra and It's Applications by Lay"
+  },
+  {
+    "reddit_id": "fm1bhc0",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It\u2019s not a good place to learn linear algebra. Go to OCW."
+  },
+  {
+    "reddit_id": "luay6zh",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I usually never recommend my students Khan academy. It shows that he is not a real mathematicians. Some of his explanations might be \"easier than classical text book\", but this sometimes comes with the cost of not being really precise/correct.\n\nFor non-mathematicians it might be a good source, but for math students a course taught by a real mathematicisn (eg. 3blue1brown has a real math background) might be better."
+  },
+  {
+    "reddit_id": "t3_7ek5zv",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 3,
+    "created_at": "2017-11-21T18:54:16.000Z",
+    "sanitized_text": "[Khan Academy] Interpreting Linear Functions\nEquation: C=0.25(L-1200)\n\nThe cost, C, in dollars, to the holder of a liability insurance account given a total liability of L dollars is given by the equation above as long as C is positive. By how many dollars does the liability increase when the cost to the holder increases by 1 dollar?\n\nI have no clue how to solve for this whatsoever. I got stuck on this problem while working Khan Academy on their SAT section. My intuition says that the answer is 0.25 because that is the slope, but Khan Academy says 4 and the explanation that they provided was terrible. Any explanations would be greatly appreciated in an avid, young and precise learner like myself.\n\nP.S. - There is a new rebellious faction growing out of the Imperialistic Federation called Hillsong."
+  },
+  {
+    "reddit_id": "t3_1tokdet",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 10,
+    "created_at": "2026-05-26T21:10:07.000Z",
+    "sanitized_text": "Linear Algebra Resources?\nI (20F) am a math major and have just started a linear algebra course and DESPERATELY need resources. I tend to have trouble understanding abstract theory and much prefer to learn by example/visual. Unfortunately it looks like my entire course will be proof based. I have already watched 3blue1brown's series, but it is much more introductory than what I am doing. Does anyone have any resources?? I tried office hours.\n\nHere is an example problem: Let the projective space of dimension (P) be the space of all polynomials over R of degree at most n. Show that the subset S = {g in P\\_n : f' + 4f = g for some f in P is a subspace of P\\_n of dimension n + 1."
+  },
+  {
+    "reddit_id": "dq5jl9h",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "A good way to start this kind of problem is to feed in values for L and see how it contributes to C. We will start with 10, because I like it. Along the way lets simplify.\n\nC = 0.25L - 300\n\nC+??? = 0.25(L+10) - 300 = 0.25L + 2.5 - 300 = 0.25L - 300 + 2.5 = C+2.5\n\nSince you already have the answer, 4, lets try that as well and see why it works.\n\nC = 0.25L - 300\n\nC+??? = 0.25(L+4) - 300 = 0.25L + 1 - 300 = 0.25L - 300 + 1 = C+1\n\nFrom these two examples, and your initial intuition of using the slope, we can see that the value reduces by 1/4.\n\nWe can officially solve this type of problem using a variable, if you are into that sort of thing.\n\nC+Y = 0.25(L + X) - 300 = 0.25L + 0.25X - 300 = 0.25L - 300 + 0.25X = C + 0.25X\n\nY = 0.25X\n\n1 = 0.25(4)"
+  },
+  {
+    "reddit_id": "dq6skvs",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "You deserve to be gilded for this explanation."
+  },
+  {
+    "reddit_id": "oo2g3js",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Looks like a 2nd course. That is usually when the aim is to stop you from relying on the intuitive\n\n\u00a0it's mostly unpacking defintions.\n\n1.  Do you know what the [projective space of polynomials](/search/?q=linear+algebra+projective+space+of+polynomials&cId=6638f333-f788-4298-a6fd-01c38edf1837&iId=c6e08259-b691-4628-95b5-d6209dfb4a46) of degree no more than nare. Can you write down what it means exactly if n is say 2 or 1.\n    \n2.  Do you know how to prove something is a [subspace](/search/?q=linear+algebra+subspace+proof&cId=61094158-1ffa-45fe-87d8-db0e0dc879e0&iId=e034b49a-1c00-4bd6-a2ec-13870dbf8f25) ? Hopefully you know you have to prove that [linear combinations](/search/?q=linear+algebra+linear+combinations&cId=f9d9afed-8bc7-41b8-871a-a1b34d320247&iId=793b825b-519a-4634-b554-e4548b6112ac) are closed.\n    \n3.  It looks almost trivial except you have this projective space complication,\u00a0 which requires you to show that things work if you take different representatives of the [equivalence classes](/search/?q=linear+algebra+equivalence+classes&cId=ccec3336-cb98-4b29-a5d1-79fbae4fc703&iId=b8fa5fc9-4169-43fa-9123-27220ce9ced6) . What does it mean in this situation? Hopefully you identify it means any operations involved needs to commute with [scalar multiplation](/search/?q=linear+algebra+scalar+multiplication&cId=c5f3c4e5-de13-4f8a-ab1a-05ca5486d280&iId=20e4b3be-0477-4b03-8281-ef4329a18890)\n    \n\nStitch everything back and you are done."
+  },
+  {
+    "reddit_id": "oo58vjs",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Idk what Major means in this context because i'm Not American, but i'm in my second Semester of university and the only \"visual\" stuff is Analysis Prof making very crude drawings that Generally approximate what we're trying to calculate (Like just showing generally what an integral in two dimensions is and what the equivalent would be in three dimensions). especially linear Algebra wouldnt make much Sense to do heavily reliant on visuals because how are you gonna Draw an n-dimensional vector? Better get used to Not having visuals"
+  },
+  {
+    "reddit_id": "oo2btjm",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "David Lay's *Linear Algebra and Its Applications* was my introduction. But you also need to know how to handle proofs. The idea is to start with the definition and the object and think about what you need to show.\n\nAt the risk of self-promotion, I can offer tutoring online for linear algebra. Send me a message and we can talk."
+  },
+  {
+    "reddit_id": "oo56u42",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "> Unfortunately it looks like my entire course will be proof based.\n\nJust a word of \"warning\" (if you want to see it as such): this will quite likely be virtually all courses going forward. In [Terence Tao's words]([REDACTED_URL] you're now moving into \"stage 2\" of your maths education where the emphasis is largely on learning to work \"in the abstract\" so that you can actually build up solid intuitions that hold true and don't lead you astray.\n\nThat said: I don't really think that there even exists any book that does what you want and covers these sorts of things in a super visual way.\n\nChances are that part of the idea behind that exercise really is to familiarize yourself with the more abstract setting (for example because polynomials at first seem rather different than \\\\Rn, and also because the space P in your example actually is infinite dimensional \\[even though you can and should work around that in this exercise\\]).\n\nRegarding how so approach this specific problem: just forget the word projective here. It shouldn't be there. Then think about what properties (in particular: invariants) the expression f' + 4f has and what this means for your set S. Try to identify what sort of objet S is \"structurally\" (that makes it into a subspace without any need for manual verification).\n\nOnce you have done that setup the result will follow immediately from one of the major theorems of linear algebra.\n\nFWIW you *can* also choose coordinates for P\\_n and work with those (which is perhaps easier to intuit), however, imo, this really obscures what is happening here. It turns the abstract structural argument into a messy calculation.\n\nGenerally for such problems: linear algebra is about *linear* maps and spaces, so always try to first nail down the spaces you're dealing with, see if they are related by linear maps and if so in what way. Try to determine what you can say about those maps / their associated spaces (domains, images, kernel, cokernels)."
+  },
+  {
+    "reddit_id": "p98w6el",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "What do you mean unfortunately? It's how pure math is, dude, it's proofs"
+  },
+  {
+    "reddit_id": "oo4thea",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Sometimes for abstract things like this, it may help to put some real numbers in there and work it out. Look at a polynomial of n=2. So now n+1 =3. See what\u2019s going on by making an example, then try and expand that to a general proof?"
+  },
+  {
+    "reddit_id": "oo1s2dd",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "1.  Linear Algebra Done Right by Sheldon Axler\n    \n2.  Linear Algebra and Its Applications by Gilbert Strang"
+  },
+  {
+    "reddit_id": "oo40tzw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Doesn't ur professor do examples in class? A question like the one you provided is a pretty elementary one that i feel like should be easy if u know the techniques"
+  },
+  {
+    "reddit_id": "oo4ot2f",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "What a helpful comment, that answers OPs question so fittingly..."
+  },
+  {
+    "reddit_id": "t3_1tn2e8k",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 18,
+    "created_at": "2026-05-25T08:00:36.000Z",
+    "sanitized_text": "Has anyone had success with Khan academy?\nSorry if this question has been done to death.   \nI\u2019m in my late 20s and I have about a middle school understanding of math. I really want to start filling the gaps in my education and I\u2019m looking to get up to speed in math. I\u2019m thinking about working my way through Khans arithmetic, geometry, pre algebra and algebra courses. Has that worked for anyone who got a sub standard education?\n\nI went to my districts \u2018alternative school\u2019 it was more of a warehouse than a school. I basically didn\u2019t get a high school education."
+  },
+  {
+    "reddit_id": "t3_jdw1m1",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 7,
+    "created_at": "2020-10-19T05:42:58.000Z",
+    "sanitized_text": "Relearning maths from ground up\nHey peeps, I was at 6 schools and basically holes started opening up at grade 4 when I first started moving around (3 countries)... \n\nHow long do you think it would take to learn maths from grade 4 to finish highschool maths?\n\n8 years after leaving highschool and always half assing maths I can't get into uni with my incomplete maths they just won't accept my pitiful entrance examination attempts regardless if I want to study biology or sociology or whatever so I'm biting the bullet and relearning maths. \n\nYesterday I finished grade 3 and I'm 20%into grade 4 with some algebra on the side.\n\nI'm breaking it up into easy maths and harder conceptual stuff like trigonometry that largely relies on its own construct and rules so I can always keep making progress in patching my weaknesses... And yes grade 4 sounds low but I'm getting through it quickly and patching up fundamental misconceptions that SAL irons out like newspapers for the bossman on a Monday morning.\n\nPs\n\nThank you Sal, I'll donate when I'm not unemployed thanks to you."
+  },
+  {
+    "reddit_id": "t3_18f6exd",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 11,
+    "created_at": "2023-12-10T15:49:42.000Z",
+    "sanitized_text": "Is Greenemath better than Khan Academy?\nThis is my first post in the subreddit, so I'm sorry if the post isn't good or something.  \nI was searching for ways to learn math from scratch, even though I know some concepts up to Algebra 2, to refresh my knowledge again. Most people recommended Professor Leonard, Khan Academy, Greenemath, and The Organic Chemistry Tutor. I learned stuff like logarithms from The OC Tutor, but there isn't a way to learn math from scratch from him since his playlists are pretty weird and unorganized. Professor Leonard's playlists seem way too long. I liked Greenemath because all the basic concepts, Pre-Algebra, Algebra 1, Algebra 2, and College Algebra, were each available in one video. People said that Khan Academy is to fill the gaps and not to teach you the concepts completely. I haven't heard of people's opinion of Greenemath yet. Are there any other sources to learn math?"
+  },
+  {
+    "reddit_id": "onras0e",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "YES taught me all of [calculus](/search/?q=calculus+learnmath&cId=a4d17733-2a57-4c08-96d4-9758c260b474&iId=3d733d78-bbc7-4788-95a7-72b560ea4b0d) tbh"
+  },
+  {
+    "reddit_id": "onr148p",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "lots of people have used it to expand on college math lessons/review units/deal with a bad prof/catch up on a skipped lecture/cram before an exam.\n\nall in all it\u2019s pretty good. it\u2019s been an example of what to do for a lot of subjevts. tests they have a decent as well."
+  },
+  {
+    "reddit_id": "onsqt43",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "100% Recommend, I used it for pre-learning for early engineering mathematics and was way ahead start of sem. Its great for Algebra and Calculus. My background was not academic. Chef, bands, surfing, didn't know theta or even x, had no algebra skill, nothing. The khan academy and other channels self taught route formed the basis to now holding my own in 2nd year engineering units like dynamics etc. (I treated it as a personal challenge as I never thought I would be good enough and never in a million years thought I could do it)\n\nWork through Algebra 1 and 2 but you'll still need to fill some gaps but it's still a great opening. Once you get to university level maths, the material indeed ramps up but is all still based on essentially the same rules Also, I 100% recommend Organic Chemistry Tutor YT so speed run topics with loads of little examples to build some confidence and momentum with topic. I also recommend OpenStax textbooks, 100% free and have ALL the material covered in maths curriculums.\n\nOne thing that always turns me off if proof heavy teaching. Like I don't want the whole droning derivation with no context, I just want to get in there and smash some examples to get results before circling back for the derivations later when confident. Maths is a great example of you get out what you put in. Don't doubt yourself, have a growth mindset, the frustration is part of the ride. You can do it ,just put the consistent effort in."
+  },
+  {
+    "reddit_id": "onuxz48",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "As math prep khan is pretty good. I would not use it as my only source but it fills a lot of gaps through working problems, AOPS, a few good classic textboox, youtube, wolfram and khan gives decent coverage, MIT also offers some good free math courses."
+  },
+  {
+    "reddit_id": "onw8c9n",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "MIT is great for calculus and up. There's a couple of algebra courses I haven't noticed before and I don't see trigonometry listed. All the courses I've taken from them have been top notch."
+  },
+  {
+    "reddit_id": "oo37xle",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Sal Khan is a hedge fund analyst, not a math teacher.  \nYES many people have had success but ... it's procedure, procedure, procedure. Sal believes that if you practice enough, the concepts will ... happen.  \nI like [mathantics.com]([REDACTED_URL] a lot better and rather wish Bill Gates had given some of his dollars to ... math teachers. (But he is sure he knows best.)  \nLOTS of people are like you :("
+  },
+  {
+    "reddit_id": "op5fbg1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan academy is ok, just like many other sources on yt or on the internet. The good thing here is that you dont need to be picky about basic courses since the material is simple to understand, the exercises are easy and plenty. Since you're older now alot of things will seem trivial. All you have to is practice and you should have good enough grasp on all the things you listed. Even calculus doesnt require any huge investment on your part, just stick with the material, study and dont get lost on the way trying to make sense of everything. The take home is, yes Khan academy works, and any other online course provided you study like you would in school."
+  },
+  {
+    "reddit_id": "onr2w2l",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I have used Khan Academy a great deal as supplemental material for my daughter who is in 6th grade. I find the math content on Khan Academy to be quite well structured and comprehensive. I think it'll help you fill you gaps very effectively. Khan Academy also has unit level tests so you can reasonably easily assess how you did for an entire unit.\n\nThe downside is that I feel the math content is not nearly challenging enough, and I feel it is tailored to provide a basic level of proficiency. But if you are looking for catching up first, I'd say their content would be a perfect for you.\n\nThe other downside is the workflow working with tutors and parents are really not friendly at all. But perhaps this isn't as important in your case.\n\nSide note though, in stead of starting with \"need to fill gaps with my math\", perhaps you can look at this from the other end, what do you want after such an effort? You might want to start there and then work backwards to figure out if learning math through Khan Academy is the best move, or even sufficient to help you achieve your near-term goals.\n\nGood luck."
+  },
+  {
+    "reddit_id": "onrxhl9",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yes, it's been really helpful for me. I started using it to help me understand fractions (I knew the basics but mixed fractions I had no clue about) a couple of years ago and have been using it ever since. I'm going through pre-algebra at the moment as well as working my way through the grades.\n\nI'm in the UK and whilst it's US focused it's still been useful."
+  },
+  {
+    "reddit_id": "onw7ngk",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I am impressed with Khan and it's one of the few resources I've seen that start with very basic math."
+  },
+  {
+    "reddit_id": "oo05p2j",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's a great free resource to get an idea of where you are at, but the level of content it has is pretty shallow.\n\nI still recommend it, but with the caveat that you should be using other sources for learning in addition to Khan Academy."
+  },
+  {
+    "reddit_id": "t3_1vv9ql3",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 281,
+    "created_at": "2026-08-22T11:17:50.000Z",
+    "sanitized_text": "Is Khan Academy actual garbage for learning math, or is it just me?\nHonestly the lessons on Khan Academy are completely out of order They often mention topics that haven't even been introduced yet and won't be covered until much later but they still include them in the explanation anyway. On top of that, some lessons start with practice questions before actually explaining the concept.\n\nThe explanations are also way too simplified It feels like the instructor assumes you already know the material and is speaking to someone who just needs a quick refresher If you aren't already familiar with the topic, you won't be able to grasp it from Khan Academy alone\n\nDoes anyone know a good alternative website or platform for learning math that is well organized and teaches concepts properly?"
+  },
+  {
+    "reddit_id": "gb2pls7",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I am attempting to become a 7-12 Mathematics teacher in Texas. I have been using Khan Academy to get my foundation back. I completed Basic Geometry, Pre Algebra, Algebra Basics, and Get Ready for Algebra 1 in 18 days. I would say that I am learning or solving problems for 6 hours and 40 minutes a day (25/5 method gets me to that number if doing that for 8 hours a day). Incredibly hard to project how long it will take me to get through Algebra 1, Algebra 2, Geometry, Trigonometry, and all three Statistics courses (tons of overlap so they kind of are grouped together)."
+  },
+  {
+    "reddit_id": "gc5057u",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "KA's courses are incredibly well paced up to the end of Algebra 1. From A2 onwards I am pretty sure you will feel the same as quite a few of us did. Eventually you will move on to other resources to better catch Algebra 2.\n\nAll the best!"
+  },
+  {
+    "reddit_id": "g9fv96x",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Between [[REDACTED_USER]\\_Ti](/user/NanoBot_Ti/) ,you AND me I wonder if we should make somesort of study/tracking group... Nanobot is a student, while the both of us are obviously targeting something yet our path to the goal is similar (Knowledge of High School of math).\n\nReason im suggesting this is because there are MANY theories and concepts that I THINK will be better solidified with discussion (Feedback loop).\n\nTo your question, from G4 to FINISHING high school maths (I'm currently pessimistically approximating from 500-700 hours depending on whether you want to complete Geometry). Thankfully, for what im aiming for I found out I only need roughly 1/4 of Geometry so I shave some hours off there."
+  },
+  {
+    "reddit_id": "gc501xd",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yeah with a fulltime job its borderline impossible to squeeze more than 2-3 hours a day on learning without sacrificing too many stuff."
+  },
+  {
+    "reddit_id": "gdxz4pw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I relearned all of my high-school maths in about two months, working full-time.\n\nThe awesome thing about Khan Academy is that you can move as fast as you like. Sal Khan has such a clear speaking voice that he's easy to listen to at 2x speed, and if you don't have much trouble with the problems the system moves you onward quickly."
+  },
+  {
+    "reddit_id": "g9ftkzu",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "What an interesting post. I thought I was the only whacko who tracked his learning time.\n\nTo OP : Similar to you, except I truly knew nothing about 6th grade maths. So I started way back in Sept 2 2020 not knowing a thing about 6th grade math.\n\nStarted from scratch right from 5th grade all the way to 8th grade (36 hours total)\n\nAlgebra 1 took me a whopping 96 hours (Nice coincidence on the \"tens\" digits)\n\nI just started Algebra 2 and truly wonder how long it would take. (Imaginary number \"i\" alone took me 3 hours to understand and use it)\n\nMy definition of pure studying time includes watching the videos and doing combined practice problems from KA and IXL (KA has too few problems).\n\n**Edit: I am extremely demoralized when you say you will update in a few months for Calculus. Is the journey to Calculus really that difficult despite grinding?**"
+  },
+  {
+    "reddit_id": "gaguuin",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "This is amazing- and how many years have i been in a math class making zero progress? Thanks for sharing this"
+  },
+  {
+    "reddit_id": "gpd4fog",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Impressive, where are you at the moment in math?"
+  },
+  {
+    "reddit_id": "gpdi6gk",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Jumping around with a lot of topics. Doing a few hours of calculus, trig, stats, and math concepts for teaching others. Probably closer to 10 hours a day now including breaks due to the volume of material I need to learn."
+  },
+  {
+    "reddit_id": "kcs6627",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I recommend using Khan Academy, working carefully through all the exercises, and watching Khan Academy or Professor Leonard videos to help when you get stuck. You got this!"
+  },
+  {
+    "reddit_id": "kctdyg7",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I watched all of Greenemath\u2019s prealgebra, algebra 1 and 2 videos in just 1 year and it helped me get my GED. I honestly love their videos, I typically would do practice questions on khan academy while watching Greenemath and Professor Leonard on Youtube."
+  },
+  {
+    "reddit_id": "kctrhrf",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Stop thinking so much about what resources to use. If even 3 people online have reccommended something then its probably good.\n\nPlus its not like you\u2019re signing a blood contract with whatever resources you use. You can always switch or find supplements if you think something is not working\n\nLike the other comment said the most inportant thing is just to hold yourself to a schedule and be serious about studying. You could probably learn from google images as long as you can be serious and mature about it"
+  },
+  {
+    "reddit_id": "kcv2ppf",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I am happy to hear that, because I have been spending an inordinate amount of time on Khan Academy algebra, finding it slow going and making a lot of mistakes. Overall I am learning, but it is slow. One bright spot is that the quadratic formula always seemed like a magical thing that dropped out of the sky, but now I can derive it algebraically. I will slog onward."
+  },
+  {
+    "reddit_id": "p57ivbq",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "That's crazy, [Khan Academy](/search/?q=Khan+Academy+math+learning&cId=3e22b303-c38b-4458-a548-4d168515a85a&iId=3092f022-3a9b-4265-8e1c-2fd26b39476a) was a godsend for teaching/practicing math. [Professor Leonard](/search/?q=Professor+Leonard+math&cId=0f5e329b-51ca-448a-b1d8-d2eae6309157&iId=832043b4-7010-4a11-8343-415aa789c32f) too."
+  },
+  {
+    "reddit_id": "p58tio3",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Agreed. I started relearning math on khan during the pandemic and got confident enough to go to school for engineering. Leonard helped me through engineering uni and now I have a degree. Both are great"
+  },
+  {
+    "reddit_id": "p59z9ec",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Professor leonard was so clutch in all my calculus courses + [differential equations](/search/?q=differential+equations+learning&cId=7d196d3a-49ca-41fd-9c89-33bc57ae67ca&iId=4223e5b2-5634-4626-b644-17d1ca17bb59) . Not only is he smart and good at teaching, he has an extremely good personality."
+  },
+  {
+    "reddit_id": "p5b5r7f",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "[Grant Sanderson](/search/?q=Grant+Sanderson+math&cId=1f6ba933-8ce9-4a37-9569-1813f792207e&iId=944adb4e-7234-4467-ba47-0b7b698e7b50) 's multivariable course was a pivotal experience for me getting back into rigorously studying math even outside of college, I even wish Khan academy did some more advanced courses like [complex analysis](/search/?q=complex+analysis+learning&cId=7ff06478-0bbd-4277-9cb5-d69653fbfdd2&iId=a0034a46-0bcb-499c-973c-d02d5bc175cb) though I get that they're targeted towards k-12 for the most part"
+  },
+  {
+    "reddit_id": "p579z4b",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's hard to beat a good text book. They are specifically curated to try and organise the learning in logical way.\n\nYou can probably get access to a decent maths text book for free at your local library."
+  },
+  {
+    "reddit_id": "p5880t1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan academy is also specifically curated to try to optimize learning. It\u2019s not just a random collection of videos - like a textbook it is structured into a curriculum with lessons and exercises, by people with a similar skillset and goals to the editors of math textbooks.\u00a0\n\nIn either case it is possible they won\u2019t be optimized around how *you* learn. And it can be done with differing degrees of success. But there\u2019s no inherent reason why a textbook is going to be better."
+  },
+  {
+    "reddit_id": "p5amchw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I like a good textbook too. But you need to have answers to a large number of problems. You don\u2019t learn by reading the book or by watching a video. You learn by working the problems. Lots of them. You\u2019re kind of hobbled if you don\u2019t know whether you\u2019re doing them correctly. Some textbooks provide answers to all even or odd problems. If not, you need to find an answer key. For many textbooks they\u2019re out there\u2026\n\nThe Schaum\u2019s Outline series is good for supplying worked out problems, but I find them difficult for learning new concepts."
+  },
+  {
+    "reddit_id": "p57bh1y",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Textbooks i've seen many of them. The Larson books are good. Khan is much easier to extract information from than a textbook. Although I like watching videos over extracting information from books."
+  },
+  {
+    "reddit_id": "p57mgt9",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Everyone here saying Khan is great - it\u2019s great for practice problems and review if you already were introduced to the concepts before in my experience. Personally I felt the amount of practice problems given was just not enough for learning the content entirely on your own."
+  },
+  {
+    "reddit_id": "p57d27z",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's you.\n\nBut I will say, when I was re-learning math I started with the khan academy, but eventually shifted to text books. For me, being in a quiet room without the internet or a screen helped me a lot in terms of preparing for a test."
+  },
+  {
+    "reddit_id": "p57gzxa",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Buy actual physical math books along with a bunch of notebooks and writing utensils. Turn off your computer."
+  },
+  {
+    "reddit_id": "p57ycw4",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I have found it great for practice, but I skip the videos and content and use Paul's notes."
+  },
+  {
+    "reddit_id": "p579fn0",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I have opted to go 'all in' by going back to Uni to study undergrad maths - obviously this is the 'extreme' option.\n\nBefore making this choice, though, I found The Open University's maths content really structured and well written - you can buy the module textbooks on eBay for like \u00a310 - \u00a3200, depending on the content/module."
+  },
+  {
+    "reddit_id": "p591wtc",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "MIT open coursware: has assigments, notes, sylabus and a calendar to set yourself some pace. (MIT 18.100A and 18.650 had been my favorite so far)\n\nWhat kind of math and at what level you're looking at ? The rosources varies depending of what you need"
+  },
+  {
+    "reddit_id": "p57ux3h",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Pedagogically, it's terrible. The examples are misleading and the explanations incomplete. Every time I tutor a student who relies on it, I have to correct a pile of misconceptions.\n\nBut, it gets people to actually study. And most students refuse to learn any way other than memorizing a bunch of problem types. You can tell from the comments that that's enough for a lot of curricula."
+  },
+  {
+    "reddit_id": "p57o8tw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I agree with your critiques. Additionally, I think websites and apps are very suboptimal for learning. Video content tends to give the illusion of learning because it can be passively delivered. The educational literature suggests students think they're learning better from watching videos than through other strategies like practice problems and mock exams, but the opposite is true.\n\nI would recommend MIT OpenCourseWare instead, along with a good textbook."
+  },
+  {
+    "reddit_id": "p57ated",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "yeah they cover the basics stuff if u are serious about a career in Math or math related fields, Khan academy might not suffice."
+  },
+  {
+    "reddit_id": "t3_cia468",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 3,
+    "created_at": "2019-07-26T23:21:53.000Z",
+    "sanitized_text": "Linear Algebra Understanding Help (Khan Academy)\n I hope this is an alright place to ask this. I'm on khan academy, on the linear algebra class and get to this video.   \n\n\n[REDACTED_URL]   \n\n\n2 minutes in or so and I'm absolutely stuck. Not sure what's going on with the vector \\[c1, c2\\], but I assume it doesn't have to do with the c in the matrix?   \n\n\nIt looks like it is saying a transformation on that vector, which results in the new vector \\[(c1), (ac2 - cc1)\\] yes? In which case the transformation matrix is a 2x2 that looks like \\[(1, 0), (a, -c)\\] yes?   \n\n\nTrying to take this step by step to figure it out on my own, also not so sure how the following matrix is gotten , though maybe I will once I understand what happened int he beginning."
+  },
+  {
+    "reddit_id": "ev399tx",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Maybe I'm missing something obvious, but then can they also be written as row operations? such as \"replace row 2 with a times row 2 minus c times row 1\"? It doesn't help Sal goes back and forth between saying row operations columns"
+  },
+  {
+    "reddit_id": "ev3blnt",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "You could use row operations to do a similar transformation. I think it is harder and more complicated to do so.\n\nColumn operations are almost the exact same thing as row operations just doing them on columns instead of rows.\n\nMaybe this video will help you see they are pretty much the same thing\n\n[[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "t3_wlpqf8",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 36,
+    "created_at": "2022-08-11T12:04:04.000Z",
+    "sanitized_text": "What is the right roadmap for studying from Khan Academy.\nIf  you go to Khan Academy website and click on Courses at the top left  corner you'll see a section labeled \"Math: high school & college\"  and it lists math courses in this order\n\n[Algebra 1]([REDACTED_URL]\n\n* [Geometry]([REDACTED_URL]\n* [Algebra 2]([REDACTED_URL]\n* [Trigonometry]([REDACTED_URL]\n* [Precalculus]([REDACTED_URL]\n* [High school statistics]([REDACTED_URL]\n* [Statistics & probability]([REDACTED_URL]\n* [AP\u00ae\ufe0e/College Calculus AB]([REDACTED_URL]\n* [AP\u00ae\ufe0e/College Calculus BC]([REDACTED_URL]\n* [AP\u00ae\ufe0e/College Statistics]([REDACTED_URL]\n* [Multivariable calculus]([REDACTED_URL]\n* [Differential equations]([REDACTED_URL]\n* [Linear algebra]([REDACTED_URL]\n\nI've  been following this order and went from Algebra 1 to Precalculus, which  I'm about to finish, but I'm not sure if what comes after is in the  right order since there are two statistics courses back to back with a  lot of similarity (Can I skip the high school one and go directly to  statistics & probability?).\n\nAlso  are the calculus courses in the right order? I hear about single  variable calculus but I don't see it listed among them, as well as calculus 1 & 2"
+  },
+  {
+    "reddit_id": "t3_mba3cu",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 9,
+    "created_at": "2021-03-23T08:31:58.000Z",
+    "sanitized_text": "I\u2019m in 8th grade currently and I want to try learning everything up to and including calculus.\nTo my knowledge I am capable as after watching some videos on it it didn\u2019t seem so daunting (I am probably wrong but I just want to give it a try). My question is, are there any gaps that I may need to fill later on or that will prevent me from understanding some stuff? Also can I just skip statistics because calculus interests me more at the moment."
+  },
+  {
+    "reddit_id": "ijvzj4g",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I believe you will find 'Mathematics 1, Mathematics 2 and mathematics 3' which contain a structured plan and is a good way to do it. I do think Khan Academy maths content could be organised a bit better but it's free and brilliant regardless."
+  },
+  {
+    "reddit_id": "ijw9mvc",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "You may find [Prepform]([REDACTED_URL] helpful to use alongside [Khan Academy]([REDACTED_URL] Prepform has free assessments so you know exactly which subjects you are strong or weak in. It will also guide you through a study plan, so you know which topics to study and for how long. Hope this helps!"
+  },
+  {
+    "reddit_id": "ijxiuxn",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "[About sums of up my thoughts on Khan Academy and their roadmaps:]([REDACTED_URL]\n\n> The most striking thing about this so-called mathematics curriculum is its rigidity. This is especially true in the later grades ... this is intimately connected to what I call the the \"ladder myth\" - the idea that mathematics can be arranged as a sequence of \"subjects\" each being in some way more advanced, or \"higher\" than the previous. The effect is to make school mathematics into a race - some students are \"ahead\" of others, and parents worry that their child is \"falling behind.\" And where exactly does this race lead? What is waiting at the finish line? It's a sad race to nowhere. In the end you've been cheated out of a mathematical education, and you don't even know it."
+  },
+  {
+    "reddit_id": "iklhlpj",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "> Can I skip the high school one and go directly to statistics & probability?\n\nYes.\n\nYou should be ready for Calculus BC, its videos are mostly a superset of Calculus AB's videos\n\nFron where you are (assuming you know the material well) you have two options: statistics & probability (which seems to be better than ap statistics), or Calculus BC (which covers calculus 1 and 2, which cover single variable calculus), or Linear Algebra. You can also get math textbooks on many other topics, like discrete math or proofs. What you should do depends on your goals.\n\nThis is also the stage where you start moving to college-level math, so you might benefit from a good textbook"
+  },
+  {
+    "reddit_id": "grwqvdb",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "No gaps (in between, say, algebra 1 and calculus) if you go through Khan and yeah you could skip statistics if you wanted. (They're really cool though imo!)"
+  },
+  {
+    "reddit_id": "grx43m5",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "You should be able to just skip there, and if you're running into roadblocks when you get started, then consider watching lessons on the topics you need to strengthen.\n\nThis is honestly the easiest way to learn stuff as you get older. Find something that interests you, try until you fail, work through the failure, keep going until you hit the next failure.\n\nIt's great that you have an interest in math, chase after it! Stats was incredibly dull for me too, I wish I had skipped it in school for calc."
+  },
+  {
+    "reddit_id": "gry2h5s",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "there's no gaps in khan academy, although i'm in 8th grade and doing the same thing (on alg 2 rn) and getting the princeton review unlocked books for each course helped me understand the stuff on a level deeper than you can with an 8 minute khan video"
+  },
+  {
+    "reddit_id": "grz6ood",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "The 'hard' part of calculus is some teachers/websites/textbooks desire to add the most difficult 'puzzle' algebra to both exercises and explanations."
+  },
+  {
+    "reddit_id": "gsn27ty",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Im 9th grade.And \u0131 try learn calculus with khan academy.\n\nI learn limit and countunity,and derivative in 2,5 month.\n\nAnd \u0131 can slove some optimazation problems.With my knowladge.\n\nBut first you must learn algebra.\u0130f you dont know algebra.Probobly you cant understand calculus videos.Algebra is very important for calculus.\n\nI guess I can help you.\u0130f you want send me message. we can chat together"
+  },
+  {
+    "reddit_id": "t3_1gfyg3q",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 10,
+    "created_at": "2024-10-30T21:55:06.000Z",
+    "sanitized_text": "High school dropout here. Which order should I study Mathematics?\nI'm aware that the order of mathematics overall goes something like this:\n\n1. Arithmetic\n\n2. Pre Algebra\n\n3. Algebra 1\n\n4. Algebra 2\n\n5. Geometry\n\n6. Calculus & Trigonometry\n\n  \nBut my question is if I should just complete the Arithmetic course (Which I've already started), then study pre alebra etc, or should I go back and study the 4th, 5th, 6th, 7th, and 8th grade math courses? It seems like the single Arithmetic course covers all the main concepts, but doesn't contain some of the extra concepts found in the primary and secondary school courses, with things like the coordinate plane being an example. What are your thoughts? I kind of feel like the single Arithmetic course covers all the foundational knowledge needed for me to advance into Pre-Algebra afterwards."
+  },
+  {
+    "reddit_id": "lulyy3d",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Took my son 2 extra years to complete HS. \u201cNot going to get a GED as a HS diploma will most likely be my highest degree.\u201d This December he will graduate with a Mechanical Engineering degree. It started with Khan Academy. I will recommend just taking the placement test and it will direct you on the next steps. Bravo."
+  },
+  {
+    "reddit_id": "lurar1d",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Thanks, very helpful. Though I dont think theres a placement test."
+  },
+  {
+    "reddit_id": "lunxu8w",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I was looking for a placement test on Khan but I couldn't find it. Where on their website should I look?"
+  },
+  {
+    "reddit_id": "luw94ze",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "The Course Challenges seem to have replaced those placement tests.\n\nI read Sal Khan\u2019s book One World Schoolhouse recently. There was a study of piloting KA over the summer for some remedial students. It compared two groups, where one group was assigned their grade level (grade 5 or 6), while the other was assigned Kindergarten material to start. In the same time span, there were students in the second group who surpassed students in the first group.\n\nSo, based on that, starting with say a grade 1/2/3 course challenge might be a good place to start. The main purpose here is to ensure mastery level understanding of the fundamentals, which arithmetic, pre-algebra, etc build on."
+  },
+  {
+    "reddit_id": "luo9di1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Researched in the KA comments on KA and it looks like they took away the placement test several years ago. Lots of complaints about it. The most current comment was\n\n\u201cIn case anyone is here in 2024, the final test of any unit test or course challenge will give you an assessment of your level in all skills covered in that unit/course, and recommend units to work on if needed. For example, if you are trying to assess your child\u2019s math level, you could have them take these course challenges in order: Early Math Review > Grade 2 > Grade 3 > etc.\u201d\n\nStart at the top of your list and go straight to the COURSE CHALLENGE. Just get started. Best of luck. Proud of you. Signed, A mother, Mom. \ud83e\udd70"
+  },
+  {
+    "reddit_id": "lulimsr",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "As silly as it sounds, start from the beginning. Learning the basics again after years of not using them is good for the brain. I work with a tape measure every day. Reading a tape quickly, and precisely is what some would call an elementary level skill, but the more you do it, the faster you get.\n\nGoing back to the basics never hurts especially if you haven't done the basics in a long time. And I'm not talking about busting out a calculator. Being able to do things in your head, or on paper, is sometimes necessary in life."
+  },
+  {
+    "reddit_id": "luoeaju",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I relearned all of mathematics from scratch in my 30s because I wanted to pursue a degree. I fully agree with this poster.\n\nI know it sounds really weird to say to focus on such basics. But you'll thank yourself for it later."
+  },
+  {
+    "reddit_id": "luray9f",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Did you use khan to relearn all of math? Also did you go into post secondary school afterwards?"
+  },
+  {
+    "reddit_id": "lura44b",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "When my son started First Grade, I realized that I needed to go back and learn the basics again so I could help teach him at home. Then I did the same thing 13 years later for my daughter. It's crazy how much of the easy stuff you can forget after years of not needing it. Long division on paper still kicks my ass!"
+  },
+  {
+    "reddit_id": "luramkx",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "No that's perfect, you're totally right. How do you feel about stuyding the 4th, 5th, 6th etc grade math courses vs studying the single arithmetic course?\n\nPersonally, I'd love to study absolutely everything. But the most time efficient and quality way to study in my situation, I think would be the single arithmetic course. Do you think it leaves out key concepts?"
+  },
+  {
+    "reddit_id": "lurfvvh",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's a little hard to say as I don't know what you do and do not know.\n\nI quickly skimmed some of the materials taught in Khan Academy for those grades. For 4th,grade,I think the concepts from there that trip up most people are fractions and proportions. It looks like there's a lot of basic information about angles and planes, which are important to understand for geometry, which goes into way more depth.\n\nFor 5th grade, coordinate planes and line graphs are used a ton.\n\n6th grade, variables are key to algebra.\n\nIt's a really big list, looking at it helps me to realize how much I've learned.\n\nA better strategy may be to work backwards, start at arithmetic, and if something looks confusing or unfamiliar, look for it in a previous section and/or grade, and then work your way back up from there. That way, if you know something well enough, you do not have to waste time going through a bunch of stuff you already know."
+  },
+  {
+    "reddit_id": "luqq4wt",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "if you can afford it, join [mathacademy.com]([REDACTED_URL]"
+  },
+  {
+    "reddit_id": "lura0fy",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Well, I actually prefer khan academy, not only because it's free, but also because it has everything I need in order to get a well rounded education in maths and other core subjects. I pretty much think it has everything neccessary."
+  },
+  {
+    "reddit_id": "lwtjh5k",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "genuine question, what do they have to offer for it to be worth 50 dollars a month?:D especially in the face of all the free access materials available out there"
+  },
+  {
+    "reddit_id": "lwvs6bv",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It uses artificial intelligence to identify your weaknesses and strengths. And builds on them through spaced-repetition.\n\nFirst month is fully refundable. Test it out."
+  },
+  {
+    "reddit_id": "luupvrs",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "The site that I mostly used to study for my GED is called Essential Education. it's a paid site, but they have a course that's specifically designed for the kinds of questions that are going to be on the GED test, and I found their video lessons to be a little bit easier to understand than Khan's videos."
+  },
+  {
+    "reddit_id": "t3_1pzsosh",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 49,
+    "created_at": "2025-12-30T20:22:27.000Z",
+    "sanitized_text": "Finally Mastered Elementary School Math\nEven though World of Math doesn\u2019t exist anymore, it\u2019s been a fun project to just try and 100% every subject in Math. I started with Early Math (SO PAINFUL TO 100%) and I finally completed 6th grade / all of elementary school yesterday. It\u2019s been crazy how many subjects I either forgot about or completely missed while I was in school, and how many things I really didn\u2019t understand conceptually. I\u2019ve also taken it really slow: I started doing this a couple years ago, got up to 3rd grade, and then put it down until a few months ago when I really started plowing through stuff.\n\nObviously up to 6th grade isn\u2019t all that challenging\u2014it\u2019s still mostly just Arithmetic\u2014but I can feel my brain getting more comfortable doing quick maths! Really excited to start getting into Algebra too now that I KNOW I have a strong, basic foundation. I\u2019m having way more fun with math than I EVER did in school :) \n\nSide note: finding the difference in time between two analog clocks is maybe my least favorite thing to do in the entire world."
+  },
+  {
+    "reddit_id": "nwtkrz8",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Glad to see I\u2019m not the only one on a math journey. The goal is to learn it all, I think it\u2019d be worth it."
+  },
+  {
+    "reddit_id": "nx41gfa",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'm of the opinion that learning anything new can really expand your view of the world, but getting good at Math feels particularly special--beyond the ability to calculate things I feel like it turbo charges your intuition!"
+  },
+  {
+    "reddit_id": "nwsqvla",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I've been mastered elementary, and i'm almost done with middle school math"
+  },
+  {
+    "reddit_id": "nwwohs3",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Congrats! If you want to earn some other skills as well, the Illustrated math and Eureka Math courses have several quizzes that don't overlap with these courses.\u00a0\n\nThey're pretty quick to get through, except for the unit tests. The unit tests for these courses average like 20-30 questions."
+  },
+  {
+    "reddit_id": "t3_g2ip2k",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 8,
+    "created_at": "2020-04-16T16:53:43.000Z",
+    "sanitized_text": "Best Prep for College Intermediate Algebra?\nI am taking intermediate algebra this summer, but it has been a very long time since I last took algebra 1 and 2 in high school. As I have forgotten pretty much everything at this point, I want to familiarize myself with the subject again. It looks like Khan offers a variety of algebra and algebra basics/foundations sections. I am hoping someone can suggest a section that I might want to begin with.\n\nMy summer course describes the class as focusing on: \u201cfunctions; quadratic equations; polynomial and rational expressions; radicals and complex numbers; exponential expressions (negative and rational exponents) and logarithmic expressions; introduction to conic sections.\u201d"
+  },
+  {
+    "reddit_id": "fnmwups",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Sounds like Algebra2 [[REDACTED_URL] and conic sections are in Precalculus\n\nIf you to just get through the material, Algebra1 would help prepare you.\n\nIf you want to learn it, read on:\n\n* * *\n\nYou won't like this because it's a lot of work and it seems unnecessary, but...\n\nthe best prep is *all* the math before it.\n\nMath builds on previous topics. You'll have difficulty not because you don't already know the material (you're meant to be learning it), but because you don't know the material it builds on.\n\nIt's more serious than that. You aren't fluent with the f0undations, are out of practice with it and with maths problems in general (e.g. how to lay it out, how to check your work efficiently).\n\nEven worse: there will be concepts that you didn't learn, or learnt incorrectly. It's very very difficult to fix these misunderstandings when learning more difficult material that builds on top of them - *or even be aware you have them*.\n\n* * *\n\nSo I suggest you start from the very beginning. Watch the videos, read the summaries, do the problems, check the hints after. The early stuff is easy and short.\n\nUse it for *deliberate practice*, and notice not just knowledge you gain/refresh/correct, but also feel your mind and skills developing.\n\nYou can skip geometry (a pity, because it's easily the most fun and intuitive).\n\n* * *\n\nIf I haven't convinced you, try doing the algebra and conic sections mastery or challenge problems. It will (A). give you some sense of what you are missing (but not reliable, because you won't know what you're missing). and (B) give you a sincere motibation to fill in those gaps."
+  },
+  {
+    "reddit_id": "fnmxypy",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I completely agree with you. At this point I don\u2019t really have a foundation anymore. I can answer many of the pre algebra problems that I have looked at... but I don\u2019t understand why my answer is correct.\n\nHow far back should I start? Is pre algebra far enough back?"
+  },
+  {
+    "reddit_id": "fnn0e9z",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "> I can answer many of the pre algebra problems that I have looked at... but I don\u2019t understand why my answer is correct.\n\nheh, that's how I felt too. Empty skills.\n\n> How far back should I start? Is pre algebra far enough back?\n\nTo the very beginning.\n\nI did this, just doing the exercises and hints, until it started getting hard (IIRC algebra1?), then doing videos too.\n\nYet, I still have missed something, and I'm planning to do it all from the beginning."
+  },
+  {
+    "reddit_id": "fnq02y1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Hey, it's obviously just my opinion and personal experience I've given here.\n\nAfter you've done the course, I'd be very interested to hear how effective your preparation was (if you remember this comment on your submission and reply to it).\n\nLast thing: it really depends on what you want out of it, and how much work you want to (and can afford to) put into it.  \nFor just *using* maths (\"applied\"), it sounds like you are already there, and just need a small refresher. I think algebra 1 would get you oriented, it has things like: *what does it mean to \"solve for x\"*.  \nBut if you want to understand it fully (\"pure\"), you need to get the foundations right, and start at the beginning. (As I said, at least the earlier stuff is easier and quicker!)"
+  },
+  {
+    "reddit_id": "fnqsrla",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Sorry to keep hassling you, but I think I can help you understand algebra (and why I think previous work helps).\n\nThe essential idea of algebra is you can **undo** (or reverse or invert) some operations. If I add 5 to x and get 7, I can \"undo\" the adding 5 by subtracting 5. If I do the same thing to two things that are the same, they remain the same. i.e. if I subtract 5 from both sides of an equation, the two new sides are also equal. (The word \"equation\" is related to \"equal\").\n\nThe *reason why* we can **undo** things is because there was only one possible starting point. e.g. if I add 5 to a number, and get 7, there is only one possible number I could have started with. For the operation of \"adding 5\", there is a one-to-one correspondence between the starting number and the result. No two numbers give the same result, so from knowing the result, you can deduce what the starting number was.\n\nIt's like cause and effect, when each effect has only one possible cause (if more than one cause had the same effect, you couldn't be sure which cause produced the effect).\n\nIt's similar for multiplication by a number (with one exception, do you know which common number?)\n\nIt might seem ordinary that you can tell what the starting number is, but it's actually not true for many operations. e.g. If I square a number, and get 4, what number did I start with? It could be 2. But it could also be -2 (because -2x-2 = 4). Trigonometry has far worse difficulties of this kind!\n\n**The difficulties of algebra are coping with when you can't undo.**\n\nSo, I hope that's explained the essence of algebra to you! Now for the reason why I think the foundation is so important:\n\nFirstly, *why* is it that addition has a one-to-one correspondence (so it can be undone)? Is multiplication really one-to-one, so division can undo it? (with that one exception...). Being really familiar with subtraction and division, and what they mean, really helps - although I'm sure it seems ridiculous for me to say it, when you already \"know\" them.\n\nSecondly, you'll be tackling some confusing issues in algebra. It really helps to not have any confusion about the foundations, to be able to use them and know them without having to think about them - this is partly knowledge and partly skill (practice). Then you can devote your full attention to the actual things you are learning.\n\nI hope this helps!"
+  },
+  {
+    "reddit_id": "fnmfm6n",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "If you want some additional practice to Kahn Academy here are some links to pages with practice problems and solution videos from [andymath.com]([REDACTED_URL] My students like to use it for practice. If you were specifically looking for Kahn suggestions, you can ignore this comment. Good luck!\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]\n\n[[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "t3_kqq6b4",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 10,
+    "created_at": "2021-01-05T04:08:26.000Z",
+    "sanitized_text": "Is this the fastest strategy to getting 100% in a course?\nI am on a mission to get 100% in all of khan academy starting with math courses. \n\nMy current strategy is\n\n1. Skip the course challenge and go into every unit one by one\n2. Do every quiz in a row in that unit (it takes 2 100% scores to level up each skill to max)\n3. If i get anything wrong in the quiz I do the practice questions for that skill and not the quiz to not risk getting more questions wrong and leveling down other skills\n4. Once every skill is max leveled I do the unit test to get mastery on them (this part is really stressful as one silly mistake here will prevent you from getting 100% mastery and force you to do the practice questions for skills to max them out and take the unit test again) \n5. Repeat these steps for every single unit  \n\n\nDoes anyone know a faster strategy or is this the best? I am wondering if just doing unit tests is faster? Or maybe starting with course challenge and then doing unit tests? Does anyone have more experience with this? Please keep in mind that the courses keep getting harder and getting 100% on tests keep getting more difficult so the fastest method should also be the most forgiving."
+  },
+  {
+    "reddit_id": "glouaqz",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "This is pretty much how I\u2019ve figured it out too. Practices are great but too time consuming for a lot of topics. But I do need them now and then when I\u2019m not getting something as easily. You can also do mastery challenges instead of unit tests if you just have a few skills, but there\u2019s a delay on those."
+  },
+  {
+    "reddit_id": "t3_zl4eg3",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 48,
+    "created_at": "2022-12-13T19:25:30.000Z",
+    "sanitized_text": "I'm going to master all the math in Khan (EPIC Challenge)\nI'm doing a challenge where I complete ALL the math courses on Khan, from Early Math Review to Linear Algebra.\n\nThe math courses are:\n\n* Early Math Review\n* Kindergarden\n* 1st Grade\n* 2nd Grade\n* 3rd Grade\n* 4th Grade\n* 5th Grade\n* 6th Grade\n* 7th Grade\n* 8th Grade\n* Arithmetic\n* Basic Geometry\n* Pre-Algebra\n* Algebra Basics\n* Algebra 1\n* Geometry\n* Algebra 2\n* Trigonometry\n* Statistics\n* Precalculus\n* Differential Calculus\n* Integral Calculus\n* Calculus 1\n* Calculus 2\n* Multivariable Calculus\n* Differential Equations\n* Linear Algebra\n\nI'm currently on 4th grade, and it's easy, but it's going to get HARD.CORE. after Algebra, but I will complete all of it AND master it without cheating, even if it takes 100 years!!!\n\nI also challenge ALL OF YOU to do this challenge as well!!! Will there be a prize? KNOWLEDGE and SKILL are the prizes!!!"
+  },
+  {
+    "reddit_id": "j07cop5",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Haha I started this last week. About halfway through Grade 3. Are you doing everything- lessons, quizzes, etc or are you just doing what is needed for mastery?"
+  },
+  {
+    "reddit_id": "j084119",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'm just doing what's needed for mastery right now, but once I get into the stuff I don't know I'll do all of it"
+  },
+  {
+    "reddit_id": "j07tuxj",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Is the easier stuff. . .worth doing? I'm sure there are some specific rules that I either never learned or have forgotten, but it also seems a bit excessive"
+  },
+  {
+    "reddit_id": "j090upl",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I found it helpful to go over the easier stuff. Going over elementary stuff I know presented in a new way and from an older perspective has been a neat experience."
+  },
+  {
+    "reddit_id": "j0525ig",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I wish you the greatest of luck, I did that exact same but stopped my journey when I mastered Precalc, that's where I was satisfied enough"
+  },
+  {
+    "reddit_id": "j0kljf8",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Nice I'm 6/15 of PreAlgebra and I'm going to go over the Geometry course after to build a stronger foundation for Trig. I'm planning to go back to college in Spring and I'm taking both PreAlgebra and Trig for the third time lol trying to raise them higher than a C. It's funny reading all the comments on there though really makes me confident but than again I'm in my late 20s LOL."
+  },
+  {
+    "reddit_id": "t3_b65j6b",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 6,
+    "created_at": "2019-03-27T15:12:34.000Z",
+    "sanitized_text": "Best way to \"clep\" in math?\nI'm using Khan Academy to brush up on the math that I forgot/never learned when I was younger. I figured I'd start with pre-algebra, establish my strengths and weaknesses, and go from there.\n\nBut the way it's going now I'm afraid it's going to take me forever to get through pre-algebra. I started the \"mission\" and did around 20% in one shot, but now I'm kind of stuck. It's only giving me one or two \"mastery tasks\" every day. It would take me hours of doing the most basic lessons to get to the later lessons that I actually need to work on.\n\nIs there a way to expedite this process? I really don't want to spend all that time proving that I know how number lines work, or which number goes in the tens place."
+  },
+  {
+    "reddit_id": "t3_ccth52",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 11,
+    "created_at": "2019-07-13T19:39:14.000Z",
+    "sanitized_text": "[High School] Algebra 1 - Linear Equations - Khan Academy -\nHello, can someone please explain how they get their answer? Specifically, my question is how -4--5 divided by -4-6 comes to one half. When i did it, i got 9/10 or 0.9.\n\n I tried posting a screenshot ( on windows) but i can't seem to get it done so i'll copy and paste the link. Hopefully you guys can see it.\n\n  \n [[REDACTED_URL]\n\nThanks in advance."
+  },
+  {
+    "reddit_id": "ejic186",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "skip all the trivial stuff and start going through stuff that looks more advanced? mastery tasks come from having lots of 'practiced' skills. it sounds like you're working from the dashboard, so you can probably just mouse over the little squares in the big rectangle thing on the left until you find something you haven't heard of."
+  },
+  {
+    "reddit_id": "ejicj2r",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Thanks. I don't think I realized that you can go through the units and take the test without doing each lesson/activity. I'm gonna start at the beginning and just do the tests, then spend time filling in gaps to get \"mastery\" on each unit before I move up to the next one.\n\n36 years old and finally working my way through pre-algebra, lol"
+  },
+  {
+    "reddit_id": "ejiu99y",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Also if I am not mistaken, friend, you unlock more mastery task problems by doing the individual practice lessons. \u00a0 You might be getting few mastery challenges because you have not finished more new material yet."
+  },
+  {
+    "reddit_id": "ejvurgp",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Just do the unit test, and if you get a question wrong open up that module in a new browser window. When you finish the test just review the videos in that module.\n\nThen do the test again until you achieve mastery (it can take 3 or 4 times of 100% depending on the unit)."
+  },
+  {
+    "reddit_id": "ek5wn5o",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Learning algebra at the school takes i think, at least 3-5 years. Now you took khan academy courses and wanna finish as fast as you can without mistakes. You are a human, you make mistakes, it's learning, it is a normal process that you making mistakes, stucking in some topics and so on. It's not easy. Easy it's to drink beer and watch TV, to be stupid is easy. Just keep going, and learn, it takes time."
+  },
+  {
+    "reddit_id": "etpdcgx",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "In your question you wrote it down wrong. The denominator is -4-(-6) right? You wrote -4-6."
+  },
+  {
+    "reddit_id": "t3_1wzwe81",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 13,
+    "created_at": "2026-10-07T13:22:05.000Z",
+    "sanitized_text": "What are the top-notch resources for learning Linear algebra and Calc I, II, and III?\nBtw, I know Russian, so some soviet books might come in handy as well. I'm planning to study Linear algebra using MIT 18.06; For calculus, I'm gonna study with Professor Leonard's lectures. Is it solid? I know that the key to understanding is practicing A LOT. Therefore, could you also please advice me sources for problem sets?"
+  },
+  {
+    "reddit_id": "pehrs48",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "There are a lot of problem sets on this series of sites\u2026\n\n[[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "pf2umpg",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Wow, I guess you are the fan of linear algebra haha. Thanks for the resources, tho! Appreciate it"
+  },
+  {
+    "reddit_id": "t3_1rlyax1",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 2,
+    "created_at": "2026-03-06T00:03:53.000Z",
+    "sanitized_text": "Is Khan Academy good enough?\nHi, I am a freshman who is currently in geometry, but wanting to skip algebra 2 by taking the final. I have to get an 85 on the final to pass over. If I just go through the Khan Academy course and study what is in it, does it give all the information I will need to know? If not, what else can I do?"
+  },
+  {
+    "reddit_id": "t3_n0zgkl",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 11,
+    "created_at": "2021-04-29T07:49:45.000Z",
+    "sanitized_text": "Online resources for Linear Algebra\nI need some extra help trying to learn the concepts of linear algebra. I know of Khan Academy and 3Blue1Brown on youtube but I was wondering if anyone can suggest other websites or youtube channels to check out."
+  },
+  {
+    "reddit_id": "o8vmara",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I honestly don't know, because I've never known anyone who has done this for a whole class. But if you try it, also go to IXL Math, they have a whole Algebra 2 course. Look through it before you start and see all of the topics covered and see if that is something you can do; also if you start with Khan Academy maybe do the practice problems also on IXL as you go to check yourself.\n\nOne more thing: how did you do in Algebra 1? Did you get above a 90% -95% all year?"
+  },
+  {
+    "reddit_id": "o8vn3f0",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Thanks for the comment, and yes, I passed algebra 1 with mid to high 90s all year and have had high 90s to 100s this year for geometry if that matters."
+  },
+  {
+    "reddit_id": "o8vnvyw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Great! I think you could do it! Look over the topics in IXL - and see what you think. I forgot that IXL is only free up to ten practice questions a day, but that should be enough to give you some good practice while you use Khan Academy."
+  },
+  {
+    "reddit_id": "o8w3i6b",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan academy is great, but instruction alone probably won't be enough. You'll need to find exercises (homework) to give yourself"
+  },
+  {
+    "reddit_id": "o92tvqq",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Do you know where I can find some good practice problems or should I just look through textbooks?"
+  },
+  {
+    "reddit_id": "o8xzkd5",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "You should probably get a textbook as well to do some practice problems. Ask your geometry teacher to borrow an Algebra 2 book. If he/she can\u2019t find a spare and money is an issue, Openstax has free math textbooks. [Here]([REDACTED_URL] is their Intermediate Algebra book (which is more or less the same as Algebra 2)."
+  },
+  {
+    "reddit_id": "o8y9zrr",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I have friends in algebra 2 so that\u2019s probably something I\u2019ll be able to do"
+  },
+  {
+    "reddit_id": "o92cie4",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It managed to make me understand double and triple integrals pretty well when I was struggling with the concept, so... I guess so?"
+  },
+  {
+    "reddit_id": "odm49pm",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan Academy is great. I'm taking Algebra 2 right now. The videos are low budget in terms of production values but the teaching is really good: concepts are introduced step by step without big leaps and also there's good explanation of how things relate to each other. I also completed the animation in Javascript course on Kahn Academy and got into coding that way. 12 years later I'm a senior dev."
+  },
+  {
+    "reddit_id": "t3_1whj5ij",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 3,
+    "created_at": "2026-09-16T01:26:10.000Z",
+    "sanitized_text": "Linear Algebra resources?\nI can't understand linear algebra for the life of me and I have a test in two weeks :/ I need some resources please"
+  },
+  {
+    "reddit_id": "gw9u729",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "if you have not seen it, strangs linear algebra lectures on youtube are great, his textbook is not as great in my opinion though. his [website]([REDACTED_URL] has a ton of old linear algebra exams, which are really good for practice."
+  },
+  {
+    "reddit_id": "gwa1e34",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "[[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "gwbd1di",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I taught Linear last year. These are the videos I made for my students. They are all extra practice problems and solutions.\n\n[[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "pa2ykfc",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "[[REDACTED_URL] for extra studying"
+  },
+  {
+    "reddit_id": "pa2zexw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "If you need accessible / step by step, Prime Newtons [Matrix Algebra]([REDACTED_URL] and [Linear Algebra]([REDACTED_URL] playlists have a lot of topics with clear examples broken down."
+  },
+  {
+    "reddit_id": "pa2viwb",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Strang is kind of a classic. His lecture series from MIT is online:\n\n[[REDACTED_URL]\n\nBut on the other hand, it\u2019s MIT, it covers like 140% of what lesser colleges do. If you need to do it fast though, it\u2019s a good skeleton, you\u2019ll be using a chatbot for the points you get stuck.\n\nIf you\u2019re not getting the overall idea, just ask here."
+  },
+  {
+    "reddit_id": "pa33p9c",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Best playlist to go through to get an intuitive overview and understanding of linear algebra (3Blue1Brown): [[REDACTED_URL]\n\nHere are my own notes / summaries based on a wide range of reading material: [[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "pa7aqa1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan Academy, Kimberly Brehm, math with professor v, and for future viewer of this post Professor Leonard said he was going to work on a Linear Algebra course for his Youtube channel."
+  },
+  {
+    "reddit_id": "t3_15f6yy7",
+    "community": "r/learnmath",
+    "post_type": "post",
+    "upvotes": 43,
+    "created_at": "2023-08-01T09:02:22.000Z",
+    "sanitized_text": "Is khan academy enough to learn math?\nSo, due to some problems I was unable to attend school in the last 4 years, but I will be getting back at it next year (january) the only problem is that, altought throught these years I have been studying at home, I never cared much about learning what regular schools demanded, so now i'm having to learn a lot sciences, physics, and speacilly, math before I go back to school.\n\nI have been using Khan academy for the past month or so, speacilly for algebra, and at the beginning I was doing great but, now I feel like the content regarding algebra in khan academy isnt enough in depth for me to use it as a algebra course, I started having this problem recently when I got to the \"Comparing linear rates examples\" part on the Algebra 1 course, the video explaining the concept felt very consufing and unclear, when i got to the test i got even more confused and had no idea on how to solve the questions so I searched for them on brainly to at least see HOW they were solved and I realized that they were basically linear equations which I new how to solve but had no idea on how to \"create\" them when needed because the course never taught me how to \"create\" equations or the steps needed in order to solve \"comparing linear rates word problems\" and now I'm afraid that Khan academy wont be enough for me to get back at school.\n\n\u200b\n\nSo, what do you guys think?"
+  },
+  {
+    "reddit_id": "juc5jfx",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan is enough for a mediocare level. If you want to get good you'll need to read/solve hard textbooks"
+  },
+  {
+    "reddit_id": "jukwj0k",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yes I agree. I just spent January til now relearning Algebra 1 through pre calc so I can start calculus 1. Now at first I thought it was amazing but then I started to see that there's quite a few topics that they skip over and I never even knew existed and will continue not to until I may or may not run into them down the road in college. For example I picked up a calc workbook and just found out hyperbolic functions like sinhx. Khan was okay and I easily passed the community colleges precalc test but now I just think dang all that time I could of just spend on a textbook and made sure I learned the full course and not have to worry about gaps that may or may not exist!"
+  },
+  {
+    "reddit_id": "juhr8ng",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "youtube math sorcerer has a video on this"
+  },
+  {
+    "reddit_id": "juds91o",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan is great, but it\u2019s not rigorous enough. I do think their Calculus 1/2 courses are their strongest work, however. They do a really great job scaffolding and building more difficult topics. They saved my life with related rates problems."
+  },
+  {
+    "reddit_id": "jubxl60",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "anything with a lot of problems is good enough to learn math\n\nbut y'know the best way to learn math is pick up some very hard problems and learn how to solve them piece by piece."
+  },
+  {
+    "reddit_id": "juewwib",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Schoolyourself.com is great in my opinion for learning the basics (Algebra 1 & 2, Geometry) fast. But you\u2019ll need to couple this with practice problems\n\nI personally never really enjoyed Khan Academy. Here\u2019s who I recommend:\n\nYouTubers:\n\n-   Kimberly Brehm\n    \n-   Professor Dave\n    \n-   TrevTutor\n    \n-   OrganicChemistryTutor (he covers a lot of math topics)\n    \n\nPaid Subscriptions:\n\n-   CalcWorkshop\n    \n-   MathTutorDVD (weird name, I know)"
+  },
+  {
+    "reddit_id": "jubl26b",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "May I ask what grade lvl you\u2019re learning at?"
+  },
+  {
+    "reddit_id": "judhyyk",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I learned Algebra 1/ Pre-Algebra and came out with a pretty good understanding. I did use other resources like Organic Chem/ Greenmath when it came to factoring and quadratics. Just take your time try to understand the material and fill in any gaps you think you may have with external resources and practice. I however wouldn\u2019t solely learn any of the higher level stuff with khan academy alone. It is a good supplement for when you are stuck. More advanced topics mean more work, more concepts which means more building on the previous stuff which khan can\u2019t fully give you. It\u2019s more meant to fill in any gaps. Exposure helps a lot, I started subscribing to math youtubers that make shorts and when i get bored I usually tend to watch that content to keep me in check. If you are gonna try to learn using khan alone, do a lesson and do extra research on the lesson. Ask questions, Find out why things work, why this thing is inserted here etc.That\u2019s all the advice I can give really."
+  },
+  {
+    "reddit_id": "judr434",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I didn\u2019t do math for like 7 years forgot everything even how to divide and multiply fractions or basic algebra, khan academy is amazing to reTeach the fundementals"
+  },
+  {
+    "reddit_id": "jueflky",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Khan academy is great for a basic understanding, but there are only so many practice problems. Try checking out study guides/course outlines for high school courses, and use yt/textbooks to fill in any gaps that are missing"
+  },
+  {
+    "reddit_id": "juc53c1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Honestly, I prefer the video tutorials by Professor Dave"
+  },
+  {
+    "reddit_id": "judqvak",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I think khan academy is incredible I love listening to sal, you can always supplement with khan academy if a concept doesn\u2019t sit right with you , you can just watch a video and maybe it\u2019ll help you understand it"
+  },
+  {
+    "reddit_id": "t3_1f3xd60",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 6,
+    "created_at": "2024-08-29T08:32:49.000Z",
+    "sanitized_text": "I am stucked on Integrated Math Unit 17 for 5 years now\nI am not joking. That is the worst designed exercise of the whole khan online system.   \n7 consecutive questions with multiple choices, no legend to explain alongside, expecting you to remember academic definitions of geometral shapes and punish you with changing the format of exercise at least 3 times.   \nI was watching the videos about it and I still don't understand. I hate it and I quit my streak constantly because of it."
+  },
+  {
+    "reddit_id": "t3_1l8l1zk",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 3,
+    "created_at": "2025-06-11T05:54:08.000Z",
+    "sanitized_text": "Stop Forgetting Your Math Now!\nI just want to share something I found that would be useful. This is an [Anki]([REDACTED_URL] deck that have all the practice question page for each unit of Khan Academy math course linked. \n\nThe deck: [[REDACTED_URL]  \nNote: The units inside the deck aren't arranged properly. Add \"0\" before each unit numbers like how it's done in the course section to resolve the issue.\n\nI suggest watching this video for settings: [[REDACTED_URL]  \n(I personally set the retention rate to be 85%, you don't need it to be high as it's not pure memorization.)"
+  },
+  {
+    "reddit_id": "dtoqjh6",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "While working my tradeskill a few years ago I got hurt and won't make a full recovery. I decided it might be time to move on to something else but I only had an AAS degree. I started Khan to brush up on my math while I pursue a new career but I've actually learned and retained more math from Khan than I did from years in traditional school.\n\nI still haven't made the full transition to a new career so in the mean time I tutor children at an elementary school. Logging in each day and doing a little homework makes a conversation about doing a little bit each day easier with kids who need one on one attention. Simply put I feel like a hypocrite asking them to do homework every day if I don't do it myself."
+  },
+  {
+    "reddit_id": "dtk94fy",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yeah lots of them. I tried to commit myself to doing something that would give me genuine progress but if it was very tight I would do a practice session/review on something I had done yesterday.\n\nLast year I tried the goal too but I remembered *too late* about two hours too late. The absolute horror as I got on to do the math had me frantically pleading with my monitor that I didn't have to start over. I finished the practice and the little orange number had [reset]([REDACTED_URL]\n\nWith six months flushed I was very tempted to give up. Feels good to be making this post a year later knowing that my past self clearly decided it wasn't time to quit yet."
+  },
+  {
+    "reddit_id": "t3_1t90gz",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 9,
+    "created_at": "2013-12-19T15:20:07.000Z",
+    "sanitized_text": "Am I cheating myself by using a calculator?\nFor basic multiplication and division, I generally just bust out my calculator. Even some of the topics, like dividing decimals, I just plug in the numbers and breeze through. I understand the idea of doing it by hand, but don't want to get bogged down in the tediousness just yet.\n\nI mean, I enjoy the problem solving aspect of math, but I feel like I'm always going to have a calculator in my pocket, so why learn an unnecessary skill? And I literally do not know how to do long division, and I've studied it a few times and just, nothing sticks.\n\nSo, in your opinions, am I cheating myself by keeping my calculator handy for any problems?"
+  },
+  {
+    "reddit_id": "t3_g00k1g",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 40,
+    "created_at": "2020-04-12T17:10:45.000Z",
+    "sanitized_text": "I'm on a math journey at Khan Academy! I'll try to record everyday my progress until I complete everything! 2 hours a day minimum. To start, I finished 'Early math' section 100% in day one. (easy start, just patience.). My math skills suck, wish me luck! Have any tips/advice for me? Thank you!"
+  },
+  {
+    "reddit_id": "ce5lmvx",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I think for the beginning arithmetic exercises it's imperative that you do not use a calculator. You will be surprised at how fluent you can get just using paper and pencil. Perhaps as you get into algebra and geometry, the calculator can be brought out, because the problems aren't so much about number crunching as they are about solving a mathematical concept. However, I try to do as much as possible without a calculator. You never know when the power/batteries will go dead. Just my opinion."
+  },
+  {
+    "reddit_id": "ce5m43p",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yeah, I do any math I can in my head, but I'm at 48% mastery so many of the things I do on the calculator are just small parts of the bigger problem. If I'm getting at something through trial and area or dealing with ratios, I don't want to pencil and paper each individual equation.\n\nI imagine when I am dealing with higher range calculus, I will still be able to use a calculator for the more tedious aspects as long as I understand the process of the whole."
+  },
+  {
+    "reddit_id": "ce5xfu4",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Trial and error is important for everything. Next time you'll be confronted with a similar problem you'll remember exactly what you tried and why it failed. If you are just punching buttons that's a lot less memorable."
+  },
+  {
+    "reddit_id": "ce5uhs1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It's extremely useful to be able to do basic arithmetic without a calculator. I can do things like:\n\n63 - 42  \n23 \\* 2  \n142  \n6 / 0.4\n\nin my head instantly, without using pencil and paper. Being able to problems like this quickly will help a ton when doing (for example) algebra later. Given the equation\n\n3x/4 + 17 = 26,\n\nI can find x within about 5 seconds because I can do it all in my head. If you have to use your calculator for every step of a problem, you'll be slowed down a lot.\n\n[[REDACTED_USER]](/user/Retalogy/) is correct that there's no point knowing what 12.754 / 0.1123 is, but it *is* valuable to understand the process for doing arithmetic operations with larger numbers, like 2753 \\* 16 or 1423 - 537. Although you'll rarely (if ever) need to do these without a calculator, understanding why the techniques work is important because similar techniques show up again later in math.\n\nOn the KA site, you'll see a calculator on the right hand side whenever we expect you to use one. The vast majority of our problems should be done without a calculator."
+  },
+  {
+    "reddit_id": "ce5ldl7",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yes...\n\nThe entire point is learning how to do it without using a calculator. Not only does it make you smarter, it's also faster in a lot of cases. Seriously, what you do is like making an exam with the answers right next to it and giving yourself an A+. It's pointless."
+  },
+  {
+    "reddit_id": "ce5m54x",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "For that one lesson, yes, it is, but my question is, will that inability to do division in my head impact my understanding of higher level lessons, like trig and calc?"
+  },
+  {
+    "reddit_id": "ce5x2ii",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "At point, you should not be expected to do math in your head after a certain point. There are some mathematical shortcuts to make mental math easier but for the most part anything past multiplying 2 digits by 2 digits (or even 1 digit) should be done on paper.\n\nBasically, once you're confident you can do it without a calculator it should not be an issue to do it with a calculator to speed up the process. You still want to get good at doing math in your head as that also helps speed up the process. Find a good balance point."
+  },
+  {
+    "reddit_id": "ce60yfm",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "It depends on what level of math you're doing. Even then, it's useful to ***have done*** arithmetic by hand so that you understand the principles and can recognize errors when they happen. For example, \"Oops, that number is too small because I was supposed to add and I subtracted\" or \"That answer is a few orders of magnitude off.\" The less familiar you are with the principles, the less likely errors are to jump off the page at you.\n\nThat said, one you get into things like trigonometry and calculus, calculators are indispensable because once you get to the point of actually doing the final calculations, your brain is so fried that you're lucky if you can remember that 2+2=4. I kid, but just a little. At that level of math, it's assumed you're fluent in the arithmetic and calculators are good for reducing the tedium."
+  },
+  {
+    "reddit_id": "ce6296y",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I have a similar question myself. For the Variance exercise, I easily understand how to solve it. However, I rarely get any problems right due to small arithmetic problems (6/3=3 >.<), that sort of thing. It gets extremely frustrating, so would it be ok to do the arithmetic with a calculator?"
+  },
+  {
+    "reddit_id": "ce62dvp",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I would recommend learning how to do it (mental arithmetic) not necessarily because of it being a prerequisite for more complex math, but because it can be useful in everyday life.\n\nFor example, knowing how to quickly multiply numbers is great to figure out the cost of multiples of a certain item at the store at a glance (say you wanted to buy 3 containers of milk at $2.19 each).\n\nOn the other hand, let's say you had $10.90, and wanted to figure out if you could get 5 containers of milk.\n\nSure, you could whip out your phone if you have a calculator on it, but being able to quickly do it in your head is a nice convenience. Either way works, it's really just preference.\n\nTo answer your question of if it's cheating yourself, I suppose it's no more the case someone keeping contacts in their phone because they don't want to memorize phone numbers. Should you feel guilty? I don't believe so."
+  },
+  {
+    "reddit_id": "ce65y48",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Learn to identify tricks and you will be much better at math. An example is 27\\*3=? 27= 3 \\* 9 so, 9 \\* 3 \\* 3, or 9 \\*9=81, which you probably know from your head.\n\nEdit didn't know \\* doesn't show up."
+  },
+  {
+    "reddit_id": "ce5z9l1",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I'd say you are. Being able to do simple maths in one's head is a valuable skill, and you need to train your brain to do it in order to be effective without a calculator. Also helps ability to think abstractly and reason."
+  },
+  {
+    "reddit_id": "cechfix",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Delighted I found this thread!\n\nMy serious math skills gaps brought me to KA, so I'm starting with extreme basics. At first, I tried to do everything in my head. No pencil, no paper, no nothing. Know what? It doesn't work so good, especially since I'm totally calculator-dependent in the first place. Good to know that pencil-and-paper isn't cheating! (I do plan to work on mental math skills once I've got a lot more basics under my belt.)"
+  },
+  {
+    "reddit_id": "ce5wueo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "You're not doing it in your head. You're doing it on paper. What you want is the ability to be able to figure out what 12.754/0.1123 without the calculator. If you're confidant via testing that you have that ability then using a calculator later to speed up the process makes sense. If you don't have the ability to do it, you're missing a valuable skill set that'll come up later in your mathematical progression.\n\nYes, there are tools that enhance or replace the need of our physical and mental abilities. However, you should still build and improve your physical and mental skills. Then comes times to know when to either use your skills, enhance your skills or forego your skills based on the life task at hand."
+  },
+  {
+    "reddit_id": "fn71wx7",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Cool! I did that too. Try the missions if you have one or two left that your don't want to retake the unit test on."
+  },
+  {
+    "reddit_id": "fn740ft",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Awesome tip, thanks mate. But I think I don't have access to that anymore..? They're slowly removing it one by one and by June it's completely removed.\n\nCurrently, this is how it looks. I only have 'The World of Math'.  \nCheck this screenshot: [[REDACTED_URL]\n\nEdit: Inside 'The World of Math' : [[REDACTED_URL]"
+  },
+  {
+    "reddit_id": "fn76mms",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Yeah, inside the \"World of math\" sections there are those mastery challenges. They automatically pick the ones you are at lvl 2 and bump you to mastery.\n\nOr you can exactly find the one you need, and hit the practice button on it. It will help you bump it."
+  },
+  {
+    "reddit_id": "fn8xwl2",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "For any long term gains in understanding, intuition and math skills, don't forget to routinely get back to the exercises! Spaced Repetition is the key"
+  },
+  {
+    "reddit_id": "fn97jan",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "That's true, it reinforce the skills and keeps things strongly connected. And it's important right, cuz I think math is linked all the way. Must be great from basics before engaging the more complex concepts."
+  },
+  {
+    "reddit_id": "fnaa7b5",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Hi everyone, just gonna post here progress link:\n\n**Day 1**: [[REDACTED_URL] | Early Math 100% Mastery\n\n**Day 2**: [[REDACTED_URL] | Addition & Subtraction 100% Mastery\n\n**Day 3**: [[REDACTED_URL] |Multiplication & Division 47% Mastery\n\n**Day 4**: [[REDACTED_URL] | Multiplication & Division 100% Mastery\n\n**Day 5**: [[REDACTED_URL] | Negative Numbers 100% Mastery\n\n**Day 6**: [[REDACTED_URL] | Fractions 41% Mastery\n\n**Day 7**: [[REDACTED_URL] | Fractions 100% Mastery\n\n**Day 8**: [[REDACTED_URL] | Decimals 47% Mastery\n\n**Day 9**: [[REDACTED_URL] | Decimals 100% Mastery\n\n**Day 10**: [[REDACTED_URL] | Arithmetic Course Challenge, 35% Arithmetic Properties Mastery\n\n**Day 11**: [[REDACTED_URL] | Arithmetic Properties 100% Mastery\n\n**The World of Math**: 18%"
+  },
+  {
+    "reddit_id": "fo5c03m",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I just finished day 10, and 18% on WoM. That's amazing progress. What's your strat? Any tips for me?\n\nEdit: Ok, I just realized you're the same dude the other day haha. Anyway, I see now. That's really a fast way. I'm just kinda doing it in a vanilla way, just take on each vids and practices and quizzes then unit tests. If I do the quizzes, all practices gets proficient, but I do the practices anyway before quizzes. Same thing for unit test."
+  },
+  {
+    "reddit_id": "fnab3wy",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I have no idea how long would this take. I'm on my 3rd day, totaling of 14 hrs in and I'm in arithmetic section, intro to division(Btw, I'm tackling this by math section, not grade.). I've read that it can take years and there are also great people who completed in less than a year from what I read."
+  },
+  {
+    "reddit_id": "fovht8v",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Good luck!\n\nDoing the same, but also watching all videos. It helps me to take a moment to be fully aware of what's happening, and also vent some creative thoughts. I developed some cool alternative algorithms, and gained a lot in math intuition, even from the simple material.\n\nKeep at it!"
+  },
+  {
+    "reddit_id": "fnaatrw",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "[[REDACTED_USER]](/user/AtlantisTempest/)'s tip is a great way to get around this. I can take the challenge section to mastery a certain skill without having to retake the whole unit test. At least that's what I understand and I haven't tried it yet.\n\nIn the end though, I'm still up to the challenge and pushing myself, just be more careful not to make bone-headed mistake I guess. It's not like it's impossible, there's lots of people who've completed it 100%.\n\nAnyway, that's cool. Whichever works best for you."
+  },
+  {
+    "reddit_id": "fpspmw6",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "My advice to you as someone decent in math. Watch the videos. Maybe because I\u2019m older I didn\u2019t learn math the proper way, but I\u2019ve been doing these with my daughter for the last two years and I have learned so many things.\n\nShe is up to high school geometry so I would still get 100% on every test, but by watching the videos I\u2019ve learned how to do them much more quickly and I feel my abilities are way stronger than they were before.\n\nThere will be a lot of waste, but putting it on 2x speed can help. Just a thought."
+  },
+  {
+    "reddit_id": "fnwi7r3",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "I just finished my 9th day just now, but 18% progress on The World of Math. That's very fast, amazing dude. Do you have any tips/advice for me?"
+  },
+  {
+    "reddit_id": "t3_cfhlu0",
+    "community": "r/Khan",
+    "post_type": "post",
+    "upvotes": 4,
+    "created_at": "2019-07-20T04:10:42.000Z",
+    "sanitized_text": "For someone relearning math, how should I learn by myself?\nWhat I mean is, how do I know when i'm ready to go on to the next thing? How long should I practice one thing for?"
+  },
+  {
+    "reddit_id": "eua9ky8",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Depends on how much you find it difficult. I generally stuck until I can simultaneously answer the questions on the practice part.\n\nBesides that, thinking of the videos as a class lecture and taking notes works like a charm for me."
+  },
+  {
+    "reddit_id": "euadzih",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "> simultaneously answer\n\nWhat do you mean by this?"
+  },
+  {
+    "reddit_id": "euahcwz",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Getting all of the questions correct in a row within a reasonable amount of time."
+  },
+  {
+    "reddit_id": "eua9pvo",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "For me, I started re-learning math with two grade levels below what I should have studied by that time. I watched every lecture Khan Academy has on it, supplemented it with a few other online resources, and tried to get a perfect score on every math exercise on KA. Of course, I still got a few answers wrong on the unit tests, but that rigor was able to give me at least a fundamental understanding of math, and give me a boost in the next school year's lessons.\n\nI recommend writing down the lessons, but don't write *everything* down as I did (that was much too time and equipment-expensive), just write down the bits that you didn't already know and that you feel as though are important.\n\nStuck or don't understand something? Go to other learning sources. Youtube has a lot of passionate math teaching channels, and they often supplement their lessons with images to better help you understand the material. Websites like mathisfun, mesacc, mathplanet and the such also make learning easier.\n\nIf you have a learning module and you've just caught up to it, try reading it and solving the math exercises it has. It offers a whole other perspective on what you've learned on KA and other sources, and is actually quite challenging to understand.\n\nYou shouldn't take it too slow since you might start procrastinating, but don't rush either. There isn't a teacher pushing you to cram, after all, so you can take the learning at your own pace. I've only started using Khan Academy a year ago, so I still don't have that much experience as the others, but I hope this was of even a little bit of help. Good luck learning."
+  },
+  {
+    "reddit_id": "euabdkj",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "What is your goal?\n\nHave you seen KA's guidance, with those \"levels\", and points yountonthe next exercise/section?"
+  },
+  {
+    "reddit_id": "euaizk8",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Then you mean rapidly or possibly consecutively. Simultaneous means for two things to happen literally at the same time. You can't answer two questions simultaneously."
+  },
+  {
+    "reddit_id": "evr28ib",
+    "community": "r/Khan",
+    "post_type": "comment",
+    "upvotes": 0,
+    "created_at": "",
+    "sanitized_text": "Nah you don't need to rush things take the time you need, work at your own pace. I know schools do this but Mastery Based Learning is about working at your own pace, personalizing individual learning and doing things to way YOU understand, when you refresh the page it's saved at where you left off in the questions even in the Unit Test :P so if you need to take a break and get some air suddenly or you decide you've had enough for the day you can just close and resume the next day. If you CAN answer them quickly though go ahead but you NEED to become fully practised and become confident in each skill first."
+  }
+]

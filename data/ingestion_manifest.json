@@ -1,0 +1,25 @@
+{
+  "pipeline_version": "1.0.0",
+  "run_timestamp": "2026-11-24T17:44:10.702113",
+  "sources_harvested": {
+    "playstore": 192,
+    "reddit": 482,
+    "appstore": 150,
+    "youtube": 5,
+    "forum": 4
+  },
+  "total_raw_collected": 833,
+  "valid_text_count": 707,
+  "duplicates_pruned": 0,
+  "sanitized_corpus_count": 707,
+  "pii_redactions_total": {
+    "emails": 0,
+    "phones": 2,
+    "ips": 0,
+    "urls": 71,
+    "usernames": 3,
+    "teachers_schools": 2,
+    "names": 190
+  },
+  "execution_duration_sec": 4.52
+}

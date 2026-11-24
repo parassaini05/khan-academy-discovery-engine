@@ -1,0 +1,1154 @@
+[
+  {
+    "review_id": "5c6cc068-d9f0-4b4e-9185-27f1c02bfa2d",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.0,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General Platform Experience",
+    "verbatim_struggle_quote": "Khan Academy provided me with all lot's of stuff leaning opportunities and visual articles, video and interactive quizzes",
+    "original_review": {
+      "review_id": "5c6cc068-d9f0-4b4e-9185-27f1c02bfa2d",
+      "date": "2026-10-23T22:22:08",
+      "score": 1,
+      "thumbs_up": 5,
+      "review_text": "I gave a 1 star because, I want haters to realize what an opportunity Khan Academy is!!! I used to use the free plan of Brilliant. org which of course gave me limited access.. .. But to have an educational app that's completely free to use... wow! that's way too good to be true!! and as a matter of fact, it's a reality! Khan Academy provided me with all lot's of stuff leaning opportunities and visual articles, video and interactive quizzes.. there's just soo much May God Bless You, KhanTeam"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03764856979250908,
+      -0.035631682723760605,
+      -0.014387131668627262,
+      -0.02639433555305004,
+      0.0031463447958230972
+    ]
+  },
+  {
+    "review_id": "b1ec8783-70b6-4fdb-a4cc-d54670b90444",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Account Management / Login",
+    "verbatim_struggle_quote": "the App refuses to keep me logged in, no matter how many times I login... Uninstalled, I only prefer functional products.",
+    "original_review": {
+      "review_id": "b1ec8783-70b6-4fdb-a4cc-d54670b90444",
+      "date": "2026-09-06T19:21:35",
+      "score": 1,
+      "thumbs_up": 101,
+      "review_text": "This is website going to be handy for me getting into MIT, because I dropped out in 6th grade, and therefore I don't have any High School test scores to submit; the App refuses to keep me logged in, no matter how many times I login, no matter what settings are adjusted, and the site has more features with fewer privacy concerns. Uninstalled, I only prefer functional products."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.039207085967063904,
+      -0.04617185518145561,
+      -0.0046958415769040585,
+      -0.059644248336553574,
+      -0.000668493565171957
+    ]
+  },
+  {
+    "review_id": "2bd6237e-00b9-4ed8-9017-41e07eb88915",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.8,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Account Management / Login",
+    "verbatim_struggle_quote": "I just installed the app, and they told me to sign up on my browser I did. but they are saying error.",
+    "original_review": {
+      "review_id": "2bd6237e-00b9-4ed8-9017-41e07eb88915",
+      "date": "2026-11-09T15:13:25",
+      "score": 1,
+      "thumbs_up": 14,
+      "review_text": "I just installed the app, and they told me to sign up on my browser I did. but they are saying error. I really want to send the picture to you guys. it was chapgpt that recommended this app for me."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.05159369483590126,
+      -0.04715150222182274,
+      -0.0024585947394371033,
+      -0.04613461345434189,
+      -0.08392003923654556
+    ]
+  },
+  {
+    "review_id": "3d680297-a735-4052-8e2e-20408ddc6ab7",
+    "primary_category": "CALCULATION_OR_EXECUTION_SLIP",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.75,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Algebra / One-Step Equations",
+    "verbatim_struggle_quote": "Unfair & Ridiculously Simple Scoring System... Confusing Questions In \"Find the mistake in one-step equations\"",
+    "original_review": {
+      "review_id": "3d680297-a735-4052-8e2e-20408ddc6ab7",
+      "date": "2026-10-31T02:43:53",
+      "score": 1,
+      "thumbs_up": 9,
+      "review_text": "Bugs I've Found (So Far\u2026 \ud83e\udd26\ud83c\udffb): - I Can't Get To Most Of The Settings ANYMORE - Unfair & Ridiculously Simple Scoring System: - All Questions Correct: (After The Unit Test) 100% - All Questions Correct: 80% - 1 Question Incorrect: 50% - +2 Questions Incorrect: 0% - Confusing Questions In \"Find the mistake in one-step equations\" - Courses Not Diverse Enough"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07212837785482407,
+      -0.010792543180286884,
+      0.03277834132313728,
+      -0.04597516357898712,
+      0.010271615348756313
+    ]
+  },
+  {
+    "review_id": "3c5cec1c-1333-40a1-8bad-05fe016833a9",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.95,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "User Interface / Layout",
+    "verbatim_struggle_quote": "at the bottom, the thing I don't need is there, and I don't have enough space on my phone to look at the stupid thing that I don't want to",
+    "original_review": {
+      "review_id": "3c5cec1c-1333-40a1-8bad-05fe016833a9",
+      "date": "2026-10-09T04:48:55",
+      "score": 1,
+      "thumbs_up": 0,
+      "review_text": "you are soo stupid to manage this app before changing anything, let your work work on that. And see how he feels, then change. If he's comfortable, but I'm trying to solve a question. And at the bottom, the thing I don't need is there, and I don't have enough space on my phone to look at the stupid thing that I don't want to so please, we're going to have a you want a chicken, something call the worker, and let him try. If you like it, just give the option to edit"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.06130038574337959,
+      -0.03309468552470207,
+      0.044779904186725616,
+      -0.03451840206980705,
+      -0.05162985995411873
+    ]
+  },
+  {
+    "review_id": "a83a7453-1c14-4dc9-94c9-87cb02cdfb7e",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 1.0,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Account Management / Login",
+    "verbatim_struggle_quote": "when i log in the app it take me to the browser... i lost my account and i fail the 1st term because of error account",
+    "original_review": {
+      "review_id": "a83a7453-1c14-4dc9-94c9-87cb02cdfb7e",
+      "date": "2026-09-30T20:11:47",
+      "score": 1,
+      "thumbs_up": 2,
+      "review_text": "when i log in the app it take me to the browser and as i log again, It say i already log in while the app didn't so i lost my account and i fail the 1st term because of error account, i try to add different account same thing happened"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.013991805724799633,
+      -0.049964942038059235,
+      0.01864222250878811,
+      -0.0434219129383564,
+      -0.08824976533651352
+    ]
+  },
+  {
+    "review_id": "091f5171-796a-4a57-80a9-b02cf1ecc159",
+    "primary_category": "CONTEXTUAL_TRANSFER_FAILURE",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.6,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Course Structure / Curriculum Design",
+    "verbatim_struggle_quote": "It now got too much syllabus oriented like class 1 to 12th for multiple state boards in india... please have standalone courses",
+    "original_review": {
+      "review_id": "091f5171-796a-4a57-80a9-b02cf1ecc159",
+      "date": "2026-09-06T02:05:02",
+      "score": 1,
+      "thumbs_up": 7,
+      "review_text": "It now got too much syllabus oriented like class 1 to 12th for multiple state boards in india. it nice but please have standalone courses on math, biology, physics, chemistry, economics,music, etc."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.013129454106092453,
+      -0.022929750382900238,
+      0.0030450441408902407,
+      -0.07514005154371262,
+      -0.007246603257954121
+    ]
+  },
+  {
+    "review_id": "ba62ec0f-72cf-4f72-ae2d-26867dc96ac2",
+    "primary_category": "RULE_MISCONCEPTION",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General Content Accuracy",
+    "verbatim_struggle_quote": "it gave my kid depression it's answers are wrong",
+    "original_review": {
+      "review_id": "ba62ec0f-72cf-4f72-ae2d-26867dc96ac2",
+      "date": "2026-11-13T22:26:17",
+      "score": 1,
+      "thumbs_up": 1,
+      "review_text": "don't get this app you can only learn one way in it it gave my kid depression it's answers are wrong it's a -10 out of 10 app"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.016735350713133812,
+      -0.01755138300359249,
+      0.006471403408795595,
+      -0.07025904208421707,
+      -0.0563998706638813
+    ]
+  },
+  {
+    "review_id": "7dda068e-13c1-4ca0-b6a6-0ab4ed3adfbb",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.88,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General App Experience",
+    "verbatim_struggle_quote": "The lack of chromecast support makes it so much harder for me to study!",
+    "original_review": {
+      "review_id": "7dda068e-13c1-4ca0-b6a6-0ab4ed3adfbb",
+      "date": "2019-04-07T01:31:35",
+      "score": 1,
+      "thumbs_up": 2,
+      "review_text": "Love everything about Khan Academy. Except this app. The lack of chromecast support makes it so much harder for me to study! The rest of the app works great as long as you aren't trying to download gigs of bookmarks at a time. I would change my rating to 5 stars if chromecast support was added!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03309442847967148,
+      -0.009404868818819523,
+      0.0017303620697930455,
+      -0.03065786510705948,
+      -0.059816304594278336
+    ]
+  },
+  {
+    "review_id": "f5a62ad7-c3ff-4273-8c6f-35a0c009df92",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "HINT_EXHAUSTION",
+    "frustration_score": 0.92,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Algebra / Equation Recognition",
+    "verbatim_struggle_quote": "rubbish explanation and obnoxious way of giving examples and recognizing equations",
+    "original_review": {
+      "review_id": "f5a62ad7-c3ff-4273-8c6f-35a0c009df92",
+      "date": "2026-08-29T14:20:32",
+      "score": 1,
+      "thumbs_up": 31,
+      "review_text": "possibly the worst education app, rubbish explanation and obnoxious way of giving examples and recognizing equations. I absolutely do not recommend just a waste of time"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.02870035357773304,
+      -0.0077362689189612865,
+      -0.02117786929011345,
+      -0.03353719413280487,
+      -0.010007712058722973
+    ]
+  },
+  {
+    "review_id": "be20edc3-2eb4-40c8-a43d-0d1fa9fa9fd1",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General App Experience",
+    "verbatim_struggle_quote": "unit tests can sometimes be difficult and have many questions... I still don\u2019t meet the required learning minutes",
+    "original_review": {
+      "review_id": "be20edc3-2eb4-40c8-a43d-0d1fa9fa9fd1",
+      "date": "2026-08-31T14:19:28",
+      "score": 1,
+      "thumbs_up": 2,
+      "review_text": "Khan Academy is a very helpful app for learning, but some parts can be improved. The unit tests can sometimes be difficult and have many questions, so it would be better if the number of questions could be reduced or if the tests could be a little easier. It would also be better if there was no minimum required learning time. Sometimes, I already finish answering all the activities and watching the required videos, but I still don\u2019t meet the required learning minutes.Also fix the bugs and errors"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04801783710718155,
+      -0.0006767137674614787,
+      0.04347018897533417,
+      -0.03528441861271858,
+      -0.04708155617117882
+    ]
+  },
+  {
+    "review_id": "6e99c442-fabd-4678-a90a-569714e57846",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.87,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General App Experience",
+    "verbatim_struggle_quote": "The app has so many pop ups that you spend more time closing pop ups than you do learning",
+    "original_review": {
+      "review_id": "6e99c442-fabd-4678-a90a-569714e57846",
+      "date": "2026-10-08T22:54:28",
+      "score": 1,
+      "thumbs_up": 0,
+      "review_text": "Annoying way to learn. The app has so many pop ups that you spend more time closing pop ups than you do learning and practicing. Other learning apps have better flow and design with minimal interruptions. This one creates more frustration than necessary. It's like swatting away flies constantly."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.02814602293074131,
+      -0.059218380600214005,
+      0.03977155312895775,
+      -0.018834957852959633,
+      -0.012370416894555092
+    ]
+  },
+  {
+    "review_id": "ec9884ac-8e39-4e55-859b-41539e261ec9",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.91,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General App Experience",
+    "verbatim_struggle_quote": "I ALWAYS have problems logging in... it still says my login or password is incorrect",
+    "original_review": {
+      "review_id": "ec9884ac-8e39-4e55-859b-41539e261ec9",
+      "date": "2026-09-25T03:36:03",
+      "score": 1,
+      "thumbs_up": 2,
+      "review_text": "It's a good app but I ALWAYS have problems logging in, whether it be on the website or on the app, even if I enter the correct password AND email/user, it still says my login or password is incorrect. I've already reset my password 2 TIMES. Please fix this."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.02091115154325962,
+      -0.06919886916875839,
+      -0.0030957567505538464,
+      -0.05756653472781181,
+      -0.047151535749435425
+    ]
+  },
+  {
+    "review_id": "2baec3cc-51a9-46f0-8aef-0892aaeebc3b",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.84,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "General App Experience",
+    "verbatim_struggle_quote": "Bad quality offline video... the video quality was so so so bad like near 140p",
+    "original_review": {
+      "review_id": "2baec3cc-51a9-46f0-8aef-0892aaeebc3b",
+      "date": "2018-12-24T19:38:49",
+      "score": 1,
+      "thumbs_up": 9,
+      "review_text": "Bad quality offline video. I've been using Khan academy android app and it's quite helpful.  But after I needed it offline I downloaded my tutorial(or the thing you call it), the video quality was so so so bad like near 140p, how do I change the quality of the offline videos?  Thanks for any help.  This is an excerpt."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04191642254590988,
+      -0.0030927450861781836,
+      0.01569853350520134,
+      -0.06225742772221565,
+      -0.022447559982538223
+    ]
+  },
+  {
+    "review_id": "09b14261-815f-4b3d-90f9-f835846e2aa0",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.95,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Algebra / Equation Solving",
+    "verbatim_struggle_quote": "the app answer is yes but I got no... I asked AI and it also says no",
+    "original_review": {
+      "review_id": "09b14261-815f-4b3d-90f9-f835846e2aa0",
+      "date": "2026-09-21T18:51:12",
+      "score": 1,
+      "thumbs_up": 1,
+      "review_text": "This app is so baaaaaaaddddddd.when i opened the app and solve the questions one question answer is no . i confused so I asked to ai .he also reply no but khan academy answer is yes . i question to who is created the app. answers is wrong. what learn students \ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.052682556211948395,
+      -0.004034008830785751,
+      0.0022290570195764303,
+      -0.03056229278445244,
+      -0.03526418283581734
+    ]
+  },
+  {
+    "review_id": "5cb3d8e6-6618-42f0-8fb8-3e8a6ec2c3aa",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.89,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General App Experience",
+    "verbatim_struggle_quote": "It doesn't provide all the stuff that is required for preparation of concepts... crashes!",
+    "original_review": {
+      "review_id": "5cb3d8e6-6618-42f0-8fb8-3e8a6ec2c3aa",
+      "date": "2019-06-07T09:35:43",
+      "score": 1,
+      "thumbs_up": 7,
+      "review_text": "A really awful app just a waste of time. First of all it doesn't provide all the stuff that is required for preparation of concepts. Next it works awfully bad. So much of crashes! Last but not the least the app doesn't provide interactive study material for the students. I get too bored while watching the videos. If you'll fix all of these problems, I would think of giving it 5 stars. This app is not at all better than BYJU'S. The app should provide good practice of concepts. Worst app."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.06845207512378693,
+      0.014577756635844707,
+      -0.006870829965919256,
+      -0.045149240642786026,
+      -0.025676270946860313
+    ]
+  },
+  {
+    "review_id": "0872fbf2-46a1-4578-a267-065851ddf0c7",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.8,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "App Stability / General",
+    "verbatim_struggle_quote": "when I try to actually open a lesson, be it document, quiz, or video, the app crashes.",
+    "original_review": {
+      "review_id": "0872fbf2-46a1-4578-a267-065851ddf0c7",
+      "date": "2019-06-25T09:37:55",
+      "score": 1,
+      "thumbs_up": 50,
+      "review_text": "I really, really appreciate the website version of this, and thought that a mobile version would benefit me more. However, when I try to actually open a lesson, be it document, quiz, or video, the app crashes. I've tried signing out, clearing the cache, uninstalling and reinstalling the app, and still nothing has changed. Earlier today I sent my crash report to you. I would appreciate an explanation or a solution as I would like to use the app! Thank you!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.030760226771235466,
+      -0.03931070864200592,
+      0.05495970696210861,
+      -0.015017121098935604,
+      -0.04374727979302406
+    ]
+  },
+  {
+    "review_id": "58707df5-8b68-4e7c-9d9b-7944853b7229",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "REPEATED_BLIND_RETRY",
+    "frustration_score": 0.7,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "App Stability / General",
+    "verbatim_struggle_quote": "a pop-up \"Error making task progress...\" appeared... Received the same pop-up each time.",
+    "original_review": {
+      "review_id": "58707df5-8b68-4e7c-9d9b-7944853b7229",
+      "date": "2018-12-21T10:35:26",
+      "score": 1,
+      "thumbs_up": 9,
+      "review_text": "just installed the app. Had clicked on practice, and a pop-up \"Error making task progress. We encountered an error while attempting to make progress in this task; please try again later\" appeared. I waited, and tried again. Repeated the wait and try approach, a few more times. Received the same pop-up each time. Can't give more stars until I know what the app does, other than a pop-up error. (Not going to try uninstalling and reinstalling) If the app works later, more stars. If same issue..."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.1071772426366806,
+      -0.04470166563987732,
+      0.028529003262519836,
+      -0.05041280388832092,
+      -0.05695125460624695
+    ]
+  },
+  {
+    "review_id": "4b7a2080-8530-4e14-a372-5331860abb5d",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.85,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "App Performance / Algebra",
+    "verbatim_struggle_quote": "when i try to scroll on algebra (all sections) it lags and glitches a lot preventing me to enter a specific part of lessons.",
+    "original_review": {
+      "review_id": "4b7a2080-8530-4e14-a372-5331860abb5d",
+      "date": "2020-01-28T19:13:51",
+      "score": 1,
+      "thumbs_up": 81,
+      "review_text": "A wonderful foundation. But the app have problems: I've downloaded items of bookmarks and still not shown while I'm offline, the app is really slow even if I'm online or offline, sometimes it closes by itself, when i try to scroll on algebra (all sections) it lags and glitches a lot preventing me to enter a specific part of lessons. I've used this app 10 months ago, but i didn't have so much problems like now. I hope you fix these problem ASAP. 5 stars for the academy. 0 stars for the app."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.027115823701024055,
+      0.0012546454090625048,
+      0.03675580769777298,
+      0.0017536424566060305,
+      -0.04047178104519844
+    ]
+  },
+  {
+    "review_id": "ec62239f-74a7-4b7f-9201-9ccf2123bc7f",
+    "primary_category": "CONTEXTUAL_TRANSFER_FAILURE",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.6,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Content Scope / General",
+    "verbatim_struggle_quote": "it just didn't do it for me, all the video's when really YouTube has many more learning resources",
+    "original_review": {
+      "review_id": "ec62239f-74a7-4b7f-9201-9ccf2123bc7f",
+      "date": "2018-11-03T14:02:46",
+      "score": 1,
+      "thumbs_up": 13,
+      "review_text": "This app was not for me, thats all i can say, it says 'you can learn anything' well you can't, its mainly about history, maths and science. This was 100% not what i was looking for, if you want to learn about a small range of topics this could be for you, but it just didn't do it for me, all the video's when really YouTube has many more learning resources"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.021535856649279594,
+      0.008563258685171604,
+      -0.04065195098519325,
+      -0.06501086056232452,
+      0.009752973914146423
+    ]
+  },
+  {
+    "review_id": "f66695cd-2574-44ff-a31f-3b241a7218bd",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Video Download / Connectivity",
+    "verbatim_struggle_quote": "whenever the screen backlight goes off I'll have to restart download afresh.",
+    "original_review": {
+      "review_id": "f66695cd-2574-44ff-a31f-3b241a7218bd",
+      "date": "2022-04-29T03:08:26",
+      "score": 1,
+      "thumbs_up": 14,
+      "review_text": "This is a mobile data killer. It's quite sad that I have to keep downloading video over and over again because whenever the screen backlight goes off I'll have to restart download afresh. It's painful, discouraging, annoying and heartbreaking, especially for someone like me who has to spend through his nose to buy data in a 3rd world country. I am seriously disappointed!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.054074596613645554,
+      0.006325820926576853,
+      -0.03982899710536003,
+      -0.019447647035121918,
+      0.05538177862763405
+    ]
+  },
+  {
+    "review_id": "7a0cf4a5-35b7-43d9-b6d0-61587bfc73eb",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.75,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "App Stability / General",
+    "verbatim_struggle_quote": "it never allows me to actually sign in; it is forever in the loading stage.",
+    "original_review": {
+      "review_id": "7a0cf4a5-35b7-43d9-b6d0-61587bfc73eb",
+      "date": "2023-12-04T06:02:26",
+      "score": 1,
+      "thumbs_up": 380,
+      "review_text": "I love the Khan Academy site, but this app is so frustrating! I have downloaded it multiple times, but it never allows me to actually sign in; it is forever in the loading stage. There doesn't seem to be any way to get back to the actual content, so I have to uninstall it. If I skip the sign in and go straight to the content, none of the lessons load either. They are perpetually in the spinning circle of death screen. I am hoping this is just some sort of glitch that can get sorted out quickly."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.08283498138189316,
+      -0.019187230616807938,
+      0.01155273336917162,
+      -0.011586395092308521,
+      -0.0784185528755188
+    ]
+  },
+  {
+    "review_id": "22db4466-f308-466d-80e5-1f9211cd1ea0",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.65,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Math Tools / Scratchpad",
+    "verbatim_struggle_quote": "The button is no longer there. I didn't see removing this feature in the release notes either.",
+    "original_review": {
+      "review_id": "22db4466-f308-466d-80e5-1f9211cd1ea0",
+      "date": "2020-07-21T18:51:17",
+      "score": 1,
+      "thumbs_up": 99,
+      "review_text": "Update removed scratchpad! We use this regularly in our house, but we are all used to being able to make notes or write out problems in the Khan scratchpad. It was essential. We have had to break out notebooks because the latest update removed the ability to use the scratchpad in a math problem. The button is no longer there. I didn't see removing this feature in the release notes either. Very disappointing."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.0736927017569542,
+      -0.039474401623010635,
+      0.017471177503466606,
+      -0.008795926347374916,
+      -0.025476006790995598
+    ]
+  },
+  {
+    "review_id": "c4d1b8d0-dab7-4e9b-ab01-509e900892ca",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "PASSIVE_VIDEO_REWATCHING",
+    "frustration_score": 0.7,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "General Practice Exercises",
+    "verbatim_struggle_quote": "I watch the videos and do as told yet when I got to the question its doing it in a different way with no real explanation.",
+    "original_review": {
+      "review_id": "c4d1b8d0-dab7-4e9b-ab01-509e900892ca",
+      "date": "2020-04-30T01:35:02",
+      "score": 1,
+      "thumbs_up": 11,
+      "review_text": "I have been using khan academy for years now, there are some great lessons that makes learning easy. Yet there are a lot of lessons that make me angry and upset. I watch the videos and do as told yet when I got to the question its doing it in a different way with no real explanation. Khan Academy has its ups and down but be aware of the fact that many students and parents are upset and stressed do to the app."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.006952294614166021,
+      -0.006918902508914471,
+      0.0083614531904459,
+      -0.01140683889389038,
+      -0.045814353972673416
+    ]
+  },
+  {
+    "review_id": "177758f6-dd4c-4096-9c11-46438cb0cbf5",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "REPEATED_BLIND_RETRY",
+    "frustration_score": 0.95,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "App Loading / Exercise Access",
+    "verbatim_struggle_quote": "Not a single exercise loads, they all show a \"Error making task progress\" message.",
+    "original_review": {
+      "review_id": "177758f6-dd4c-4096-9c11-46438cb0cbf5",
+      "date": "2018-12-20T10:05:04",
+      "score": 1,
+      "thumbs_up": 15,
+      "review_text": "The website is great, but this app is useless. Not a single exercise loads, they all show a \"Error making task progress\" message. And YES, I already tried uninstalling and reinstalling it like you recommend to all the people complaining below. Has that actually fixed it for anyone? Is there a single phone that this app actually works properly on? I guess the only option is to use the site (which is slower), or maybe there's an older version of the app that actually works properly?"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07167638093233109,
+      -0.048017263412475586,
+      0.019007952883839607,
+      -0.03382178768515587,
+      -0.0391450934112072
+    ]
+  },
+  {
+    "review_id": "1857f36a-d1f5-46f5-b5b8-bda689a8e86d",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "REPEATED_BLIND_RETRY",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Login / Authentication",
+    "verbatim_struggle_quote": "every time I try to log in from my tablet it says password incorrect.",
+    "original_review": {
+      "review_id": "1857f36a-d1f5-46f5-b5b8-bda689a8e86d",
+      "date": "2019-05-07T10:00:31",
+      "score": 1,
+      "thumbs_up": 12,
+      "review_text": "I can log in from my laptop, but every time I try to log in from my tablet it says password incorrect. BS! I'm very careful typing it. I changed it. Same result. I uninstalled and reinstalled. Same result. Your app is broken! TO YOUR 05/06/2019 REPLY: You didn't read my review, because I was clear I'd already tried that. Also, I was able to install and login from phone, so only tablet is problem. \"This app is compatible with all of your devices.\" Really?"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.017017651349306107,
+      -0.043809957802295685,
+      -0.020361611619591713,
+      -0.10321604460477829,
+      -0.07760156691074371
+    ]
+  },
+  {
+    "review_id": "234f2590-48ce-43fb-a6be-7abe2f6a2ad1",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.85,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Access / Subscription Model",
+    "verbatim_struggle_quote": "I don't like stuff that says free then charges.",
+    "original_review": {
+      "review_id": "234f2590-48ce-43fb-a6be-7abe2f6a2ad1",
+      "date": "2024-09-26T08:12:16",
+      "score": 1,
+      "thumbs_up": 5,
+      "review_text": "I've always been told Khan Academy would be free and help tutor kids. But the kids app is only till 8 years old. Not to 12th grade. Then this app wants a class code and connecting math teacher. When I tried to even use website to get things going it wanted subscriptions. I don't like stuff that says free then charges. I also don't like being told it helps with tutoring, but then required a school account."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04259577393531799,
+      -0.050531867891550064,
+      -0.011229303665459156,
+      -0.04516015574336052,
+      -0.07115491479635239
+    ]
+  },
+  {
+    "review_id": "a5c1dd62-cae7-4b94-aa57-4bfe47d25484",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "REPEATED_BLIND_RETRY",
+    "frustration_score": 0.95,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "App Login / Loading",
+    "verbatim_struggle_quote": "After you sign in, it loads continuously & never actually allows you in the app.",
+    "original_review": {
+      "review_id": "a5c1dd62-cae7-4b94-aa57-4bfe47d25484",
+      "date": "2023-10-05T22:04:42",
+      "score": 1,
+      "thumbs_up": 29,
+      "review_text": "My family homeschools & has been using Khan for years. We use it on our Kindle fire browser & it will no longer load on any of our tablets. We have done every troubleshooting method available & nothing has helped. I tried downloading the app instead. After you sign in, it loads continuously & never actually allows you in the app. I downloaded it on my phone to see if it was just the Kindle & the same thing happened. We have done all the troubleshooting methods & nothing. I'm very disappointed."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.05662539601325989,
+      0.007778653409332037,
+      0.033516258001327515,
+      -0.04517756775021553,
+      -0.04005406051874161
+    ]
+  },
+  {
+    "review_id": "966f818a-2e5a-4c92-89b9-abbd025a2613",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "REPEATED_BLIND_RETRY",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Unit Test Access",
+    "verbatim_struggle_quote": "the page comes up blank except for the green lightbulb icon.",
+    "original_review": {
+      "review_id": "966f818a-2e5a-4c92-89b9-abbd025a2613",
+      "date": "2018-11-15T20:54:42",
+      "score": 1,
+      "thumbs_up": 12,
+      "review_text": "Until the most recent update everything was working well. But now whenever I view any course I can watch the videos but when I got to take a subject or unit test the page comes up blank except for the green lightbulb icon. I have tried uninstalling and reinstalling to no avail."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04469097778201103,
+      -0.0045667169615626335,
+      0.05916005000472069,
+      -0.05782279744744301,
+      0.04316651076078415
+    ]
+  },
+  {
+    "review_id": "8fa5f3a0-4004-4a84-b865-15d9e7ae5eea",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.8,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Algebra Unit Tests",
+    "verbatim_struggle_quote": "I pound my desk in rage as I'm half asleep failing the test, with it requiring me to do it over again.",
+    "original_review": {
+      "review_id": "8fa5f3a0-4004-4a84-b865-15d9e7ae5eea",
+      "date": "2022-09-09T22:21:02",
+      "score": 1,
+      "thumbs_up": 2,
+      "review_text": "It is the only thing I have to use for Algebra and Science. I stay on this site because they are the only ones with so many free resources to learn this stuff. It's good, however the unit tests are incredibly frustrating. I pound my desk in rage as I'm half asleep failing the test, with it requiring me to do it over again."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.061697818338871,
+      -0.017788097262382507,
+      0.002932604867964983,
+      -0.0005115597159601748,
+      0.016883159056305885
+    ]
+  },
+  {
+    "review_id": "25bfb602-0449-470c-a955-8f7a181fa344",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.75,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "App Navigation / Feature Availability",
+    "verbatim_struggle_quote": "Most of the features remain unavailable in the app like viewing badges.",
+    "original_review": {
+      "review_id": "25bfb602-0449-470c-a955-8f7a181fa344",
+      "date": "2025-01-29T20:33:49",
+      "score": 1,
+      "thumbs_up": 13,
+      "review_text": "Most of the features remain unavailable in the app like viewing badges, plus I can't even see courses in the class I'm joined in right from the app but when I visit your website everything is available. And one problem is that you don't have a support website or any article from your website that has a list of step by step guide in navigating the app for specific concerns such as how to view available course."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.034796807914972305,
+      -0.06578687578439713,
+      -0.00032043957617133856,
+      -0.035306159406900406,
+      -0.013705599121749401
+    ]
+  },
+  {
+    "review_id": "8d91f4f6-046e-42e6-bea2-fb0ae6dd14e9",
+    "primary_category": "CONTEXTUAL_TRANSFER_FAILURE",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.7,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Geometry Lessons / Visual Assets",
+    "verbatim_struggle_quote": "the images are often blurry. Even Co-pilot and CHATGPT can't identify the coins shown.",
+    "original_review": {
+      "review_id": "8d91f4f6-046e-42e6-bea2-fb0ae6dd14e9",
+      "date": "2026-04-21T15:14:33",
+      "score": 1,
+      "thumbs_up": 40,
+      "review_text": "This could be a great app. Good to learn, relearn, teach etc. Only issues are, it's a worldwide app, but for the Math modules, they only have US currency, and the images are often blurry. Even Co-pilot and CHATGPT can't identify the coins shown. The Geometry lessons are horrendous for a child very adept (B+, A, and A+ scores) on paper but consistently failing the KA ones. spatial reasoning comes second to \"digital precision\", so we're having to skip those ones."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03320645913481712,
+      -0.04170924425125122,
+      0.005592525936663151,
+      -0.03173121437430382,
+      -0.04634956642985344
+    ]
+  },
+  {
+    "review_id": "cf9ada3b-4ef8-4873-ab58-5c89455fcd97",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.95,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General Platform / Performance",
+    "verbatim_struggle_quote": "I can't even use it without the UX bugging out, or having to wait like 20 seconds for every action I do on the app.",
+    "original_review": {
+      "review_id": "cf9ada3b-4ef8-4873-ab58-5c89455fcd97",
+      "date": "2024-08-31T08:04:02",
+      "score": 1,
+      "thumbs_up": 45,
+      "review_text": "Even though it has really good content, the app performance is horrendous to say the least, and why can't you download on the background without issues??? It's unbearable, I'll stick to the website (Edit: I change my mind, this isnt \"horrendous to say the least\", i can't even use it without the UX bugging out, or having to wait like 20 seconds for every action I do on the app. It's like i have to wait for the server to answer every movement I do on the app. Make it offline for the love of god)"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.0702110230922699,
+      -0.02608684077858925,
+      0.0061885579489171505,
+      -0.016704732552170753,
+      0.0385514535009861
+    ]
+  },
+  {
+    "review_id": "116c9ddc-112b-4286-99cc-761ece6d0917",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.85,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Teacher Dashboard / UI",
+    "verbatim_struggle_quote": "this app is not intuitive...being able to use the app on the teacher side does not work.",
+    "original_review": {
+      "review_id": "116c9ddc-112b-4286-99cc-761ece6d0917",
+      "date": "2020-06-23T17:06:34",
+      "score": 1,
+      "thumbs_up": 3,
+      "review_text": "I appreciate Khan Academy and all that Sal and the team do for us with learning. Sadly, this app is not intuitive. As someone who prides myself on being both a teacher and a student in Khan Academy, I am finding that being able to use the app on the teacher side does not work. I will continue to use Khan academy for my students, my children and myself and will hope that the app will get better for the teaching side."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.0547604076564312,
+      0.010637489147484303,
+      -0.011770554818212986,
+      -0.0665442943572998,
+      -0.03137926012277603
+    ]
+  },
+  {
+    "review_id": "51ed9c0a-bad2-4fd1-b326-bd8019d3ca35",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "General Practice Exercises",
+    "verbatim_struggle_quote": "I couldn't get most of the problems correct.",
+    "original_review": {
+      "review_id": "51ed9c0a-bad2-4fd1-b326-bd8019d3ca35",
+      "date": "2023-11-06T04:55:03",
+      "score": 1,
+      "thumbs_up": 3,
+      "review_text": "Honestly. I really,strongly don't like this app. It teaches you absolutely nothing in my opinion. From what I've heard form students,it's a waste of time. It doesn't teach you anything,and very frustrating. I was helping my younger siblings with some homework from this app. And even I couldn't get it. I tried it myself,by downloading the app. And I couldn't get most of the problems correct. I recommend using a different app for something like this. This is not very useful."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07090602815151215,
+      -0.028485679998993874,
+      -0.012956562452018261,
+      -0.05793606862425804,
+      -0.01638663560152054
+    ]
+  },
+  {
+    "review_id": "2da70744-0924-4dd8-9c4d-cdc9785a8aa5",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.88,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Mastery System / Unit Tests",
+    "verbatim_struggle_quote": "if you get one wrong towards the beginning there is not option to restart, you just have to do the whole thing.",
+    "original_review": {
+      "review_id": "2da70744-0924-4dd8-9c4d-cdc9785a8aa5",
+      "date": "2022-06-21T12:17:10",
+      "score": 1,
+      "thumbs_up": 149,
+      "review_text": "The system is horrendous. After you've reached 'proficient' on all topics you have to take the unit test to level up. But the unit test is usually 20 questions long and if you're not doing well in one topic and you keep missing 1 question you have to take the 40 minute test all over again. Also, if you get one wrong towards the beginning there is not option to restart, you just have to do the whole thing knowing there is no point. (Also i am required to get all the mastery points for school)"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.056007497012615204,
+      0.04193862900137901,
+      0.025645537301898003,
+      -0.027146216481924057,
+      -0.00971421878784895
+    ]
+  },
+  {
+    "review_id": "a4e54013-da77-4d11-9ccb-0b45fc833c52",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.92,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "App Stability / Geometry Course",
+    "verbatim_struggle_quote": "It crashed atleast 5 times... restarting the entire test as if I'd never taken it.",
+    "original_review": {
+      "review_id": "a4e54013-da77-4d11-9ccb-0b45fc833c52",
+      "date": "2018-11-24T20:36:21",
+      "score": 1,
+      "thumbs_up": 70,
+      "review_text": "I just got the app. Spent 2 hours doing a course theory text in geometry. It crashed atleast 5 times but let me resume on a different question around where I was in question order. Then I get to the final question, I get it wrong and it crashes again. This time restarting the entire test as if I'd never taken it. No info on how I did or anything. So frustrating. I would love to give this a great rating and I was really excited. Please look into this."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.05591964349150658,
+      0.015734095126390457,
+      0.018840743228793144,
+      -0.011442369781434536,
+      -0.03516402840614319
+    ]
+  },
+  {
+    "review_id": "84c15c49-3875-4e45-8805-74fb9846c557",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.7,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "UI / Scratchpad",
+    "verbatim_struggle_quote": "It has no start over button, the scratchpad colors are more limited, it's harder to see what you have completed and what you don't.",
+    "original_review": {
+      "review_id": "84c15c49-3875-4e45-8805-74fb9846c557",
+      "date": "2023-03-21T11:03:17",
+      "score": 1,
+      "thumbs_up": 177,
+      "review_text": "This app pales in comparison to its website. If you're considering downloading, don't. It has no start over button, the scratchpad colors are more limited, it's harder to see what you have completed and what you don't, etc. The content is good and challenging, though. If you like Khan, go to the website. It's so much nicer. And just another thing to add, just because I think i've focused on the negative too much: It is an amazing app besides all these things, and i would definitely recommend it!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07306958734989166,
+      -0.039059992879629135,
+      -0.011242507956922054,
+      0.001698297099210322,
+      0.008294204249978065
+    ]
+  },
+  {
+    "review_id": "e96697f9-15fa-473d-b2c2-d2cd373b2a6f",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "REPEATED_BLIND_RETRY",
+    "frustration_score": 0.8,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Input UI on Android",
+    "verbatim_struggle_quote": "when I click on text box to fill in answer it will zoom in... it does not allow me to zoom out.",
+    "original_review": {
+      "review_id": "e96697f9-15fa-473d-b2c2-d2cd373b2a6f",
+      "date": "2022-05-08T19:20:29",
+      "score": 1,
+      "thumbs_up": 33,
+      "review_text": "Love this app, would give it 5 stars. But it does not like Google pixel 6 pro...when I click on text box to fill in answer it will zoom in...if it is a multiple answer question after the meeting initial zoom in it does not allow to zoom out to fill in last answer...it's like it locks in the zoom and does not allow me to zoom back out. On the PC it's perfect!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.018796101212501526,
+      -0.019023526459932327,
+      0.0016237556701526046,
+      -0.0480538047850132,
+      -0.03617413341999054
+    ]
+  },
+  {
+    "review_id": "f50a6b31-d182-4a19-9829-5da5e44691d7",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "PASSIVE_VIDEO_REWATCHING",
+    "frustration_score": 0.75,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Video Playback / Audio",
+    "verbatim_struggle_quote": "every video had annoying music... it's hard to keep attention on the subject when music keeps distracting you.",
+    "original_review": {
+      "review_id": "f50a6b31-d182-4a19-9829-5da5e44691d7",
+      "date": "2024-02-03T08:24:35",
+      "score": 1,
+      "thumbs_up": 592,
+      "review_text": "Today I wanted to learn AI. I remember Khan Academy was good, so I installed it again. I found an AI course quickly. But when I started watching to it, I was disappointed - every video had annoying music. It's hard to keep attention on the subject when music keeps distracting you. Music is for great for manipulating emotions. It's essential for a horror movie or a romantic comedy. But for a STEM video it's detrimental."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.016375770792365074,
+      -0.0009650960564613342,
+      0.01784384995698929,
+      -0.023128939792513847,
+      -0.002418996300548315
+    ]
+  },
+  {
+    "review_id": "96f5e170-ab6b-4320-8ea8-071cd357bad0",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.8,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "App Stability / Grading Engine",
+    "verbatim_struggle_quote": "Tests randomly stop recognizing that you've entered an answer. Leaving the Check button disabled and unable to continue.",
+    "original_review": {
+      "review_id": "96f5e170-ab6b-4320-8ea8-071cd357bad0",
+      "date": "2019-09-04T05:13:49",
+      "score": 1,
+      "thumbs_up": 18,
+      "review_text": "Tests randomly stop recognizing that you've entered an answer. Leaving the Check button disabled and unable to continue. Closing and reopening the app doesn't help. Reinstalling didn't help. Fortunately the web developers got it right. Used firefox and was able to continue answering questions without issue on the website."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.049987468868494034,
+      0.033584073185920715,
+      0.018507424741983414,
+      -0.019043482840061188,
+      -0.03615715354681015
+    ]
+  },
+  {
+    "review_id": "22937894-8e39-4ec4-8767-ddbca23c3ec8",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "App Stability / Progress Tracking",
+    "verbatim_struggle_quote": "deletes my progress every few minutes and makes me restart, saying \"Error Making Task Progress\".",
+    "original_review": {
+      "review_id": "22937894-8e39-4ec4-8767-ddbca23c3ec8",
+      "date": "2019-06-29T12:53:14",
+      "score": 1,
+      "thumbs_up": 15,
+      "review_text": "I rarely write reviews, if ever, and I had high expectations for this app. Don't get me wrong, Khan academy is a very informational website, good for learning. The app however is very buggy and glitchy, deletes my progress every few minutes and makes me restart, saying \"Error Making Task Progress\". Nothing wrong with my internet connection, just the app. If the app is fixed, I will change my review. Until then, save yourselves the headache and frustration and just use the website. Disappointed."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.06707294285297394,
+      -0.02426241897046566,
+      0.04250272735953331,
+      -0.021023862063884735,
+      -0.03176998719573021
+    ]
+  },
+  {
+    "review_id": "4a312c27-f1ca-484a-a218-ac274bd8ff4e",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.95,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Account Management / Data Persistence",
+    "verbatim_struggle_quote": "I lost progress in an account and started another. Now I can't get into the second... Two grades are gone.",
+    "original_review": {
+      "review_id": "4a312c27-f1ca-484a-a218-ac274bd8ff4e",
+      "date": "2022-02-11T18:02:55",
+      "score": 1,
+      "thumbs_up": 47,
+      "review_text": "Would be great except there's no recourse if you have problems. Nobody to talk to. I lost progress in an account and started another. Now I can't get into the second and when I did it was briefly and appeared to have lost progress again, then was unable to enter the account after that without any reason. I was using this to home school my daughter. Two grades are gone. I tried logging in from my phone and a laptop, Didn't work. Also did send a request for help and did not hear back. Please help"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.049419280141592026,
+      -0.04064314439892769,
+      0.018261320888996124,
+      -0.054743826389312744,
+      -0.0833197832107544
+    ]
+  },
+  {
+    "review_id": "0d9e2a29-0099-4236-b837-9d80322eb7a4",
+    "primary_category": "CALCULATION_OR_EXECUTION_SLIP",
+    "observed_behavior": "REPEATED_BLIND_RETRY",
+    "frustration_score": 0.85,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Fraction/Decimal Input Formatting",
+    "verbatim_struggle_quote": "The answer is 2 and 2/5? Well if you put 2.4 you get it wrong. But some times if you put 2 and 2/5 you get that wrong too when it instead wants 2.4.",
+    "original_review": {
+      "review_id": "0d9e2a29-0099-4236-b837-9d80322eb7a4",
+      "date": "2024-10-16T03:34:36",
+      "score": 1,
+      "thumbs_up": 78,
+      "review_text": "Not only is the app buggy, but it will give you incorrect results for no reason. The answer is 2 and 2/5? Well if you put 2.4 you get it wrong. But some times if you put 2 and 2/5 you get that wrong too when it instead wants 2.4. The menu and navigation is horrible and makes no sense. Go to \"recent lesson\" and it takes you somewhere totally random it seems. Either several back or ahead from where you are 500 characters is not enough to give an accurate review sadly."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.08539702743291855,
+      -0.040103428065776825,
+      0.012661072425544262,
+      -0.03609040752053261,
+      -0.05602173134684563
+    ]
+  },
+  {
+    "review_id": "0a8c2877-171d-4300-ab57-8cbd45fa60ad",
+    "primary_category": "CONTEXTUAL_TRANSFER_FAILURE",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.7,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Lesson-to-Test Alignment",
+    "verbatim_struggle_quote": "The lessons (or classes) don't make much sense and fail to prepare you for the tests to come, only to leave you frustrated with a failing score.",
+    "original_review": {
+      "review_id": "0a8c2877-171d-4300-ab57-8cbd45fa60ad",
+      "date": "2022-08-27T13:37:32",
+      "score": 1,
+      "thumbs_up": 4,
+      "review_text": "Khan Academy feels like a reiterating of school but worse. The lessons (or classes) don't make much sense and fail to prepare you for the tests to come, only to leave you frustrated with a failing score. I wish the app contained more comprehensive approaches to teaching its enrolled students the concepts of every course it offers, as well as tests/quizzes that better reflected what you actually learn during the lessons."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03506840392947197,
+      0.0012809076579287648,
+      0.024901514872908592,
+      -0.01536419428884983,
+      -0.037425946444272995
+    ]
+  },
+  {
+    "review_id": "9b3410b8-fcc1-42a4-bcaf-af0787765ffa",
+    "primary_category": "RULE_MISCONCEPTION",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.8,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Arithmetic Methods / Pedagogical Approach",
+    "verbatim_struggle_quote": "Instead of carrying numbers they have you do multiplication, division, grouping etc. It's just nonsense, I'm using the methods I learned and getting the answers before they do all of these extra unnecessary steps.",
+    "original_review": {
+      "review_id": "9b3410b8-fcc1-42a4-bcaf-af0787765ffa",
+      "date": "2025-10-07T09:08:06",
+      "score": 1,
+      "thumbs_up": 40,
+      "review_text": "I downloaded this to brush up on my math but it's impossible with the way they teach it. They make it so much more difficult than it needs to be. Instead of carrying numbers they have you do multiplication, division, grouping etc. It's just nonsense, I'm using the methods I learned and getting the answers before they do all of these extra unnecessary steps. Find another app if you can."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04664276912808418,
+      -0.03804502636194229,
+      0.01582522504031658,
+      -0.04938330128788948,
+      -0.008718651719391346
+    ]
+  },
+  {
+    "review_id": "c5c0e043-d07f-4748-89f5-6ab48d13fc34",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.9,
+    "abandonment_risk": "HIGH",
+    "struggle_topic": "Account Authentication / Onboarding",
+    "verbatim_struggle_quote": "When I try to simply sign into the account it doesn't recognize the password, try to reset the password, it says the account doesn't exist.",
+    "original_review": {
+      "review_id": "c5c0e043-d07f-4748-89f5-6ab48d13fc34",
+      "date": "2021-01-08T21:06:55",
+      "score": 1,
+      "thumbs_up": 4,
+      "review_text": "I always have high hopes for Khan Academy. On YouTube it's nice to be able to search a video to help my kids with their learning. But the UI is unsatisfactory every time. 5 minutes after I set up a new account for my son, Khan Academy sends the email to finalize the account but won't let me access that website. When I try to simply sign into the account it doesn't recognize the password, try to reset the password, it says the account doesn't exist. Stuff like this happens EVERY TIME. \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07088390737771988,
+      -0.01910795271396637,
+      0.01770750992000103,
+      -0.017828702926635742,
+      -0.0651744082570076
+    ]
+  },
+  {
+    "review_id": "d652940c-a942-4dd8-bfb2-d2065ca798b6",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.75,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "General Math Proficiency / Progression",
+    "verbatim_struggle_quote": "People like me who are unlucky cant seem to go up 1% in a full hour. This website favors certain users and it's really annoying.",
+    "original_review": {
+      "review_id": "d652940c-a942-4dd8-bfb2-d2065ca798b6",
+      "date": "2019-01-04T07:20:33",
+      "score": 1,
+      "thumbs_up": 2,
+      "review_text": "I use this app souly for math because we need to do it for school. We have to do 25% each quarter of the school year. You'd think that would be enough time right? For some it is and for people like me it isn't. I have friends that go up 5% in a half hour and finished their whole quarter early. People like me who are unlucky cant seem to go up 1% in a full hour. This website favors certain users and it's really annoying. Now the quarter is almost over and I only have 28 out of 50 done. Thanks Khan"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.08463017642498016,
+      -0.042663030326366425,
+      0.007333545014262199,
+      -0.014560030773282051,
+      -0.0031364955939352512
+    ]
+  }
+]

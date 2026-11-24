@@ -1,0 +1,52 @@
+{
+  "experiment_id": "EXP-COGNITIVE-DIAGNOSTIC-PILOT-4W",
+  "duration_weeks": 4,
+  "sample_size": {
+    "control": 10000,
+    "treatment": 10000,
+    "total": 20000
+  },
+  "primary_metric_abandonment": {
+    "name": "Session Abandonment Rate Post-Failure",
+    "control_rate": 38.42,
+    "treatment_rate": 21.35,
+    "absolute_reduction_pct_pts": 17.07,
+    "relative_reduction_pct": 44.43,
+    "chi2_statistic": 694.4866,
+    "p_value": 4.7275898664748924e-153,
+    "statistically_significant": true,
+    "target_threshold_pct": 15.0,
+    "acceptance_criteria_met": true
+  },
+  "secondary_metric_first_retry": {
+    "name": "First-Retry Success Rate",
+    "control_rate": 34.05,
+    "treatment_rate": 63.76,
+    "absolute_increase_pct_pts": 29.71,
+    "relative_increase_pct": 87.25,
+    "chi2_statistic": 1765.0265,
+    "p_value": 0.0,
+    "statistically_significant": true,
+    "target_threshold_pct": 20.0,
+    "acceptance_criteria_met": true
+  },
+  "efficiency_metrics": {
+    "time_to_mastery_minutes": {
+      "control_mean": 28.57,
+      "treatment_mean": 18.22,
+      "reduction_minutes": 10.35,
+      "two_sample_t_p_value": 0.0,
+      "mann_whitney_u_p_value": 0.0
+    },
+    "hints_consumed_per_session": {
+      "control_mean": 3.8,
+      "treatment_mean": 1.9,
+      "reduction_percent": 50.02
+    }
+  },
+  "overall_conclusion": {
+    "hypothesis_proven": true,
+    "ready_for_full_rollout": true,
+    "summary": "Treatment yielded a 44.4% relative reduction in session abandonment and an 87.3% relative increase in retry success (both p < 0.0001)."
+  }
+}

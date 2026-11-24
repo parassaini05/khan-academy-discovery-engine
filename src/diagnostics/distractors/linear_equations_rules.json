@@ -1,0 +1,303 @@
+{
+  "catalog_version": "1.0.0",
+  "total_rules": 27,
+  "rules": [
+    {
+      "rule_id": "MISC-DISTRIB-PARTIAL",
+      "name": "Partial Distribution to Variable Only",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-ALG-DISTRIB-POS",
+      "detection_pattern": "a(x + b) expanded as ax + b",
+      "sample_trigger": "3(x + 4) = 24 evaluated as 3x + 4 = 24",
+      "diagnostic_explanation": "You multiplied 3 by x, but forgot to also multiply 3 by 4.",
+      "scaffolded_hint": "Remember the distributive property: multiply the outside factor by EVERY term inside the parentheses: a(b + c) = a*b + a*c.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-DISTRIB-SIGN",
+      "name": "Negative Factor Distribution Sign Error",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-ALG-DISTRIB-NEG",
+      "detection_pattern": "-a(x + b) expanded as -ax + ab",
+      "sample_trigger": "-2(x + 5) = 10 evaluated as -2x + 10 = 10",
+      "diagnostic_explanation": "When multiplying by -2, remember that a negative times a positive is negative: -2 * 5 = -10.",
+      "scaffolded_hint": "Check your signs: distributing -2 across (x + 5) gives -2x - 10.",
+      "suggested_action": "SIGN_CHECK_CALLOUT"
+    },
+    {
+      "rule_id": "MISC-DISTRIB-DOUBLE-NEG",
+      "name": "Double Negative Distribution Slip",
+      "cognitive_failure_mode": "PREREQUISITE_GAP",
+      "root_concept_node_id": "MATH-NUM-NEG-MULT",
+      "detection_pattern": "-a(x - b) expanded as -ax - ab",
+      "sample_trigger": "-3(x - 4) = 15 evaluated as -3x - 12 = 15",
+      "diagnostic_explanation": "Multiplying negative 3 by negative 4 gives positive 12, not negative 12.",
+      "scaffolded_hint": "A negative times a negative is ALWAYS positive: (-3) * (-4) = +12.",
+      "suggested_action": "PREREQUISITE_REROUTE"
+    },
+    {
+      "rule_id": "MISC-UNBALANCED-SUB",
+      "name": "Unbalanced Equation: Single-Side Subtraction",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-SCALE-BALANCE",
+      "detection_pattern": "x + a = b simplified to x = b",
+      "sample_trigger": "x + 7 = 15 simplified to x = 15",
+      "diagnostic_explanation": "You subtracted 7 from the left side, but forgot to subtract 7 from the right side.",
+      "scaffolded_hint": "Think of an equation as a scale: whatever you subtract from one side, you must subtract from the other side: x = 15 - 7.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-UNBALANCED-ADD",
+      "name": "Additive Sign Inversion on Transposition",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-ALG-ADD-INV",
+      "detection_pattern": "x + a = b simplified to x = b + a",
+      "sample_trigger": "x + 6 = 20 evaluated as x = 26",
+      "diagnostic_explanation": "To undo addition of 6, you must subtract 6 from both sides, not add 6.",
+      "scaffolded_hint": "Use inverse operations: the opposite of +6 is -6. Subtract 6 from 20.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-COEFF-COMBINE",
+      "name": "Illegal Combining of Coefficients and Constants",
+      "cognitive_failure_mode": "PREREQUISITE_GAP",
+      "root_concept_node_id": "MATH-ALG-TERMS-COMB",
+      "detection_pattern": "ax + b simplified to (a + b)x",
+      "sample_trigger": "3x + 4 = 19 simplified to 7x = 19",
+      "diagnostic_explanation": "You added 3x and 4 to get 7x. You cannot combine terms with variables and constants without variables.",
+      "scaffolded_hint": "Only like terms can be combined. Subtract the constant 4 from both sides first before touching 3x.",
+      "suggested_action": "PREREQUISITE_REROUTE"
+    },
+    {
+      "rule_id": "MISC-INVERTED-MULT",
+      "name": "Multiplication Instead of Division to Isolate Variable",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-1STEP-MULT",
+      "detection_pattern": "ax = b simplified to x = b * a",
+      "sample_trigger": "2x = 10 evaluated as x = 20",
+      "diagnostic_explanation": "2x means 2 multiplied by x. To isolate x, divide both sides by 2, do not multiply.",
+      "scaffolded_hint": "The inverse of multiplication is division: x = 10 / 2.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-INVERTED-DIV",
+      "name": "Divisor Division Inversion",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-1STEP-DIV",
+      "detection_pattern": "x / a = b simplified to x = a / b",
+      "sample_trigger": "x / 4 = 8 evaluated as x = 2",
+      "diagnostic_explanation": "You divided 8 by 4 instead of multiplying 8 by 4.",
+      "scaffolded_hint": "To undo division by 4, multiply both sides by 4: x = 8 * 4.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-NEG-COEFF-DROP",
+      "name": "Dropped Negative Coefficient",
+      "cognitive_failure_mode": "PREREQUISITE_GAP",
+      "root_concept_node_id": "MATH-EQ-1STEP-NEG",
+      "detection_pattern": "-x = a simplified to x = a",
+      "sample_trigger": "-x = 9 evaluated as x = 9",
+      "diagnostic_explanation": "You solved for -x rather than x. Remember that -x means -1 * x.",
+      "scaffolded_hint": "Divide or multiply both sides by -1: x = 9 / -1 = -9.",
+      "suggested_action": "SIGN_CHECK_CALLOUT"
+    },
+    {
+      "rule_id": "MISC-SIGN-FLIP-TRANSPOSE",
+      "name": "Sign Failure When Transposing Constant",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-2STEP-BASIC",
+      "detection_pattern": "ax - b = c evaluated as ax = c - b",
+      "sample_trigger": "2x - 5 = 15 evaluated as 2x = 10",
+      "diagnostic_explanation": "To move -5 to the right side, you must add 5 to both sides: 15 + 5 = 20.",
+      "scaffolded_hint": "The inverse of -5 is +5: 2x = 15 + 5.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-LIKE-TERMS-SUB",
+      "name": "Sign Error in Like Terms Subtraction",
+      "cognitive_failure_mode": "PREREQUISITE_GAP",
+      "root_concept_node_id": "MATH-NUM-NEG-ADD",
+      "detection_pattern": "ax - bx with a < b resulting in positive coefficient",
+      "sample_trigger": "3x - 7x evaluated as 4x instead of -4x",
+      "diagnostic_explanation": "3 - 7 is negative 4, so 3x - 7x = -4x.",
+      "scaffolded_hint": "When subtracting a larger number from a smaller number, the result is negative: 3 - 7 = -4.",
+      "suggested_action": "PREREQUISITE_REROUTE"
+    },
+    {
+      "rule_id": "MISC-BOTH-SIDES-VAR-ADD",
+      "name": "Variable Addition Error with Both Sides",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-MULTISTEP-BOTH-SIDES",
+      "detection_pattern": "ax = cx + d simplified to (a + c)x = d",
+      "sample_trigger": "5x = 2x + 12 simplified to 7x = 12",
+      "diagnostic_explanation": "Since 2x is positive on the right, you must subtract 2x from both sides.",
+      "scaffolded_hint": "Subtract 2x from both sides: 5x - 2x = 12, so 3x = 12.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-FRAC-RECIP-FLIP",
+      "name": "Forgetting to Invert Reciprocal on Fraction Division",
+      "cognitive_failure_mode": "PREREQUISITE_GAP",
+      "root_concept_node_id": "MATH-NUM-FRAC-DIV",
+      "detection_pattern": "(a/b)x = c evaluated as x = c * (a/b)",
+      "sample_trigger": "(2/3)x = 8 evaluated as x = 8 * (2/3) = 16/3",
+      "diagnostic_explanation": "To clear the fraction 2/3, multiply by the reciprocal 3/2, not 2/3.",
+      "scaffolded_hint": "Flip the fraction when moving it across: x = 8 * (3/2) = 12.",
+      "suggested_action": "PREREQUISITE_REROUTE"
+    },
+    {
+      "rule_id": "MISC-FRAC-CLEAR-PARTIAL",
+      "name": "Incomplete Clearing of Denominators",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-MULTISTEP-FRAC-CLEAR",
+      "detection_pattern": "x/a + b = c multiplied by a giving x + b = ac",
+      "sample_trigger": "x/3 + 4 = 10 multiplied by 3 giving x + 4 = 30",
+      "diagnostic_explanation": "When multiplying the equation by 3, you must multiply the 4 as well: 4 * 3 = 12.",
+      "scaffolded_hint": "Multiply EVERY term on both sides by 3: (x/3)*3 + 4*3 = 10*3 -> x + 12 = 30.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-ORDER-OPS-DIV-EARLY",
+      "name": "Dividing by Coefficient Before Subtracting Constant",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-2STEP-BASIC",
+      "detection_pattern": "ax + b = c evaluated as x + b = c/a",
+      "sample_trigger": "3x + 6 = 18 evaluated as x + 6 = 6",
+      "diagnostic_explanation": "If you divide by 3 first, you must also divide 6 by 3 to get x + 2 = 6.",
+      "scaffolded_hint": "Standard two-step strategy: subtract the constant 6 first, then divide by 3: 3x = 12 -> x = 4.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-ZERO-DIV-CONFUSE",
+      "name": "Confusion Between Zero Numerator and Zero Divisor",
+      "cognitive_failure_mode": "PREREQUISITE_GAP",
+      "root_concept_node_id": "MATH-NUM-NEG-DIV",
+      "detection_pattern": "ax = 0 evaluated as no solution",
+      "sample_trigger": "4x = 0 evaluated as 'no solution' or 'undefined'",
+      "diagnostic_explanation": "4x = 0 has a valid solution: x = 0 / 4 = 0.",
+      "scaffolded_hint": "Zero divided by any non-zero number is 0: x = 0.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-DECIMAL-ALIGN",
+      "name": "Decimal Subtraction Alignment Error",
+      "cognitive_failure_mode": "CALCULATION_OR_EXECUTION_SLIP",
+      "root_concept_node_id": "MATH-EQ-2STEP-DEC",
+      "detection_pattern": "Arithmetic slip when subtracting decimal constants",
+      "sample_trigger": "x + 0.4 = 1.25 evaluated as x = 1.21 instead of 0.85",
+      "diagnostic_explanation": "Check your decimal subtraction: 1.25 - 0.40 = 0.85.",
+      "scaffolded_hint": "Line up the decimal points when subtracting: 1.25 - 0.40 = 0.85.",
+      "suggested_action": "SIGN_CHECK_CALLOUT"
+    },
+    {
+      "rule_id": "MISC-WORD-SLOPE-INTERCEPT-INVERT",
+      "name": "Inverting Rate and Initial Fixed Fee in Word Problems",
+      "cognitive_failure_mode": "WORD_PROBLEM_TRANSLATION",
+      "root_concept_node_id": "MATH-WORD-RATE-SETUP",
+      "detection_pattern": "Total = rate*x + fee written as Total = fee*x + rate",
+      "sample_trigger": "Plumber charges $50 visit fee plus $30/hour written as 50x + 30",
+      "diagnostic_explanation": "The hourly rate ($30) attaches to x, while the one-time visit fee ($50) is the constant.",
+      "scaffolded_hint": "The rate that repeats per hour is multiplied by x: Cost = 30x + 50.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-WORD-PERIMETER-HALF",
+      "name": "Half-Perimeter Formulation Error",
+      "cognitive_failure_mode": "WORD_PROBLEM_TRANSLATION",
+      "root_concept_node_id": "MATH-WORD-GEOM-PERIM",
+      "detection_pattern": "Perimeter = L + W instead of 2L + 2W",
+      "sample_trigger": "Rectangle perimeter = 40 set up as L + W = 40",
+      "diagnostic_explanation": "A rectangle has 4 sides: 2 lengths and 2 widths: 2L + 2W = Perimeter.",
+      "scaffolded_hint": "Perimeter is the distance around all four sides: 2*(Length + Width) = 40.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-WORD-CONSEC-INT-FORM",
+      "name": "Incorrect Consecutive Integer Expression",
+      "cognitive_failure_mode": "WORD_PROBLEM_TRANSLATION",
+      "root_concept_node_id": "MATH-WORD-CONSEC-INT",
+      "detection_pattern": "Three consecutive integers written as x, 2x, 3x",
+      "sample_trigger": "Sum of 3 consecutive integers written as x + 2x + 3x = 45",
+      "diagnostic_explanation": "Consecutive integers increase by 1 each time, not by multiples: x, x + 1, x + 2.",
+      "scaffolded_hint": "Represent consecutive numbers as x, x + 1, and x + 2: x + (x + 1) + (x + 2) = 45.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-INEQ-NEG-DIV-NO-FLIP",
+      "name": "Failure to Reverse Inequality Direction on Negative Division",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-INEQ-1STEP",
+      "detection_pattern": "-ax > b evaluated as x > -b/a",
+      "sample_trigger": "-2x > 8 evaluated as x > -4",
+      "diagnostic_explanation": "When dividing or multiplying an inequality by a negative number, you must flip the inequality symbol.",
+      "scaffolded_hint": "Flip the sign: dividing by -2 changes > to <: x < -4.",
+      "suggested_action": "SIGN_CHECK_CALLOUT"
+    },
+    {
+      "rule_id": "MISC-NO-SOLUTION-CONFUSE",
+      "name": "Confusing Contradiction with Zero Solution",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-NUM-SOLUTIONS",
+      "detection_pattern": "0x = c with c != 0 interpreted as x = 0",
+      "sample_trigger": "3x + 5 = 3x + 9 simplified to 5 = 9, student answers x = 0",
+      "diagnostic_explanation": "Since 5 = 9 is a mathematical impossibility, there is NO solution that makes this equation true.",
+      "scaffolded_hint": "When variables cancel out leaving a false statement like 5 = 9, the answer is 'No Solution'.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-INF-SOLUTIONS-CONFUSE",
+      "name": "Confusing Identity with Zero Solution",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-EQ-NUM-SOLUTIONS",
+      "detection_pattern": "0x = 0 interpreted as x = 0 only",
+      "sample_trigger": "2(x + 3) = 2x + 6 simplified to 6 = 6, student answers x = 0",
+      "diagnostic_explanation": "Since 6 = 6 is always true regardless of what x is, ALL real numbers are solutions.",
+      "scaffolded_hint": "When both sides are identical (identity), there are 'Infinitely Many Solutions'.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-ABSOLUTE-VALUE-SINGLE",
+      "name": "Omitting Negative Branch in Absolute Value Equation",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-NUM-ABS",
+      "detection_pattern": "|x - a| = b solved only as x - a = b",
+      "sample_trigger": "|x - 3| = 5 solved only as x = 8",
+      "diagnostic_explanation": "Absolute value equations split into two cases: x - 3 = 5 OR x - 3 = -5.",
+      "scaffolded_hint": "Remember both branches: x - 3 = 5 gives x = 8, and x - 3 = -5 gives x = -2.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-LITERAL-PARTIAL-ISOLATE",
+      "name": "Incomplete Isolation of Variable in Literal Equation",
+      "cognitive_failure_mode": "CONTEXTUAL_TRANSFER_FAILURE",
+      "root_concept_node_id": "MATH-EQ-LITERAL-ISOLATE",
+      "detection_pattern": "Solving ax + by = c for x, stopping at ax = c - by",
+      "sample_trigger": "Solving 2x + 3y = 12 for x, student stops at 2x = 12 - 3y",
+      "diagnostic_explanation": "You isolated 2x, but the problem asked to solve for x. You still need to divide by 2.",
+      "scaffolded_hint": "Complete the final step: divide every term by 2: x = (12 - 3y) / 2.",
+      "suggested_action": "RETRY_WITH_STEP_PROMPT"
+    },
+    {
+      "rule_id": "MISC-SIGN-INTEGER-ARITH",
+      "name": "Signed Integer Arithmetic Slip",
+      "cognitive_failure_mode": "CALCULATION_OR_EXECUTION_SLIP",
+      "root_concept_node_id": "MATH-NUM-NEG-ADD",
+      "detection_pattern": "Arithmetic mistake in signed addition or subtraction",
+      "sample_trigger": "Calculating -7 + 12 as -5 or 5 - 11 as 6",
+      "diagnostic_explanation": "Double-check your basic arithmetic: -7 + 12 = 5, not -5.",
+      "scaffolded_hint": "Check the sign: positive 12 is larger than negative 7, so the sum is positive 5.",
+      "suggested_action": "SIGN_CHECK_CALLOUT"
+    },
+    {
+      "rule_id": "MISC-PAREN-NEG-OUTSIDE",
+      "name": "Failure to Distribute Negative Sign Across Parentheses",
+      "cognitive_failure_mode": "RULE_MISCONCEPTION",
+      "root_concept_node_id": "MATH-ALG-DISTRIB-NEG",
+      "detection_pattern": "-(x + b) expanded as -x + b",
+      "sample_trigger": "-(x + 8) = 14 expanded as -x + 8 = 14",
+      "diagnostic_explanation": "The minus sign outside parentheses applies to both terms: -(x + 8) = -x - 8.",
+      "scaffolded_hint": "Treat -(x + 8) as -1 * (x + 8). Distributing -1 gives -x - 8.",
+      "suggested_action": "SIGN_CHECK_CALLOUT"
+    }
+  ]
+}

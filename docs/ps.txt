@@ -1,0 +1,55 @@
+You are a Product Manager on the Learning Experience team at Khan Academy.
+Khan Academy provides learners with access to instructional videos, practice exercises, quizzes and mastery-based learning experiences across multiple academic subjects.
+Consider a student studying Mathematics on Khan Academy.
+The student is learning linear equations and attempting practice questions. They answer some questions incorrectly, retry them and revisit instructional content. Despite repeated attempts, they continue struggling with certain types of questions.
+However, an incorrect answer does not necessarily indicate a lack of understanding of the entire concept.
+The learner might be:
+Missing an important prerequisite concept.
+Applying an incorrect mathematical rule.
+Struggling to translate a word problem into an equation.
+Making calculation errors despite understanding the underlying concept.
+Unable to apply a familiar concept in a new context.
+The learner may continue practising without understanding the actual reason behind their mistakes.
+They might revisit the same instructional video, attempt more questions or move to another exercise without knowing what they should work on next.
+This raises an important product question:
+Does Khan Academy help learners identify the underlying reason for their learning difficulties and guide them towards the most appropriate next step?
+One of the company's strategic goals is to:
+Improve learners' ability to overcome conceptual difficulties and achieve mastery of the skills they are studying.
+The challenge is not to increase the number of practice questions completed or simply make the platform more engaging.
+Your task is to understand how learners behave when they struggle with a concept, identify where the existing learning experience breaks down and discover an opportunity that can meaningfully improve learning outcomes.
+The central challenge is:
+When learners repeatedly struggle with a mathematical concept, how might Khan Academy help them identify their underlying learning gaps and take the right next step towards mastery?
+This is a hypothesis to investigate, not an established finding about Khan Academy. Your research must establish whether the problem exists, which learners experience it and whether the current product already addresses it adequately.
+Part 1: Build an AI-Powered Discovery Engine
+Before proposing any solution, build an AI-powered system that analyses learner feedback and conversations about learning difficulties, practice exercises and mastery experiences on Khan Academy.
+You may use:
+Claude
+GPTs
+Agents
+Workflows
+RAG
+n8n
+Zapier
+Perplexity
+Any AI-native stack of your choice
+Analyse publicly available sources such as:
+Google Play Store reviews
+Apple App Store reviews
+Reddit discussions
+Khan Academy community discussions
+Khan Academy support forums
+Social media conversations
+YouTube comments
+Other relevant public discussions
+Your discovery engine should help uncover questions like (sample questions only):
+What difficulties do learners experience when attempting practice exercises?
+Why do learners repeatedly get questions wrong?
+Do learners understand why their answers are incorrect?
+Are learners able to identify which prerequisite concepts they need to revisit?
+Do learners know what to do after repeatedly failing an exercise?
+How do learners respond when they cannot understand a concept?
+Do learners repeat the same mistakes across different question types?
+Which learning difficulties are associated with learners abandoning a topic or course?
+How do learners currently overcome conceptual difficulties outside Khan Academy?
+Your workflow should go beyond summarising reviews or performing sentiment analysis.
+It should enable you to identify, categorise and compare different learner difficulties, behavioural patterns and opportunity areas using evidence from real learners.

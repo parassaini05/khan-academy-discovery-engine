@@ -1,0 +1,802 @@
+[
+  {
+    "reddit_id": "t3_1x3bjkp",
+    "primary_category": "RULE_MISCONCEPTION",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.75,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Algebra / Linear Equations",
+    "verbatim_struggle_quote": "I think its C but khan academy said D. Even Gemini said C is correct. Now i am confuse.",
+    "original_reddit": {
+      "reddit_id": "t3_1x3bjkp",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 1,
+      "created_at": "2026-10-11T15:48:39.000Z",
+      "sanitized_text": "Which answer is correct?\nA. 4x+2-x = 9\n\nB. 3x+2 = 9\n\n  \n1) How can we get Equation **B** from Equation **A**?\n\nOptions:\nA. Multiply/divide both sides by the same non-zero constant\nB. Multiply/divide only one side by a non-zero constant\nC. Rewrite one side (or both) by combining like terms\nD. Rewrite one side (or both) using the distributive property\n\n\n\nIs it C or D? I am asking this question because i think its C but khan academy said D. Even Gemini said C is correct. Now i am confuse. I dont have tutur to ask so this is why i am asking here. Please help."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.06774592399597168,
+      0.02610761858522892,
+      -0.09848596900701523,
+      -0.05237589776515961,
+      -0.08209841698408127
+    ]
+  },
+  {
+    "reddit_id": "pfdytpt",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Algebra / Linear Equations",
+    "verbatim_struggle_quote": "Just do the math. 4 - 1 =3",
+    "original_reddit": {
+      "reddit_id": "pfdytpt",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "4x - X = 3X.\n\nSo 4x + 2 - x is 3x + 2. Just do the math. 4 - 1 =3"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.057895123958587646,
+      -0.0005711140693165362,
+      -0.01716843992471695,
+      -0.03497719392180443,
+      -0.018035532906651497
+    ]
+  },
+  {
+    "reddit_id": "t3_1xj0ntv",
+    "primary_category": "CALCULATION_OR_EXECUTION_SLIP",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.6,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Algebra / Slope",
+    "verbatim_struggle_quote": "apparently Khan Academy decided the slope was 40... Edit: I was being a dumbass, the 2nd point is at (2,100)",
+    "original_reddit": {
+      "reddit_id": "t3_1xj0ntv",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 4,
+      "created_at": "2026-10-30T00:09:16.000Z",
+      "sanitized_text": "Am I stupid or is something wrong?\n[REDACTED_URL]\n\n# Did I do something wrong? I placed my points at (1, 60) and what I think is (2, 120) based on the number of lines but apparently Khan Academy decided the slope was 40.\nEdit: I was being a dumbass, the 2nd point is at (2,100)"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.06689818203449249,
+      -0.013486247509717941,
+      -0.020256023854017258,
+      -0.0028051927220076323,
+      -0.05847594141960144
+    ]
+  },
+  {
+    "reddit_id": "19rn0j5p1dihu",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.05,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General Math Curriculum",
+    "verbatim_struggle_quote": "mastered about 650 unique skills in the past 2 weeks",
+    "original_reddit": {
+      "reddit_id": "19rn0j5p1dihu",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "I'm basically working through the entire math curriculum, starting with Early Math Review and mastering every skill. So far I've made it to 5th grade and have mastered about 650 unique skills in the past 2 weeks"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.026738857850432396,
+      -0.03519951179623604,
+      0.030357249081134796,
+      -0.06747238337993622,
+      -0.06406683474779129
+    ]
+  },
+  {
+    "reddit_id": "19s77ct3nqy91",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General Math / Community Engagement",
+    "verbatim_struggle_quote": "I've been building a free interactive maths game... with full worked solutions if you get stuck.",
+    "original_reddit": {
+      "reddit_id": "19s77ct3nqy91",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Hey everyone!\n\nI've been building a free interactive maths game over at [r/DailyMathProblem](/r/DailyMathProblem/) and thought some of you might enjoy it.\n\nThere are 3 new questions every day covering algebra, calculus, trigonometry and more, with full worked solutions if you get stuck.\n\nThere's also a timed Daily Blitz with 10 quick-fire questions and a global leaderboard if you fancy a bit of competition.\n\nEverything runs directly inside Reddit. No downloads, no sign-ups, completely free.\n\nThought it might be a fun way to get some extra maths practice alongside Khan Academy. Feel free to give it a go!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07796373963356018,
+      0.006003368180245161,
+      -0.02766885608434677,
+      -0.001961100148037076,
+      -0.060033682733774185
+    ]
+  },
+  {
+    "reddit_id": "t3_1x4d4cl",
+    "primary_category": "CALCULATION_OR_EXECUTION_SLIP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.65,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Algebra 2 / Arithmetic",
+    "verbatim_struggle_quote": "im getting some very hard airthmatic steps and im not given a calculator to solve, for example 128(1-0.5^9)=127.75 is this intended.",
+    "original_reddit": {
+      "reddit_id": "t3_1x4d4cl",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 0,
+      "created_at": "2026-10-12T20:33:19.000Z",
+      "sanitized_text": "Unreasonable no calculator questions\nHey, Im currently doing algebra 2 and im getting some very hard airthmatic steps and im not given a calculator to solve, for example 128(1-0.5\\^9)=127.75 is this intended. Am i expected to have an external calculator with me?"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.08759965002536774,
+      -0.05536555126309395,
+      -0.04671803116798401,
+      -0.025581132620573044,
+      -0.08245933055877686
+    ]
+  },
+  {
+    "reddit_id": "t3_1x2ofcn",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.4,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Physics / Math Foundations",
+    "verbatim_struggle_quote": "I\u2019m wanting to learn physics with no real math foundation but I obviously want to learn the math I need to do physics what roadmap would you guys recommend",
+    "original_reddit": {
+      "reddit_id": "t3_1x2ofcn",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 6,
+      "created_at": "2026-10-10T19:55:13.000Z",
+      "sanitized_text": "Math for physics\nI\u2019m wanting to learn physics with no real math foundation but I obviously want to learn the math I need to do physics what roadmap would you guys recommend for learning math for physics? I\u2019m taking highschool but you can also give pointers for college for anybody else looking for math on that level"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04259834811091423,
+      -0.059023417532444,
+      -0.014408658258616924,
+      -0.020471245050430298,
+      -0.05715389922261238
+    ]
+  },
+  {
+    "reddit_id": "pghkxb1",
+    "primary_category": "RULE_MISCONCEPTION",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.2,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Algebra / Calculator Policy",
+    "verbatim_struggle_quote": "OP means they are not allowed to use a calculator... which of course is the entire point of the exercise.",
+    "original_reddit": {
+      "reddit_id": "pghkxb1",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "OP means they are not allowed to use a calculator. The other commenter explained how to solve it by hand in only a handful of steps, which of course is the entire point of the exercise."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04968700930476189,
+      -0.008605310693383217,
+      0.007453051395714283,
+      -0.04633013904094696,
+      -0.076835036277771
+    ]
+  },
+  {
+    "reddit_id": "pgjotc2",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "HINT_EXHAUSTION",
+    "frustration_score": 0.6,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "General / Exercise Mechanics",
+    "verbatim_struggle_quote": "if i click skip or show answer the step by step solution states \"evaluating the expression in the calculator gives is...\"",
+    "original_reddit": {
+      "reddit_id": "pgjotc2",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Also i forgot to mention if i click skip or show answer the step by step solution states \"evaluating the expression in the calculator gives is...\""
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.12636111676692963,
+      0.01584845595061779,
+      0.014555521309375763,
+      -0.028764482587575912,
+      -0.05238388106226921
+    ]
+  },
+  {
+    "reddit_id": "pf46r88",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.2,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Physics / Math Foundations",
+    "verbatim_struggle_quote": "high school physics often is limited to algebra 1 and algebra 2, because you get around by using the formulae without necessarily understanding why they hold true.",
+    "original_reddit": {
+      "reddit_id": "pf46r88",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Hey! I'm an assistant headteacher managing the math and science department where I work, and I also have a Bachelor's degree in astronomy.\n\nKey mathematics for physics depend on what level we are looking at. Physics as a field was discovered by Isaac Newton, and he invented calculus to achieve it. That said, high school physics often is limited to algebra 1 and algebra 2, because you get around by using the formulae without necessarily understanding why they hold true. What you really need to master are fractions, equations, functions, and working with exponents for the physics to make sense. Trigonometry will also help massively for many subjects in physics.\n\nUniversity physics are also dependent on linear algebra, with vectors being essential concepts to understand the basics of classical mechanics, and matrices being necessary to work with fields.\n\nSo, in short, it all depends on what level you are aiming for. Can you provide some more details on that?"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.029022879898548126,
+      -0.03109210543334484,
+      -0.01141432300209999,
+      -0.033886902034282684,
+      -0.06406532227993011
+    ]
+  },
+  {
+    "reddit_id": "pf6gug7",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Physics / Course Selection",
+    "verbatim_struggle_quote": "I was aiming more for highschool physics and if this gives any better idea I plan to do it on khan academy",
+    "original_reddit": {
+      "reddit_id": "pf6gug7",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Hello! First of all congratulations on the accomplishments second thank you for taking the time to help! \ud83d\ude4f as for the level I\u2019m looking to work on I was aiming more for highschool physics and if this gives any better idea I plan to do it on khan academy (specifying this because the courses may differ in how they\u2019re taught) if that makes sense, thank you!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.05304049327969551,
+      0.005030501633882523,
+      0.012889211066067219,
+      -0.038945816457271576,
+      -0.06777102500200272
+    ]
+  },
+  {
+    "reddit_id": "pf427kb",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.3,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "College Physics / Math Review",
+    "verbatim_struggle_quote": "I know that if I go in without at least reviewing it\u2019s not going to end well.",
+    "original_reddit": {
+      "reddit_id": "pf427kb",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Hey! Jumping on to comment/hopefully boost a little. I\u2019m in a similar boat, it\u2019s been a while since I\u2019ve taken any \u201cofficial\u201d upper level math courses, and even then I never had the strongest foundation. But the time has come now where I\u2019m looking to take college level physics over the summer or upcoming fall term, so I\u2019m starting to look into studying/prep/review. My school doesn\u2019t require any official pre-reqs, but I know that if I go in without at least reviewing it\u2019s not going to end well."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.0694650262594223,
+      -0.059335820376873016,
+      -0.007576912175863981,
+      -0.011915144510567188,
+      -0.05693679675459862
+    ]
+  },
+  {
+    "reddit_id": "pf47jhk",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.2,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Physics / Prerequisites",
+    "verbatim_struggle_quote": "They are essential for college level physics... the stuff before is a kind of necessary prerequisite.",
+    "original_reddit": {
+      "reddit_id": "pf47jhk",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Get yourself familiar with Trigonometry, logarithms, limit functions, derivatives (calculus), vectors and matrices. They are essential for college level physics. The last three things are what college level physics are made out of, and the stuff before is a kind of necessary prerequisite."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03428880497813225,
+      -0.04316668212413788,
+      0.026607049629092216,
+      -0.06272990256547928,
+      -0.017928525805473328
+    ]
+  },
+  {
+    "reddit_id": "pf4val3",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.0,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General",
+    "verbatim_struggle_quote": "Thank you so much for this - this is incredibly helpful!",
+    "original_reddit": {
+      "reddit_id": "pf4val3",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Thank you so much for this - this is incredibly helpful!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.08112506568431854,
+      -0.023385273292660713,
+      0.049479976296424866,
+      -0.013389318250119686,
+      0.040825583040714264
+    ]
+  },
+  {
+    "reddit_id": "pf76mbw",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Physics / Prerequisites",
+    "verbatim_struggle_quote": "Professor Leonards Intermediate Algebra, Precalculus, Calculus I and Calculus II, after that you can learn the whole physics library",
+    "original_reddit": {
+      "reddit_id": "pf76mbw",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Professor Leonards Intermediate Algebra, Precalculus, Calculus I and Calculus II, after that you can learn the whole physics library on Khan academy (including the new physics C mechanics & E&M"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07632358372211456,
+      -0.019270487129688263,
+      0.0429827980697155,
+      -0.041276488453149796,
+      -0.08591143041849136
+    ]
+  },
+  {
+    "reddit_id": "pf57qlf",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Linear Algebra",
+    "verbatim_struggle_quote": "I consider them essential for building an intuitive understanding of what you're doing in linear algebra",
+    "original_reddit": {
+      "reddit_id": "pf57qlf",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "As a final note, I cannot recommend 3blues1brown's videos on linear algebra (vectors and matrices) enough. I consider them essential for building an intuitive understanding of what you're doing in linear algebra, which helps cutting through the obtusive nature of it!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03911548852920532,
+      -0.046010423451662064,
+      -0.03906245157122612,
+      -0.004007680341601372,
+      0.01897432655096054
+    ]
+  },
+  {
+    "reddit_id": "t3_1x2ct95",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.3,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General Study Strategy / Self-Paced Learning",
+    "verbatim_struggle_quote": "I normally only take practices... and I ask ChatGPT and sometimes make Anki card when I encounter something I don't know or can't understand.",
+    "original_reddit": {
+      "reddit_id": "t3_1x2ct95",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 1,
+      "created_at": "2026-10-10T11:18:38.000Z",
+      "sanitized_text": "Should I do activities and read articles\nHello. I'm currently self-teaching school subjects like Math, Sciences, and History, using Khan Academy, ChatGPT, and Anki.  \nI normally only take practices (except some subjects, such as World History, which I watch videos) and I ask ChatGPT and sometimes make Anki card when I encounter something I don't know or can't understand. Because I don't have much time, I can only afford to spend roughly 1.5 - 3 hours to Khan Academy.  \nHowever, I've also been wondering whether my current method is really enough. I need an objective opinion."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      0.018670935183763504,
+      0.015365872532129288,
+      0.03560937941074371,
+      -0.04040704667568207,
+      -0.05181484296917915
+    ]
+  },
+  {
+    "reddit_id": "t3_1wzzszi",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.4,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Account Management / Parent Dashboard",
+    "verbatim_struggle_quote": "I\u2019ve looked & cannot find an answer if there\u2019s a way to add another parent so we both have access to the parent dashboard from our own devices.",
+    "original_reddit": {
+      "reddit_id": "t3_1wzzszi",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 2,
+      "created_at": "2026-10-07T15:39:28.000Z",
+      "sanitized_text": "Is there a way to add an additional parent to my daughter\u2019s Khan Account?\nMy Daughters mother wants to be able to track her progress as well, I\u2019ve looked & cannot find an answer if there\u2019s a way to add another parent so we both have access to the parent dashboard from our own devices. We\u2019re split & I don\u2019t feel comfortable giving her my Gmail login to access my Parent account."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03509512543678284,
+      -0.05997200682759285,
+      0.03405190259218216,
+      -0.07821504771709442,
+      -0.10528537631034851
+    ]
+  },
+  {
+    "reddit_id": "pf1uzuo",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General Study Strategy",
+    "verbatim_struggle_quote": "The Khan Academy quizzes and tests are a good gauge to check your understanding of the material",
+    "original_reddit": {
+      "reddit_id": "pf1uzuo",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Objective opinion is a bit of an oxymoron\u00a0\n\nIt's really up to if you feel you need to study more. The Khan Academy quizzes and tests are a good gauge to check your understanding of the material, and the articles and activities are a way to help practice the material more."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.024224909022450447,
+      0.03992500156164169,
+      0.004259068053215742,
+      -0.02936919592320919,
+      -0.013188078068196774
+    ]
+  },
+  {
+    "reddit_id": "pgo1x1r",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.0,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General Study Strategy",
+    "verbatim_struggle_quote": "I\u2019ll try using the quizzes and tests to check my understanding and decide whether I need more practice for now.",
+    "original_reddit": {
+      "reddit_id": "pgo1x1r",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Thanks for reply! I\u2019ll try using the quizzes and tests to check my understanding and decide whether I need more practice for now."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.055372294038534164,
+      0.00579338613897562,
+      0.017439883202314377,
+      -0.030340619385242462,
+      -0.012495928443968296
+    ]
+  },
+  {
+    "reddit_id": "t3_1wdmfj0",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "EXERCISE_ABANDONMENT",
+    "frustration_score": 0.75,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Organic Chemistry / Course Structure",
+    "verbatim_struggle_quote": "the unit on oxidizing and reducing agents in Organic Chemistry is missing any videos or articles, only having 3 quizzes and a unit quiz.",
+    "original_reddit": {
+      "reddit_id": "t3_1wdmfj0",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 2,
+      "created_at": "2026-09-11T17:15:47.000Z",
+      "sanitized_text": "Why doesn't Organic Chemistry Essentials Unit 4 have any videos or articles?\nI've been working on the [Organic Chemistry Essentials]([REDACTED_URL] course and the units were pretty ordinary, up until Unit 4. For some reason, the unit on oxidizing and reducing agents in Organic Chemistry is missing any videos or articles, only having 3 quizzes and a unit quiz. I tried to do the quizzes but they require information not present in any of the previous 3 units. Is there something I'm missing?"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.018800903111696243,
+      0.005009363405406475,
+      0.013209828175604343,
+      0.0008301848429255188,
+      0.08578743040561676
+    ]
+  },
+  {
+    "reddit_id": "t3_1wpi50m",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General / User Research",
+    "verbatim_struggle_quote": "I would like to interview users about their experience using Khan Academy.",
+    "original_reddit": {
+      "reddit_id": "t3_1wpi50m",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 3,
+      "created_at": "2026-09-25T00:25:03.000Z",
+      "sanitized_text": "Need help from Khan Academy users\nHi there! I am currently doing a project for a product management course. For an assignment due, we use doing user research on khan Academy - student tool. I would like to interview users about their experience using Khan Academy. It would be of immense help if you could help me on this by answering a few questions. Please add your response to each question in the comment section.\n\nQuestions -\n\nInformation  \nGrade Level  \nHow often do you Khan Academy?  \nWhat subjects do you study on Khan Academy?\n\nInterwiew questions-  \nTell me a little about how you currently use Khan Academy.  \nWhat do you typically use Khan Academy for?  \nWalk me through the last time you used Khan Academy.  \nHow do you keep track of things you want to come back to?  \nHow do you add personal context or notes to your coursework?  \nHow do you decide what you are going to work on?  \nTell me about the last time you got stuck while using Khan Academy.\n\nThank you!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03754745423793793,
+      0.01672349125146866,
+      0.005226091481745243,
+      -0.0356714241206646,
+      -0.0597650445997715
+    ]
+  },
+  {
+    "reddit_id": "t3_1wp9pgt",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.6,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Basic Math / Arithmetic",
+    "verbatim_struggle_quote": "I'm 26, still struggle my times tables... I am realizing I haven't been retaining everything I've learned",
+    "original_reddit": {
+      "reddit_id": "t3_1wp9pgt",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 1,
+      "created_at": "2026-09-24T18:33:54.000Z",
+      "sanitized_text": "Any tips for retaining what you've learned?\nI'm 26, still struggle my times tables, and I just started the 6th grade math and planning to work my way up to become a math god. So far, I've been doing clusters of lessons and stopping for the day when I finish a quiz, but I am realizing I haven't been retaining everything I've learned, so I think I need to change up my strategy a bit. I have a habit of moving on because I got the question right rather than trying to fully understand what I'm being taught.\n\nAny advice?"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03673002868890762,
+      -0.00821697898209095,
+      0.010287870652973652,
+      -0.03388005867600441,
+      -0.0392603799700737
+    ]
+  },
+  {
+    "reddit_id": "pd5guk9",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.05,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "General / Study Habits",
+    "verbatim_struggle_quote": "I basically use it as if it were a school, from Monday to Friday, around 3 or 4 hours a day.",
+    "original_reddit": {
+      "reddit_id": "pd5guk9",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "1.  12th grade\n    \n2.  5 days a week\n    \n3.  Right now I am taking: precalculus, high school biology, chemistry, physics, grammar, history, and medieval Europe + Byzantium.\n    \n4.  I basically use it as if it were a school, from Monday to Friday, around 3 or 4 hours a day.\n    \n5.  It is one of my main sources of study.\n    \n6.  The last time I used it was this morning, I was doing the grammar course.\n    \n7.  I write it down, or I save the page in Chrome's favorites/bookmarks bar.\n    \n8.  I didn't quite understand the question (I speak Spanish), but I guess you're referring to how I take notes: in a notebook.\n    \n9.  The only thing I have to decide is the subject I'm going to study at the moment, since the courses have a specific order in which to watch the videos and take the tests, I just follow it.\n    \n10.  I don't remember getting stuck recently, they usually explain everything quite well. But it was probably in the physics course, I'm not very good at it.\n     \n\nAnd finally, I would like to say that Khan Academy is an amazing learning website, I owe most of my knowledge to it."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.060004767030477524,
+      -0.025499360635876656,
+      -0.009945283643901348,
+      -0.019717374816536903,
+      -0.026138843968510628
+    ]
+  },
+  {
+    "reddit_id": "per74ui",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Study Strategies / General Learning",
+    "verbatim_struggle_quote": "Cycle back on some of the quizzes after a time has passed... Just repeat that cycle until it sticks indefinitely.",
+    "original_reddit": {
+      "reddit_id": "per74ui",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "Cycle back on some of the quizzes after a time has passed and you forgot a little bit. Every time you do that, you'll remember it for longer. Just repeat that cycle until it sticks indefinitely.  \nAlso you can try writing things from memory 5 minutes before every study session just to test yourself and fill in the gaps. Hope this helps!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.03934634476900101,
+      0.061997078359127045,
+      0.019008537754416466,
+      -0.0002666844811756164,
+      -0.01895536668598652
+    ]
+  },
+  {
+    "reddit_id": "t3_1w9geoe",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.6,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Chemistry / Organic Chemistry",
+    "verbatim_struggle_quote": "2 methylpentane and 3 methylpentate have the same molecular weight yet here it says that they are different?",
+    "original_reddit": {
+      "reddit_id": "t3_1w9geoe",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 2,
+      "created_at": "2026-09-07T03:11:20.000Z",
+      "sanitized_text": "Error in Mcat study Chemistry section\n[2 methylpentane and 3 methylpentate have the same molecular weight yet here it says that they are different? ]([REDACTED_URL]"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.06653513014316559,
+      0.019590899348258972,
+      -0.03403324633836746,
+      0.0006976122385822237,
+      -0.006547901313751936
+    ]
+  },
+  {
+    "reddit_id": "p8a8x6i",
+    "primary_category": "SYSTEMIC_UI_OR_CONTENT_DEFECT",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.7,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Chemistry / Organic Chemistry",
+    "verbatim_struggle_quote": "that isnt even the first of the errors its just the first one that stood out to me",
+    "original_reddit": {
+      "reddit_id": "p8a8x6i",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "that isnt even the first of the errors its just the first one that stood out to me"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07186737656593323,
+      -0.01989329606294632,
+      0.014408258721232414,
+      -0.05736547335982323,
+      0.041579265147447586
+    ]
+  },
+  {
+    "reddit_id": "t3_1w84vmz",
+    "primary_category": "CONTEXTUAL_TRANSFER_FAILURE",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.3,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Calculus / Course Navigation",
+    "verbatim_struggle_quote": "I want to learn the complete calculus that Khan has to offer, but it has many courses that cover same topics. What path should I take?",
+    "original_reddit": {
+      "reddit_id": "t3_1w84vmz",
+      "community": "r/Khan",
+      "post_type": "post",
+      "upvotes": 1,
+      "created_at": "2026-09-05T16:12:07.000Z",
+      "sanitized_text": "Calculus 1 & 2 or College Calculus BC?\nI want to learn the complete calculus that Khan has to offer, but it has many courses that cover same topics. What path should I take?"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.025640223175287247,
+      -0.02647165209054947,
+      0.03870171681046486,
+      -0.013302876614034176,
+      -0.09183276444673538
+    ]
+  },
+  {
+    "reddit_id": "t3_q8i5bg",
+    "primary_category": "CONTEXTUAL_TRANSFER_FAILURE",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.3,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Linear Algebra",
+    "verbatim_struggle_quote": "wandering If Khan academy will cover all I need in linear algebra and calculus",
+    "original_reddit": {
+      "reddit_id": "t3_q8i5bg",
+      "community": "r/learnmath",
+      "post_type": "post",
+      "upvotes": 8,
+      "created_at": "2021-10-15T06:08:46.000Z",
+      "sanitized_text": "Does linear algebra course on khan academy cover all the laws and topics in linear algebra?\nI don't talk about the complicated and hard questions, I am talking about the laws and the topics to fully understand linear algebra not just the basics, I am studying 3d programing and wandering If Khan academy will cover all I need in linear algebra and calculus"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04698029160499573,
+      -0.014636063948273659,
+      -0.02884283848106861,
+      0.013911639340221882,
+      -0.05940283462405205
+    ]
+  },
+  {
+    "reddit_id": "t3_t29xic",
+    "primary_category": "PREREQUISITE_GAP",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.5,
+    "abandonment_risk": "MEDIUM",
+    "struggle_topic": "Linear Algebra",
+    "verbatim_struggle_quote": "feeling unprepared as my online university course is pretty... Unrefined and confusing.",
+    "original_reddit": {
+      "reddit_id": "t3_t29xic",
+      "community": "r/learnmath",
+      "post_type": "post",
+      "upvotes": 7,
+      "created_at": "2022-02-26T23:19:14.000Z",
+      "sanitized_text": "Is Khan academy a good resource for learning linear algebra at an introductory level?\nIf not, what would you recommend that could catch me up to elementary matrices and determinants? I have about two weeks to study for my mid term. Not starting at 0 knowledge, but feeling unprepared as my online university course is pretty... Unrefined and confusing.\n\nThanks in advance!"
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.05377066507935524,
+      -0.020127270370721817,
+      -0.038331300020217896,
+      0.004587735515087843,
+      -0.06832854449748993
+    ]
+  },
+  {
+    "reddit_id": "hgpva34",
+    "primary_category": "POSITIVE_LEARNING_EXPERIENCE",
+    "observed_behavior": "AUTONOMOUS_MASTERY",
+    "frustration_score": 0.1,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Linear Algebra",
+    "verbatim_struggle_quote": "Khan Academy's linear algebra course is meant to be a helpful resource for linear algebra students",
+    "original_reddit": {
+      "reddit_id": "hgpva34",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "If by laws you mean the \"main theorems\" that you'd expect to be covered in a linear algebra class, then yes. Khan Academy's linear algebra course is meant to be a helpful resource for linear algebra students, so it covers all the same topics that one would find in a college LA course."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.07009516656398773,
+      -0.08120197802782059,
+      -0.006387082859873772,
+      -0.02461833506822586,
+      -0.058350637555122375
+    ]
+  },
+  {
+    "reddit_id": "hyl5wdy",
+    "primary_category": "EXPLANATION_OR_HINT_FRICTION",
+    "observed_behavior": "SEEKING_EXTERNAL_TOOL",
+    "frustration_score": 0.4,
+    "abandonment_risk": "LOW",
+    "struggle_topic": "Linear Algebra",
+    "verbatim_struggle_quote": "its pretty weak on the theoretical side of linear algebra",
+    "original_reddit": {
+      "reddit_id": "hyl5wdy",
+      "community": "r/Khan",
+      "post_type": "comment",
+      "upvotes": 0,
+      "created_at": "",
+      "sanitized_text": "It's ok for like the calculations but its pretty weak on the theoretical side of linear algebra. Your best bet would be your textbook, read carefully and do lots of problems."
+    },
+    "bge_embedding_dim": 384,
+    "bge_embedding_sample": [
+      -0.04329819977283478,
+      -0.05232759192585945,
+      -0.02699439227581024,
+      -0.018969757482409477,
+      -0.03646587207913399
+    ]
+  }
+]

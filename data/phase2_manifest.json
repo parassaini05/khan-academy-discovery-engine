@@ -1,0 +1,12 @@
+{
+  "pipeline_phase": "Phase 2",
+  "execution_timestamp": "2026-11-24T17:41:17.307965",
+  "total_corpus_indexed": 803,
+  "high_signal_filtered": 575,
+  "classified_count": 36,
+  "vector_embeddings_indexed": 36,
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedding_dimensions": 384,
+  "llm_classifier": "Groq (Qwen 2.5 27B / GPT-OSS 120B)",
+  "duration_seconds": 141.21
+}

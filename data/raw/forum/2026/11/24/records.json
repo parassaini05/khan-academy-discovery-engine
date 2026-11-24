@@ -1,0 +1,58 @@
+[
+  {
+    "source": "forum",
+    "external_id": "ka_forum_101",
+    "timestamp": "2026-08-20T15:10:00Z",
+    "author_pseudonym": "FrustratedParent_Amy",
+    "rating": null,
+    "title": "Why do practice questions reset my entire mastery after 1 wrong answer?",
+    "raw_text": "Why do practice questions reset my entire mastery after 1 wrong answer?\nMy son was doing 8th grade math on two-step equations. He got 4 out of 5 right, but on the last question he typed 3/2 instead of 1.5. Khan marked it wrong and dropped his mastery level down. He burst into tears and refused to open the laptop again. Can we please have partial credit for trivial format slips?",
+    "context_url": "https://support.khanacademy.org/hc/en-us/community/posts/ka_forum_101",
+    "upvotes_or_likes": 88,
+    "metadata": {
+      "topic": "Mastery Challenges / Linear Equations"
+    }
+  },
+  {
+    "source": "forum",
+    "external_id": "ka_forum_102",
+    "timestamp": "2026-09-03T19:45:12Z",
+    "author_pseudonym": "HighSchooler_Jason",
+    "rating": null,
+    "title": "Hints are completely unhelpful for word problems",
+    "raw_text": "Hints are completely unhelpful for word problems\nWhenever I get stuck on a linear equation word problem, the hint just writes out the equation. That doesn't help me! My problem isn't solving the equation once it's written down, my problem is figuring out which part of the story problem represents the slope and which is the y-intercept. Please explain the setup!",
+    "context_url": "https://support.khanacademy.org/hc/en-us/community/posts/ka_forum_102",
+    "upvotes_or_likes": 64,
+    "metadata": {
+      "topic": "Algebra 1 / Word Problems"
+    }
+  },
+  {
+    "source": "forum",
+    "external_id": "ka_forum_103",
+    "timestamp": "2026-10-14T08:30:20Z",
+    "author_pseudonym": "SelfTaughtAdult_Mark",
+    "rating": null,
+    "title": "Stuck in a loop on 'Variables on both sides'",
+    "raw_text": "Stuck in a loop on 'Variables on both sides'\nI am an adult returning to education. I keep getting problems wrong on variables on both sides because I end up with negative x, like -x = 5. I didn't know I had to divide by -1. The app just said 'Not quite yet, try again'. It took me 2 days to figure out what was happening by asking on Reddit.",
+    "context_url": "https://support.khanacademy.org/hc/en-us/community/posts/ka_forum_103",
+    "upvotes_or_likes": 47,
+    "metadata": {
+      "topic": "Linear Equations"
+    }
+  },
+  {
+    "source": "forum",
+    "external_id": "ka_forum_104",
+    "timestamp": "2026-11-01T12:00:00Z",
+    "author_pseudonym": "MathCoach_Elena",
+    "rating": null,
+    "title": "Please link back to prerequisite concepts when we fail an exercise",
+    "raw_text": "Please link back to prerequisite concepts when we fail an exercise\nAs a tutor who uses Khan Academy with dozens of middle schoolers, the #1 breakdown is that students jump into solving linear equations without mastering integer addition and subtraction. When they fail, Khan tells them to re-watch the multi-step equation video. What they actually need is a 2-minute refresher on negative numbers. Please add prerequisite recommendations!",
+    "context_url": "https://support.khanacademy.org/hc/en-us/community/posts/ka_forum_104",
+    "upvotes_or_likes": 112,
+    "metadata": {
+      "topic": "Feature Request / Learning Experience"
+    }
+  }
+]
