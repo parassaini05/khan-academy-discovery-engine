@@ -65,12 +65,12 @@ flowchart TD
 * **Strategic Objective:** Structure raw feedback into a standardized cognitive error taxonomy and build a hybrid relational-semantic retrieval engine.
 * **Connection to Phase 1:** Takes the 707 sanitized records from Phase 1 and enriches them with semantic vectors and cognitive categories.
 * **Key Tasks:**
-  - Groq LPU classifier categorizing learner complaints into the 5 Cognitive Failure Modes:
-    1. `PREREQUISITE_GAP` (42.6%)
-    2. `RULE_MISCONCEPTION` (29.8%)
-    3. `EXECUTION_SLIP` (14.5%)
-    4. `TRANSLATION_GAP` (8.1%)
-    5. `TRANSFER_GAP` (5.0%)
+  - Groq LPU classifier categorizing learner complaints into the 5 Cognitive Failure Modes within the Math-Specific Struggle Subset ($N = 304$, excluding 225 mobile/infrastructure defect records):
+    1. `PREREQUISITE_GAP` (41.8%, 127 of 304)
+    2. `RULE_MISCONCEPTION` (31.6%, 96 of 304)
+    3. `EXECUTION_SLIP` (14.1%, 43 of 304)
+    4. `TRANSLATION_GAP` (7.6%, 23 of 304)
+    5. `TRANSFER_GAP` (4.9%, 15 of 304)
   - Dense semantic embeddings generated using **BAAI BGE** (`bge-small-en-v1.5`, 384 dimensions) via FastEmbed.
   - Hybrid store configured with SQLite relational tables and FTS5 BM25 search.
 * **Deliverable:** `data/discovery_database.sqlite` containing all 707 records, vectors, and classification metadata.

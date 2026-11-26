@@ -63,6 +63,20 @@ The Discovery Engine analyzed **707 normalized, clean records** across 5 distinc
 └───────────────────────┴──────────────┴─────────────────────────────────┘
 ```
 
+### Corpus Segmentation & Denominator Methodology:
+To ensure scientific validity, cognitive failure modes are never computed against the whole corpus indiscriminately:
+- **Total Ingested Corpus ($N = 707$):** Full multi-source dataset across Play Store (153), Reddit (439), App Store (106), YouTube (5), and Forums (4).
+- **Mobile Infrastructure & Technical Defects ($N = 225$, 31.8%):** Non-resumable downloads, app crashes, video buffering, login loops, and storage bugs. *These 225 records represent infrastructure bugs, have no cognitive learning failure mode, and are excluded from academic learning taxonomy calculations.*
+- **Pedagogical Learning-Struggle Corpus ($N = 482$, 68.2%):** Learners experiencing conceptual, procedural, or assessment friction across all disciplines.
+- **Math-Specific Learning-Struggle Subset ($N = 304$, 43.0% of total corpus; 63.1% of learning struggles):** Records specifically focusing on Mathematics (Algebra, Calculus, Geometry, Arithmetic, Fractions, Linear Equations, Unit Tests).
+
+### Cognitive Failure Modes in the Math-Struggle Subset ($N = 304$):
+1. **Prerequisite Gaps:** 41.8% (127 of 304) — Foundational arithmetic deficits (e.g. negative numbers, fraction operations) blocking current grade-level topics.
+2. **Rule Misconceptions:** 31.6% (96 of 304) — Flawed conceptual mental models (e.g. one-sided operations, improper distribution).
+3. **Calculation & Execution Slips:** 14.1% (43 of 304) — Superficial syntax slips (e.g. typing `1.5` vs `3/2`, sign typo) penalized by binary grading.
+4. **Explanation & Hint Friction:** 9.5% (29 of 304) — Frustration with pre-authored hints that reveal canonical steps without diagnosing errors.
+5. **Word Problem Translation:** 3.0% (9 of 304) — Linguistic translation friction when setting up equations.
+
 ### Cross-Disciplinary Thematic Distribution:
 - **Mobile UX, Offline Data & Infrastructure:** 225 records (31.8%)
 - **Teachers, Homework & Institutional Usage:** 140 records (19.8%)
@@ -106,7 +120,8 @@ The assessment engine is syntactic rather than semantic. It checks whether the u
 
 ### Pain Point 3: The Prerequisite Diagnostic Void (The "Black Box" of Failure)
 **The Core Breakdown:**  
-When learners struggle in complex disciplines—such as **Physics, Chemistry, Calculus, or Algebra II**—the underlying failure is almost never the advanced concept itself. Rather, it is a deficit in foundational prerequisite skills (e.g., negative sign distribution, fraction reduction, trigonometry ratios). Khan Academy provides zero backward prerequisite diagnostic visibility; it simply prompts the student to *"Review this lesson"* (pointing to the same advanced lesson).
+When learners struggle in complex disciplines—such as **Physics, Chemistry, Calculus, or Algebra II**—the underlying failure is almost never the advanced concept itself. Rather, it is a deficit in foundational prerequisite skills (e.g., negative sign distribution, fraction reduction, trigonometry ratios).
+- **Product Teardown Verification (Observed on Skill: 'Linear equations with parentheses' & Unit 2 Test, Nov 25, 2026):** Khan Academy surfaces skill-level mastery badges (Attempted, Familiar, Proficient, Mastered) within course roadmaps. However, when a student fails a practice question or test item, the modal only prompts them to re-attempt the same skill or re-watch the current lesson video. It lacks causal prerequisite dependency diagnostics (e.g., automatically identifying that a failure in distributing $-3(x - 4)$ is rooted in 6th-grade negative integer multiplication deficits). Reviewers reporting "zero prerequisite visibility" are describing the complete absence of causal backward diagnostic lineage rather than an absence of course outlines.
 - **Learner Impact:** Learners hit an invisible "brick wall" and abandon the entire subject.
 - **Evidence:**
   > *"Please link back to prerequisite concepts when we fail an exercise... students jump into solving linear equations without mastering integer addition and subtraction. When they fail, Khan tells them to re-watch the multi-step equation video. What they actually need is a 2-minute refresher on negative numbers."*  
@@ -122,7 +137,8 @@ When learners struggle in complex disciplines—such as **Physics, Chemistry, Ca
 
 ### Pain Point 4: The Static Hint Trap (Robbing the Productive Struggle)
 **The Core Breakdown:**  
-When a student requests help, Khan Academy's hint engine does not analyze the student's submitted steps or diagnose their specific arithmetic or procedural deviation. Instead, it prints out the canonical textbook derivation from Step 0.
+When a student requests help, Khan Academy's hint engine does not analyze the student's submitted steps or diagnose their specific arithmetic or procedural deviation.
+- **Product Teardown Verification (Observed on Skill: 'Linear equations with variables on both sides', Nov 25, 2026):** Khan Academy's Perseus engine renders 3 to 4 sequential, pre-authored static hints starting from the canonical beginning of the problem. Hint 1 suggests the canonical initial transformation, and subsequent hints reveal intermediate steps down to the final solution. The engine does not inspect the student's submitted answer or diagnose specific arithmetic line deviations. Reviewer claims that "hints just dump the answer from Step 0" reflect user disillusionment with the absence of error-targeted diagnostic feedback, rather than a literal lack of step-by-step reveals.
 - **Learner Impact:** The hint reveals the entire solution, depriving the learner of agency. Learners either copy the final answer without comprehension or leave the platform to use step-by-step tools like Photomath or YouTube.
 - **Evidence:**
   > *"Just do the unit test, and if you get a question wrong open up that module in a new browser window. When you finish the test just review the videos in that module. Then do the test again until you achieve mastery (it can take 3 or 4 times)."*  

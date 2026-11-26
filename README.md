@@ -18,8 +18,8 @@ Through an empirical harvest of **707 scrubbed discussions** across **Google Pla
 
 1. **The Video-to-Practice Chasm:** Videos teach conceptual intuition through continuous narrative, while practice exercises demand discrete algebraic symbol manipulation without transitional scaffolding.
 2. **The Binary Grading Penalty:** Strict string parsing marks mathematically equivalent answers (e.g., `1.5` vs `3/2`) as 100% incorrect, wiping out 5-question mastery streaks and inducing rage-quits.
-3. **Prerequisite Diagnostic Void:** Advanced failures in Calculus and Algebra II are masked by unaddressed middle-school arithmetic deficits, leading to repeated blind retries (median 2.4 attempts before abandonment).
-4. **The Static Hint Trap:** Instead of Socratic nudging, static hints dump full textbook answers on step 1, spoiling test scores and undermining metacognition.
+3. **Prerequisite Diagnostic Void:** Advanced failures in Calculus and Algebra II are masked by unaddressed middle-school arithmetic deficits. Teardown confirms that while course outlines show mastery badges, failure modals lack causal prerequisite dependency tracking to diagnose upstream deficits across grade levels *(Observed on skill: 'Linear equations with parentheses', Nov 25, 2026)*.
+4. **The Static Hint Trap:** Perseus delivers sequential pre-authored static hints rather than error-targeted feedback. Reviewers perceive this as an unhelpful answer reveal that robs them of productive struggle *(Observed on skill: 'Linear equations with variables on both sides', Nov 25, 2026)*.
 5. **Classroom Compliance Friction:** Arbitrary "minimum learning minute" teacher quotas transform voluntary learning into passive timer-gaming and resentment.
 6. **Mobile Equity Deficits:** Non-resumable video downloads and 140p offline playback drain prepaid cellular data in emerging markets.
 
@@ -163,9 +163,10 @@ Open your browser to:
 ## 📊 Key Research Findings
 
 - **707 Normalized Reviews Analyzed:** Reddit (439), Google Play (153), App Store (106), YouTube (5), Forums (4).
-- **Curriculum Breadth:** Algebra (132), Calculus (60), Unit Tests/Quizzes (80), Mastery/Hints (54), Statistics (43), Pre-Algebra (34), Geometry (25), Trigonometry (18), Physics/Chemistry/Sciences (44), Teacher/Classroom friction (140), Mobile/Offline data issues (225).
-- **Abandonment Cliff:** 71.2% of unassisted failure loops lead to course abandonment at **Attempt 2.4**.
-- **Foundational Bottleneck:** 42.6% of advanced math and science errors stem from unaddressed middle-school arithmetic prerequisites rather than current topic complexity.
+- **Corpus Denominators:** 225 records (31.8%) describe mobile application infrastructure/crashes (carrying no cognitive learning failure mode). Cognitive failure modes are strictly computed against the **Math-Specific Learning-Struggle Subset ($N = 304$)**.
+- **Foundational Bottleneck:** 41.8% of math-struggle errors (127 of 304) stem from unaddressed foundational arithmetic prerequisites (e.g. negative numbers, fraction operations) rather than current topic complexity.
+- **Rule Misconceptions:** 31.6% (96 of 304 math records) reflect faulty algebraic mental models (e.g. one-sided operations, sign distribution).
+- **Abandonment Threshold:** Repeated unassisted failures (typically 2–3 consecutive attempts) trigger session churn *(Directional qualitative hypothesis from review narratives; requires instrumented telemetry to measure exact per-attempt dropoff)*.
 
 ---
 

@@ -76,10 +76,10 @@ pie title Combined Learner Behaviors When Struggling
   2. **Rule Generalization Failures:** Misapplying distributive rules when negative constants multiply parentheses.
 
 ### Q3: Do learners understand why their answers are incorrect?
-* **Empirical Finding:** **Decisively No.** Static hints display the correct derivation from step 0 to completion. If a student arrived at $x = 7$ instead of $x = 3$, the system never highlights where their arithmetic or conceptual logic branched away from truth.
+* **Empirical Finding:** **Decisively No.** Perseus renders sequential static hints from the canonical problem start rather than diagnosing the student's submitted error line *(Observed on skill: 'Linear equations with variables on both sides', Nov 25, 2026)*. If a student arrived at $x = 7$ instead of $x = 3$, the system never highlights where their arithmetic or conceptual logic branched away from truth.
 
 ### Q4: Are learners able to identify which prerequisite concepts they need to revisit?
-* **Empirical Finding:** **No.** On Reddit, learners repeatedly ask: *"I am stuck on this Algebra problem, what math do I need to learn first?"* The platform provides no backwards diagnostic linkage to prerequisite skills.
+* **Empirical Finding:** **No.** The platform surfaces skill mastery badges on course outlines, but lacks causal backwards diagnostic linkage to identify upstream prerequisite deficits across grade levels *(Observed on skill: 'Linear equations with parentheses' & Unit 2 Test, Nov 25, 2026)*. On Reddit, learners repeatedly ask: *"I am stuck on this Algebra problem, what math do I need to learn first?"*
 
 ### Q5: Do learners know what to do after repeatedly failing an exercise?
 * **Empirical Finding:** Learners fall into unproductive coping loops:

@@ -33,7 +33,7 @@ flowchart TD
     subgraph CurrentExperience["Current Khan Academy Experience (Control)"]
         A[Student Encounters Multi-Step Equation] --> B[Incorrect Answer Submitted]
         B --> C{Platform Response}
-        C -->|Generic Hint| D[Hint Re-derives from Step 0]
+        C -->|Generic Hint| D[Perseus Delivers Generic Static Hint Sequence]
         C -->|Retry| E[Try Again Guessing Loop]
         D --> F[Cognitive Fatigue & Confusion]
         E --> F
@@ -89,29 +89,31 @@ The raw corpus was processed through a 3-tier hygiene filter:
 | **Q5** | *What prerequisite gaps trigger linear equation failure?* | **Grade 6–7 foundations:** Negative number arithmetic ($(-a) \times (-b) = +ab$), fraction division, and combining like terms. |
 | **Q6** | *How effective are current Khan Academy hints?* | **Low utility for diagnosis.** Current hints show the *canonical solution path*, which does not match the student's alternative solution path, causing cognitive dissonance. |
 | **Q7** | *What is the role of visual models?* | **Severely underutilized in practice.** Video lessons use visual scales and number lines, but the Perseus exercise engine is almost purely symbolic. |
-| **Q8** | *When do students abandon practice sessions?* | **At attempt 2.4 on multi-step problems.** Abandonment spikes exponentially after two consecutive failed attempts without targeted feedback. |
+| **Q8** | *When do students abandon practice sessions?* | **Directional hypothesis: After 2–3 unassisted failures on multi-step problems (Qualitative report, not instrumented telemetry).** Reviewers repeatedly state quitting or closing the laptop after 2 to 3 failed attempts without step feedback. (Note: Public reviews lack clickstream attempt telemetry; instrumented A/B event tracking is required to measure exact per-attempt hazard rates). |
 | **Q9** | *What do learners wish the platform did?* | **"Tell me WHERE I went wrong, not just that I'm wrong."** 88% of struggling reviewers requested a sign checker or targeted line feedback. |
 
 ---
 
 ## 3. Cognitive Taxonomy: 5 Root-Cause Failure Modes
 
-Student mistakes in introductory algebra were classified into a validated 5-tier cognitive taxonomy:
+Student mistakes in introductory algebra were classified into a validated 5-tier cognitive taxonomy.
+
+> **Methodology & Denominator Note:** The total ingested discovery corpus contains $N = 707$ discussions. However, 225 records (31.8%) describe mobile application infrastructure defects (crashes, video download failure, battery drain, storage) which carry no cognitive failure mode. The cognitive failure mode taxonomy is strictly computed on the **Math-Specific Learning-Struggle Subset ($N = 304$)**.
 
 ```mermaid
-pie title Cognitive Distribution of Algebra Errors (N = 707)
-    "PREREQUISITE_GAP (Middle School Deficits)" : 42.6
-    "RULE_MISCONCEPTION (Inverse Ops & Transposition)" : 29.8
-    "EXECUTION_SLIP (Careless Arithmetic)" : 14.5
-    "TRANSLATION_GAP (Word-to-Equation Mapping)" : 8.1
-    "TRANSFER_GAP (Novel Structure Inversion)" : 5.0
+pie title Cognitive Distribution of Math Practice Errors (N = 304 Math-Struggle Records)
+    "PREREQUISITE_GAP (Middle School Deficits)" : 41.8
+    "RULE_MISCONCEPTION (Inverse Ops & Transposition)" : 31.6
+    "EXECUTION_SLIP (Careless Arithmetic & Format)" : 14.1
+    "TRANSLATION_GAP (Word-to-Equation Mapping)" : 7.6
+    "TRANSFER_GAP (Novel Structure Inversion)" : 4.9
 ```
 
-1. **`PREREQUISITE_GAP` (42.6%):** Student lacks mastery of an upstream prerequisite node (e.g., negative multiplication, least common denominator). Remediation: *Prerequisite Fast-Bridge Modal*.
-2. **`RULE_MISCONCEPTION` (29.8%):** Flawed mental model of algebraic equivalence (e.g., adding to one side without adding to the other, or dividing by coefficient before subtracting constant). Remediation: *Interactive Balance Scale*.
-3. **`EXECUTION_SLIP` (14.5%):** Correct algebraic procedure, but minor calculation slip (e.g., $15 - 7 = 9$). Remediation: *Targeted Line Check*.
-4. **`TRANSLATION_GAP` (8.1%):** Inability to translate word problem syntax into mathematical equations. Remediation: *Sentence-to-Symbol Scaffolding*.
-5. **`TRANSFER_GAP` (5.0%):** Inability to apply two-step principles when equations have variables on both sides. Remediation: *Step-by-step reduction prompt*.
+1. **`PREREQUISITE_GAP` (41.8%, 127 of 304):** Student lacks mastery of an upstream prerequisite node (e.g., negative multiplication, least common denominator). Remediation: *Prerequisite Fast-Bridge Modal*.
+2. **`RULE_MISCONCEPTION` (31.6%, 96 of 304):** Flawed mental model of algebraic equivalence (e.g., adding to one side without adding to the other, or dividing by coefficient before subtracting constant). Remediation: *Interactive Balance Scale*.
+3. **`EXECUTION_SLIP` (14.1%, 43 of 304):** Correct algebraic procedure, but minor calculation slip or syntax formatting mismatch (e.g., $1.5$ vs $3/2$). Remediation: *Targeted Line Check & Equivalence Normalizer*.
+4. **`TRANSLATION_GAP` (7.6%, 23 of 304):** Inability to translate word problem syntax into mathematical equations. Remediation: *Sentence-to-Symbol Scaffolding*.
+5. **`TRANSFER_GAP` (4.9%, 15 of 304):** Inability to apply two-step principles when equations have variables on both sides. Remediation: *Step-by-step reduction prompt*.
 
 ---
 

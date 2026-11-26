@@ -287,23 +287,23 @@ def unified_discovery_platform():
       <div class="lg:col-span-4 grid grid-cols-2 gap-3 text-center">
         <div class="bg-white/10 rounded-xl p-4 backdrop-blur-md border border-white/15">
           <div class="text-3xl font-extrabold text-emerald-400">707</div>
-          <div class="text-xs text-slate-200 font-semibold mt-1">Learner Records</div>
-          <div class="text-[10px] text-slate-400">Scrubbed & Normalized</div>
+          <div class="text-xs text-slate-200 font-semibold mt-1">Total Corpus Records</div>
+          <div class="text-[10px] text-slate-400">482 Academic / 225 Mobile UX</div>
         </div>
         <div class="bg-white/10 rounded-xl p-4 backdrop-blur-md border border-white/15">
-          <div class="text-3xl font-extrabold text-blue-400">42.6%</div>
+          <div class="text-3xl font-extrabold text-blue-400">41.8%</div>
           <div class="text-xs text-slate-200 font-semibold mt-1">Prerequisite Gaps</div>
-          <div class="text-[10px] text-slate-400">Foundational Bottlenecks</div>
+          <div class="text-[10px] text-slate-400">127 / 304 Math-Struggle Records</div>
         </div>
         <div class="bg-white/10 rounded-xl p-4 backdrop-blur-md border border-white/15">
-          <div class="text-3xl font-extrabold text-amber-400">29.8%</div>
+          <div class="text-3xl font-extrabold text-amber-400">31.6%</div>
           <div class="text-xs text-slate-200 font-semibold mt-1">Rule Misconceptions</div>
-          <div class="text-[10px] text-slate-400">Faulty Mental Models</div>
+          <div class="text-[10px] text-slate-400">96 / 304 Math-Struggle Records</div>
         </div>
         <div class="bg-white/10 rounded-xl p-4 backdrop-blur-md border border-white/15">
-          <div class="text-3xl font-extrabold text-rose-400">71.2%</div>
-          <div class="text-xs text-slate-200 font-semibold mt-1">Abandonment Loop</div>
-          <div class="text-[10px] text-slate-400">At Attempt 2.4</div>
+          <div class="text-3xl font-extrabold text-rose-400">2–3 Retries</div>
+          <div class="text-xs text-slate-200 font-semibold mt-1">Abandonment Trigger</div>
+          <div class="text-[10px] text-slate-400">Directional, Not Measured Telemetry</div>
         </div>
       </div>
     </div>
@@ -486,7 +486,7 @@ def unified_discovery_platform():
                 <i class="fa-solid fa-triangle-exclamation text-rose-500"></i>
                 <span>HIGH RISK</span>
               </div>
-              <p class="text-[11px] text-slate-500 leading-snug">Learner likely to quit at attempt 2.4</p>
+              <p class="text-[11px] text-slate-500 leading-snug">Session churn likely after 2–3 unassisted retries (Directional qualitative report)</p>
             </div>
 
             <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-2xs space-y-1">
@@ -661,7 +661,7 @@ def unified_discovery_platform():
           </div>
           <h3 class="font-bold text-sm text-slate-900">The Prerequisite Diagnostic Void</h3>
           <p class="text-xs text-slate-600 leading-relaxed">
-            Struggles in Physics, Chemistry, and Calculus are rooted in middle-school arithmetic gaps, but the platform only tells students to re-watch the same advanced lesson.
+            Struggles in Physics, Chemistry, and Calculus are rooted in middle-school arithmetic gaps. Teardown shows that while course outlines show mastery badges, failure modals lack causal prerequisite dependency diagnostics to trace gaps across grade levels <em>(Observed on skill: 'Linear equations with parentheses', Nov 25, 2026)</em>.
           </p>
           <div class="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs italic text-slate-700">
             💬 "What they actually need is a 2-minute refresher on negative numbers... Khan tells them to re-watch the multi-step equation video."
@@ -676,7 +676,7 @@ def unified_discovery_platform():
           </div>
           <h3 class="font-bold text-sm text-slate-900">The Static Hint Trap</h3>
           <p class="text-xs text-slate-600 leading-relaxed">
-            Hints dump textbook solutions from Step 0, revealing the answer without diagnosing where the student went wrong.
+            Perseus engine provides pre-authored sequential static hints from the canonical start rather than diagnosing the student's submitted error line. Reviewers perceive this as an unhelpful answer reveal that robs them of productive struggle <em>(Observed on skill: 'Linear equations with variables on both sides', Nov 25, 2026)</em>.
           </p>
           <div class="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs italic text-slate-700">
             💬 "If you get a question wrong open that module in a new browser window... do it 3 or 4 times until you achieve mastery."

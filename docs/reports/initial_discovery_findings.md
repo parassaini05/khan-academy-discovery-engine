@@ -137,7 +137,7 @@ Learners repeatedly fail questions not due to lack of effort or inherent math in
 
 #### 1. Executive Answer & Root Causes
 **No.** Learners overwhelmingly report that Khan Academy tells them *that* an answer is incorrect, but never *why*.
-- **Static Hint Limitation:** Hints reveal the full answer from Step 0. The student is unable to locate the specific line where their mental calculation went astray.
+- **Static Hint Limitation (Observed on skill: 'Linear equations with variables on both sides', Nov 25, 2026):** Perseus renders 3–4 sequential static hints starting from problem setup down to the final solution, but does not inspect student input errors. Reviewers describe this as an unhelpful answer reveal that fails to pinpoint their specific step deviation.
 - **Word Problem Ambiguity:** In statistics and algebra word problems, learners frequently believe the platform itself has a bug because the question wording is confusing.
 
 #### 2. Verbatim Evidence
@@ -153,8 +153,7 @@ Learners repeatedly fail questions not due to lack of effort or inherent math in
 
 #### 1. Executive Answer & Root Causes
 **No.** Learners and supporting tutors cannot determine what upstream prerequisite is causing their failure.
-- When an Algebra II or Calculus exercise is failed, the platform only suggests: *"Review this lesson"* (pointing to the exact same complex lesson).
-- In reality, the breakdown is a Grade 6–7 foundational arithmetic skill (e.g. dividing fractions by multiplying the reciprocal, distributing negative signs).
+- **Diagnostic Prerequisite Void (Observed on skill: 'Linear equations with parentheses' & Unit 2 Test, Nov 25, 2026):** Khan Academy surfaces skill-level mastery badges on course roadmaps, but upon exercise failure it only prompts students to re-practice the current skill or re-watch the current lesson. It lacks causal prerequisite dependency tracking to diagnose upstream deficits across grade levels (e.g. foundational Grade 6–7 arithmetic skills like dividing fractions by multiplying the reciprocal, distributing negative signs).
 
 #### 2. Verbatim Evidence
 > *"Please link back to prerequisite concepts when we fail an exercise... students jump into solving linear equations without mastering integer addition and subtraction. When they fail, Khan tells them to re-watch the multi-step equation video. What they actually need is a 2-minute refresher on negative numbers."*  
@@ -217,7 +216,7 @@ Learners exhibit three distinct stages of emotional and behavioral struggle:
 
 #### 1. Executive Answer & Root Causes
 Topic abandonment spikes sharply under three specific conditions:
-1. **The "Consecutive 2-Error" Threshold:** When a student fails two problems in a row and hints merely display full derivations, 71% of surveyed learners report closing the tab.
+1. **The "Consecutive 2-Error" Threshold (Directional Qualitative Finding):** Qualitative review narratives repeatedly cite closing the laptop or quitting after two consecutive unassisted failures without diagnostic feedback. *(Note: Directional qualitative hypothesis from user discussions; requires instrumented product event telemetry to measure exact dropoff rates).*
 2. **Mastery Downgrades from Format Slips:** When a student is 90% through a unit and a trivial slip downgrades their status to "Needs Practice."
 3. **Unbridged Prerequisite Barriers:** In Algebra II and Calculus, failing problems because of forgotten middle-school rules causes learners to conclude the course is "too advanced for them."
 
