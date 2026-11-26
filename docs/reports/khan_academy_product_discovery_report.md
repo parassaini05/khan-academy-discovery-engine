@@ -14,24 +14,11 @@ Khan Academy's institutional mission is **"a free, world-class education for any
 
 However, behind top-of-funnel acquisition lies a critical, systemic business and pedagogical problem:
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│               THE KHAN ACADEMY RETENTION & MASTERY LEAK                │
-├────────────────────────────────────────────────────────────────────────┤
-│  Top of Funnel: Video Consumption (Passive)                            │
-│  "Sal's videos are crystal clear, engaging, and beautifully delivered" │
-│  ▼ (High Engagement & Trust)                                           │
-├────────────────────────────────────────────────────────────────────────┤
-│  Mid Funnel: Autonomous Practice & Unit Tests (Active Problem-Solving) │
-│  "I do what the video says, but the question is completely different"  │
-│  ▼ (Binary Grading, Format Penalties, Static Canonical Hints)          │
-├────────────────────────────────────────────────────────────────────────┤
-│  Churn Cliff: Practice Abandonment & Institutional Friction            │
-│  "He burst into tears and refused to open the laptop again."           │
-│  "It gave my kid depression. It's answers are wrong."                  │
-│  "I pound my desk in rage as I fail the unit test over and over."     │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Funnel Stage | Operating Dynamic & Assessment Friction | Voice-of-the-Learner Empirical Signal |
+|---|---|---|
+| **Top of Funnel: Video Consumption** *(Passive Learning)* | High Trust & Conceptual Clarity. Video explanations are perceived as clean, engaging, and accessible. | High satisfaction, low churn. *"Sal's videos are crystal clear, engaging, and beautifully delivered."* |
+| **Mid Funnel: Autonomous Practice & Unit Tests** *(Active Problem-Solving)* | Rigid Binary Grading & Format Penalties. Practice introduces unmodeled structures; static hints reveal steps from scratch without diagnosing errors. | Critical friction & confidence drop. *"I watch the videos and do as told, yet when I got to the question it's doing it in a different way with no real explanation."* |
+| **Churn Cliff: Practice Abandonment & Fatigue** *(Drop-off Point)* | Mastery Reset Punishments & Homework Time Quotas. Single trivial format slip demotes mastery level, inducing despair. | Outright abandonment. *"He burst into tears and refused to open the laptop again."* / *"I pound my desk in rage as I fail the unit test over and over."* |
 
 ### The Strategic Business Problem
 1. **The Practice-to-Mastery Funnel Collapse:** While video views remain high, autonomous exercise completion and unit test pass rates exhibit steep drop-offs. Learners stall in repetitive failure loops and abandon courses.
@@ -45,23 +32,13 @@ However, behind top-of-funnel acquisition lies a critical, systemic business and
 
 The Discovery Engine analyzed **707 normalized, clean records** across 5 distinct digital touchpoints (filtered to eliminate spam, emojis, and uninformative reviews under 8 words):
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                   PUBLIC DISCOVERY CORPUS BY CHANNEL                   │
-├───────────────────────┬──────────────┬─────────────────────────────────┤
-│ Channel               │ Clean Count  │ Primary Learner Archetype       │
-├───────────────────────┼──────────────┼─────────────────────────────────┤
-│ Reddit (r/khanacademy)│ 439 (62.1%)  │ Adult returners, college prep,  │
-│                       │              │ self-study troubleshooters      │
-│ Google Play Store     │ 153 (21.6%)  │ Mobile K-12 students, parents,  │
-│                       │              │ emerging market users           │
-│ Apple App Store       │ 106 (15.0%)  │ Tablet/iPad learners, stylus &  │
-│                       │              │ handwriting users               │
-│ YouTube & Forums      │   9 (1.3%)   │ Cross-platform video seekers &  │
-│                       │              │ parent/teacher complaints       │
-│ TOTAL CORPUS          │ 707 (100%)   │ Multi-Channel Empirical Base    │
-└───────────────────────┴──────────────┴─────────────────────────────────┘
-```
+| Channel | Clean Count | Share of Corpus | Primary Learner Archetype & Problem Focus |
+|---|:---:|:---:|---|
+| **Reddit** (`r/khanacademy`) | 439 | 62.1% | Adult returners, college prep, self-study troubleshooters, higher math & sciences |
+| **Google Play Store** | 153 | 21.6% | Mobile K-12 students, parents, emerging market offline & bandwidth users |
+| **Apple App Store** | 106 | 15.0% | Tablet/iPad learners, stylus & handwriting users, school homework |
+| **YouTube & Forums** | 9 | 1.3% | Cross-platform video seekers & parent/teacher compliance complaints |
+| **TOTAL CORPUS** | **707** | **100.0%** | **Multi-Channel Empirical Discovery Base (Filtered & Normalized)** |
 
 ### Corpus Segmentation & Denominator Methodology
 
@@ -164,7 +141,7 @@ The assessment engine is syntactic rather than semantic. It checks whether the u
 ### Pain Point 3: The Prerequisite Diagnostic Void (The "Black Box" of Failure)
 **The Core Breakdown:**  
 When learners struggle in complex disciplines—such as **Physics, Chemistry, Calculus, or Algebra II**—the underlying failure is almost never the advanced concept itself. Rather, it is a deficit in foundational prerequisite skills (e.g., negative sign distribution, fraction reduction, trigonometry ratios).
-- **Product Teardown Verification (Observed on Skill: 'Linear equations with parentheses' & Unit 2 Test, Nov 25, 2026):** Khan Academy surfaces skill-level mastery badges (Attempted, Familiar, Proficient, Mastered) within course roadmaps. However, when a student fails a practice question or test item, the modal only prompts them to re-attempt the same skill or re-watch the current lesson video. It lacks causal prerequisite dependency diagnostics (e.g., automatically identifying that a failure in distributing $-3(x - 4)$ is rooted in 6th-grade negative integer multiplication deficits). Reviewers reporting "zero prerequisite visibility" are describing the complete absence of causal backward diagnostic lineage rather than an absence of course outlines.
+- **Product Teardown Verification (Observed on Skill: 'Linear equations with parentheses' & Unit 2 Test, Nov 25, 2026):** Khan Academy surfaces skill-level mastery badges (Attempted, Familiar, Proficient, Mastered) within course roadmaps. However, when a student fails a practice question or test item, the modal only prompts them to re-attempt the same skill or re-watch the current lesson video. It lacks causal prerequisite dependency diagnostics (e.g., automatically identifying that a failure in distributing -3(x - 4) is rooted in 6th-grade negative integer multiplication deficits). Reviewers reporting "zero prerequisite visibility" are describing the complete absence of causal backward diagnostic lineage rather than an absence of course outlines.
 - **Learner Impact:** Learners hit an invisible "brick wall" and abandon the entire subject.
 - **Evidence:**
   > *"Please link back to prerequisite concepts when we fail an exercise... students jump into solving linear equations without mastering integer addition and subtraction. When they fail, Khan tells them to re-watch the multi-step equation video. What they actually need is a 2-minute refresher on negative numbers."*  
@@ -231,35 +208,13 @@ In mobile-first environments and developing economies where students rely on low
 
 > **Methodology Note on Product Hypotheses:** This discovery dossier intentionally omits prescriptive roadmap recommendations. An empirical research engine should not prescribe organizational strategy without internal engineering cost, budget, and pedagogical context. Rather, following rigorous Product Management discipline, the verified learner failure modes identified above are translated into **5 falsifiable product hypotheses** designed to be validated through controlled runtime A/B telemetry (Phases 4–6).
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                          FIVE STRATEGIC PRODUCT HYPOTHESES                             │
-├───────────────────────┬──────────────────────────────────┬─────────────────────────────┤
-│ Hypothesis ID         │ Proposed Product Intervention     │ Measurable Business Impact  │
-├───────────────────────┼──────────────────────────────────┼─────────────────────────────┤
-│ H-1: Semantic Smart   │ Distinguish between conceptual   │ -50% reduction in emotional │
-│ Grading vs Binary     │ errors and execution slips (e.g. │ support tickets;            │
-│ String Evaluation     │ 3/2 vs 1.5). Provide format notes│ +22% unit test completion.  │
-├───────────────────────┼──────────────────────────────────┼─────────────────────────────┤
-│ H-2: Automated        │ When repeated failures occur in  │ -40% drop-off in bottleneck │
-│ Prerequisite Fast-    │ multi-step units (Physics/Calc/  │ topics (Calculus, Physics,  │
-│ Bridges (60-sec Detour│ Algebra), offer a 60-sec micro-  │ Algebra II).                │
-│                       │ check on foundational gaps.      │                             │
-├───────────────────────┼──────────────────────────────────┼─────────────────────────────┤
-│ H-3: Instruction-     │ When practice problems diverge   │ -60% reduction in external  │
-│ Practice "Method      │ from video demonstrations,       │ tab shuttling (to YouTube/  │
-│ Bridges"              │ provide a 20-sec visual delta    │ Photomath).                 │
-│                       │ explaining the alternative path. │                             │
-├───────────────────────┼──────────────────────────────────┼─────────────────────────────┤
-│ H-4: Mastery Pacing   │ Replace arbitrary "minimum       │ +35% student satisfaction   │
-│ vs Time Quotas        │ learning minutes" with true      │ in classroom cohorts;       │
-│                       │ competency-based progression.    │ -45% homework friction.     │
-├───────────────────────┼──────────────────────────────────┼─────────────────────────────┤
-│ H-5: Resumable Offline│ Support chunked, background, and │ +25% 30-day mobile DAU      │
-│ & SD Card Mobile      │ SD-card-mounted video storage    │ retention in emerging       │
-│ Infrastructure        │ with selectable video resolution.│ market regions.             │
-└───────────────────────┴──────────────────────────────────┴─────────────────────────────┘
-```
+| Hypothesis ID | Proposed Product Intervention | Measurable Business Impact | Target Cohort |
+|---|---|---|---|
+| **H-1: Semantic Smart Grading** | Distinguish between conceptual errors and execution slips (e.g. 3/2 vs 1.5). Provide format tolerance notes without mastery demotions. | -50% reduction in emotional support tickets; +22% unit test completion rate. | K-12 & Adult Returners |
+| **H-2: Automated Prerequisite Fast-Bridges** | When repeated failures occur in multi-step units (Physics/Calc/Algebra), offer a 60-sec diagnostic micro-check on foundational gaps. | -40% drop-off in bottleneck topics (Calculus, Physics, Algebra II). | Higher-Ed & STEM |
+| **H-3: Instruction-Practice Method Bridges** | When practice problems diverge from video demonstrations, provide a 20-sec visual delta explaining the alternative path. | -60% reduction in external tab shuttling (to YouTube / Photomath). | Autonomous Learners |
+| **H-4: Competency Mastery Pacing** | Replace arbitrary "minimum learning minutes" with true competency-based progression. | +35% student satisfaction in classroom cohorts; -45% homework friction. | Classroom / K-12 Cohorts |
+| **H-5: Resumable Offline & SD Mobile Infra** | Support chunked, background, and SD-card-mounted video storage with selectable video resolution. | +25% 30-day mobile DAU retention in emerging market regions. | Emerging Markets / Mobile-First |
 
 ---
 

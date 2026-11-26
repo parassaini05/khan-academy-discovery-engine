@@ -22,6 +22,8 @@ from fastapi import FastAPI, HTTPException, Query, status
 from fastapi.responses import HTMLResponse, PlainTextResponse, JSONResponse
 from pydantic import BaseModel
 import markdown
+import re
+import html
 
 # Ensure project root is in sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../..")))
@@ -35,6 +37,19 @@ app = FastAPI(
 DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../data/discovery_database.sqlite"))
 REPORT_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../docs/reports/khan_academy_product_discovery_report.md"))
 FINDINGS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../docs/reports/initial_discovery_findings.md"))
+
+def render_markdown_with_mermaid(md_text: str) -> str:
+    html_out = markdown.markdown(md_text, extensions=["tables", "fenced_code"])
+    def _render_mermaid(match):
+        raw_code = match.group(1)
+        unescaped = html.unescape(raw_code).strip()
+        return f'<div class="mermaid">{unescaped}</div>'
+    return re.sub(
+        r'<pre><code class="(?:language-)?mermaid">(.*?)</code></pre>',
+        _render_mermaid,
+        html_out,
+        flags=re.DOTALL
+    )
 
 def get_db():
     conn = sqlite3.connect(DB_PATH)
@@ -133,7 +148,7 @@ def ask_discovery_engine(req: AskRequest):
         agent = get_pm_agent()
         result = agent.answer_research_question(req.question.strip(), top_k_evidence=req.top_k or 5)
         raw_synthesis = result.get("synthesis", "")
-        rendered_html = markdown.markdown(raw_synthesis, extensions=["tables", "fenced_code"])
+        rendered_html = render_markdown_with_mermaid(raw_synthesis)
         return {
             "status": "success",
             "question": req.question,
@@ -191,7 +206,7 @@ def unified_discovery_platform():
         with open(REPORT_PATH, "r", encoding="utf-8") as f:
             report_md = f.read()
 
-    rendered_report_html = markdown.markdown(report_md, extensions=["tables", "fenced_code"])
+    rendered_report_html = render_markdown_with_mermaid(report_md)
 
     html_content = f"""<!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
@@ -201,22 +216,41 @@ def unified_discovery_platform():
   <title>Khan Academy | AI Discovery Engine & Learner Intelligence Platform</title>
   <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  <script>document.addEventListener("DOMContentLoaded", function() {{ if (window.mermaid) {{ mermaid.initialize({{ startOnLoad: true, theme: 'neutral' }}); }} }});</script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {{
+      if (window.mermaid) {{
+        mermaid.initialize({{
+          startOnLoad: true,
+          theme: 'default',
+          securityLevel: 'loose',
+          fontFamily: 'Plus Jakarta Sans, sans-serif'
+        }});
+      }}
+    }});
+  </script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap');
     body {{ font-family: 'Plus Jakarta Sans', sans-serif; background-color: #f8fafc; }}
     .mono {{ font-family: 'JetBrains Mono', monospace; }}
     .khan-gradient {{ background: linear-gradient(135deg, #0b132b 0%, #1c2541 45%, #1865f2 100%); }}
     .prose blockquote {{ border-left: 4px solid #1865f2; background-color: #f1f5f9; padding: 12px 18px; border-radius: 8px; font-style: italic; color: #1e293b; }}
-    .prose table {{ width: 100%; border-collapse: collapse; font-size: 0.85rem; margin: 1.5rem 0; }}
-    .prose th {{ background-color: #0b132b; color: #ffffff; padding: 10px 14px; text-align: left; font-weight: 700; }}
-    .prose td {{ border: 1px solid #cbd5e1; padding: 10px 14px; }}
+    .prose table {{ width: 100%; border-collapse: collapse; font-size: 0.85rem; margin: 1.5rem 0; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }}
+    .prose th {{ background-color: #0b132b; color: #ffffff !important; padding: 10px 14px; text-align: left; font-weight: 700; }}
+    .prose td {{ border: 1px solid #e2e8f0; padding: 10px 14px; color: #1e293b; }}
     .prose tr:nth-child(even) {{ background-color: #f8fafc; }}
     .prose h1 {{ color: #0b132b; font-size: 1.85rem; font-weight: 800; border-bottom: 2px solid #e2e8f0; padding-bottom: 12px; }}
     .prose h2 {{ color: #1c2541; font-size: 1.35rem; font-weight: 700; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-top: 2rem; }}
     .prose h3 {{ color: #1e293b; font-size: 1.1rem; font-weight: 700; margin-top: 1.5rem; }}
-    .prose code {{ background-color: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.85em; font-family: 'JetBrains Mono', monospace; }}
+    
+    /* Distinction between inline code and pre code blocks to prevent white bars */
+    .prose :not(pre) > code {{ background-color: #e2e8f0 !important; color: #0f172a !important; padding: 2px 6px !important; border-radius: 4px !important; font-size: 0.85em !important; font-family: 'JetBrains Mono', monospace !important; font-weight: 600 !important; }}
+    .prose pre {{ background-color: #0f172a !important; color: #f8fafc !important; border-radius: 0.75rem !important; padding: 1.25rem !important; border: 1px solid #334155 !important; overflow-x: auto !important; }}
+    .prose pre code {{ background-color: transparent !important; color: #f8fafc !important; padding: 0 !important; border-radius: 0 !important; font-family: 'JetBrains Mono', monospace !important; font-size: 0.85rem !important; line-height: 1.6 !important; font-weight: 400 !important; }}
+    
+    /* Mermaid Diagram Canvas Styling */
+    .mermaid {{ background: #ffffff !important; border: 1px solid #e2e8f0 !important; border-radius: 0.75rem !important; padding: 1.5rem !important; margin: 1.5rem 0 !important; display: flex !important; justify-content: center !important; box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important; overflow-x: auto !important; min-height: 100px; }}
+    .mermaid svg {{ max-width: 100% !important; height: auto !important; }}
   </style>
 </head>
 <body class="text-slate-800 antialiased min-h-screen flex flex-col bg-slate-50">
