@@ -43,7 +43,7 @@ flowchart TD
 2. **Phases 4–6 (Remediation & Pilot Workstream):** Directly operationalizes the discovery findings. 
    - Discovery showed that **72.4% of advanced failures are unaddressed prerequisite gaps** $\to$ **Phase 4** builds the mathematical Knowledge Graph DAG to map these hidden dependencies.
    - Discovery showed that **static hints and binary grading cause crying and rage-quitting** $\to$ **Phase 5** builds a $<20\text{ ms}$ runtime microservice with line-level sign tooltips and 60-second prerequisite bridges.
-   - Discovery established that **consecutive unassisted errors cause a 71% abandonment cliff** $\to$ **Phase 6** tests the diagnostic intervention in an $N = 20,000$ A/B trial, proving that abandonment drops by 44.4%.
+   - Discovery established that **consecutive unassisted errors cause a 71% abandonment cliff** $\to$ **Phase 6** tests the diagnostic intervention in an N = 20,000 A/B trial, proving that abandonment drops by 44.4%.
 
 ---
 
@@ -65,7 +65,7 @@ flowchart TD
 * **Strategic Objective:** Structure raw feedback into a standardized cognitive error taxonomy and build a hybrid relational-semantic retrieval engine.
 * **Connection to Phase 1:** Takes the 707 sanitized records from Phase 1 and enriches them with semantic vectors and cognitive categories.
 * **Key Tasks:**
-  - Groq LPU classifier categorizing learner complaints into the 5 Cognitive Failure Modes within the Math-Specific Struggle Subset ($N = 304$, excluding 225 mobile/infrastructure defect records):
+  - Groq LPU classifier categorizing learner complaints into the 5 Cognitive Failure Modes within the Math-Specific Struggle Subset (N = 304, excluding 225 mobile/infrastructure defect records):
     1. `PREREQUISITE_GAP` (41.8%, 127 of 304)
     2. `RULE_MISCONCEPTION` (31.6%, 96 of 304)
     3. `EXECUTION_SLIP` (14.1%, 43 of 304)
@@ -128,7 +128,7 @@ flowchart TD
 * **Key Tasks:**
   - Deterministic SHA-256 50/50 user variant assignment (`CONTROL` vs `TREATMENT`).
   - Telemetry logging for all struggle events (`attempt_failed_with_diagnosis`, `session_abandonment_after_struggle`).
-  - Statistical significance engine running two-sample Welch's t-test, Mann-Whitney U, and Chi-Square proportion tests across $N = 20,000$ active learner sessions.
+  - Statistical significance engine running two-sample Welch's t-test, Mann-Whitney U, and Chi-Square proportion tests across N = 20,000 active learner sessions.
 * **Trial Results:**
   - **Primary Metric:** Session abandonment dropped from **38.4% to 21.4%** (**-44.4% relative reduction**, $p = 4.7 \times 10^{-153}$, exceeding $\ge 15\%$ target).
   - **Secondary Metric:** First-retry success rate jumped from **34.1% to 63.8%** (**+87.3% relative increase**, $p < 10^{-100}$, exceeding $\ge 20\%$ target).
@@ -151,4 +151,4 @@ flowchart TD
 | **Phase 3** | Hybrid RAG & PM Discovery Intelligence Platform | 9 questions answered; 6 pain points & 5 hypotheses | Complete dossier published on single-link UI | **COMPLETED** |
 | **Phase 4** | Knowledge Graph DAG & Distractor Catalog | $\ge 40$ nodes acyclic; traversal $<15\text{ ms}$ | 42 nodes, 53 edges, p95 traversal = 0.008 ms | **COMPLETED** |
 | **Phase 5** | Runtime Diagnostic Microservice & React UI | API response latency $\le 200\text{ ms}$ at p95 | p95 = 4.59 ms, p99 = 5.11 ms under load | **COMPLETED** |
-| **Phase 6** | A/B Pilot & Statistical Sign-Off ($N = 20,000$) | $\ge 15\%$ abandonment drop; $\ge 20\%$ retry lift | -44.4% abandonment ($p < 10^{-100}$); +87.3% retry | **COMPLETED** |
+| **Phase 6** | A/B Pilot & Statistical Sign-Off (N = 20,000) | $\ge 15\%$ abandonment drop; $\ge 20\%$ retry lift | -44.4% abandonment ($p < 10^{-100}$); +87.3% retry | **COMPLETED** |

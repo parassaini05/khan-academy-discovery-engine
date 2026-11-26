@@ -122,7 +122,7 @@ By combining **mobile app reviews** (immediate in-the-moment friction) with **Re
 
 ## 2. Multi-Source Quantitative Breakdown: Cognitive Taxonomy
 
-Comparison of cognitive failure modes across **Google Play ($N={total_playstore}$)** and **Reddit ($N={total_reddit}$)**:
+Comparison of cognitive failure modes across **Google Play (N = {total_playstore})** and **Reddit (N = {total_reddit})**:
 
 | Cognitive Struggle Category | Google Play | Reddit | Combined Total | Combined % | Platform Nuance |
 | :--- | :---: | :---: | :---: | :---: | :--- |

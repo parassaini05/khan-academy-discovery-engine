@@ -63,21 +63,64 @@ The Discovery Engine analyzed **707 normalized, clean records** across 5 distinc
 └───────────────────────┴──────────────┴─────────────────────────────────┘
 ```
 
-### Corpus Segmentation & Denominator Methodology:
-To ensure scientific validity, cognitive failure modes are never computed against the whole corpus indiscriminately:
-- **Total Ingested Corpus ($N = 707$):** Full multi-source dataset across Play Store (153), Reddit (439), App Store (106), YouTube (5), and Forums (4).
-- **Mobile Infrastructure & Technical Defects ($N = 225$, 31.8%):** Non-resumable downloads, app crashes, video buffering, login loops, and storage bugs. *These 225 records represent infrastructure bugs, have no cognitive learning failure mode, and are excluded from academic learning taxonomy calculations.*
-- **Pedagogical Learning-Struggle Corpus ($N = 482$, 68.2%):** Learners experiencing conceptual, procedural, or assessment friction across all disciplines.
-- **Math-Specific Learning-Struggle Subset ($N = 304$, 43.0% of total corpus; 63.1% of learning struggles):** Records specifically focusing on Mathematics (Algebra, Calculus, Geometry, Arithmetic, Fractions, Linear Equations, Unit Tests).
+### Corpus Segmentation & Denominator Methodology
 
-### Cognitive Failure Modes in the Math-Struggle Subset ($N = 304$):
-1. **Prerequisite Gaps:** 41.8% (127 of 304) — Foundational arithmetic deficits (e.g. negative numbers, fraction operations) blocking current grade-level topics.
-2. **Rule Misconceptions:** 31.6% (96 of 304) — Flawed conceptual mental models (e.g. one-sided operations, improper distribution).
-3. **Calculation & Execution Slips:** 14.1% (43 of 304) — Superficial syntax slips (e.g. typing `1.5` vs `3/2`, sign typo) penalized by binary grading.
-4. **Explanation & Hint Friction:** 9.5% (29 of 304) — Frustration with pre-authored hints that reveal canonical steps without diagnosing errors.
-5. **Word Problem Translation:** 3.0% (9 of 304) — Linguistic translation friction when setting up equations.
+To ensure scientific validity, cognitive failure modes are never computed against the whole corpus indiscriminately. The 707 harvested discussions filter through a 3-stage funnel:
 
-### Cross-Disciplinary Thematic Distribution:
+```mermaid
+flowchart TD
+    subgraph S1["Stage 1: Multi-Channel Harvesting"]
+        A["<b>Total Ingested Corpus</b><br/><b>N = 707 Records</b> (100%)<br/>Reddit (439) • Play Store (153) • App Store (106) • Others (9)"]
+    end
+
+    subgraph S2["Stage 2: Technical vs. Pedagogical Segmentation"]
+        A --> B["<b>Mobile Infrastructure & App Defects</b><br/><b>225 Records</b> (31.8% of Total)<br/><i>Crashes, download failures, login loops, storage</i><br/><b>EXCLUDED from Cognitive Taxonomy (No Learning Failure Mode)</b>"]
+        A --> C["<b>Pedagogical Learning-Struggle Corpus</b><br/><b>482 Records</b> (68.2% of Total)<br/><i>Academic, conceptual, and assessment friction</i>"]
+    end
+
+    subgraph S3["Stage 3: Domain Isolation"]
+        C --> D["<b>Sciences, Humanities & Classroom Timers</b><br/><b>178 Records</b> (25.2% of Total)<br/><i>Physics, Chemistry, Biology, homework minutes</i>"]
+        C --> E["<b>Math-Specific Practice Struggles</b><br/><b>N = 304 Records</b> (43.0% of Total Corpus)<br/><b>Target Denominator for Cognitive Taxonomy</b>"]
+    end
+```
+
+---
+
+### Cognitive Failure Mode Distribution in Math Struggles (N = 304)
+
+Within the verified Math-Specific Struggle Subset (N = 304 records), learner errors break down into 5 distinct pedagogical failure modes:
+
+```mermaid
+pie title Cognitive Failure Modes in Math-Struggle Subset (N = 304 Records)
+    "Prerequisite Gaps (127)" : 41.8
+    "Rule Misconceptions (96)" : 31.6
+    "Execution Slips & Formatting (43)" : 14.1
+    "Explanation & Hint Friction (29)" : 9.5
+    "Word Problem Translation (9)" : 3.0
+```
+
+| Cognitive Category | Count (N = 304) | Share | Visual Distribution | Root Pedagogical Mechanism |
+|---|:---:|:---:|:---|---|
+| **Prerequisite Gaps** | 127 | 41.8% | `████████████████████` | Foundational arithmetic deficits (negative numbers, fractions) blocking current grade-level topics |
+| **Rule Misconceptions** | 96 | 31.6% | `███████████████` | Flawed mental models of equality (one-sided operations, improper sign distribution) |
+| **Execution Slips** | 43 | 14.1% | `███████` | Binary grading penalty on syntax equivalence (1.5 vs 3/2, formatting typos) |
+| **Explanation & Hint Friction** | 29 | 9.5% | `█████` | Pre-authored hints reveal canonical steps from scratch without diagnosing the student's error |
+| **Word Problem Translation** | 9 | 3.0% | `██` | Language-to-symbol translation barrier when setting up algebraic equations |
+
+---
+
+### Cross-Disciplinary Thematic Distribution across Full Corpus (N = 707)
+
+```mermaid
+pie title Cross-Disciplinary Thematic Distribution (N = 707 Full Corpus)
+    "Mobile UX & Infrastructure (225)" : 31.8
+    "Teachers & Classroom Quotas (140)" : 19.8
+    "Parents & Child Distress (120)" : 17.0
+    "Hints & Binary Grading (109)" : 15.4
+    "Adult Returners & College (61)" : 8.6
+    "Sciences Physics/Chem/Bio (44)" : 6.2
+```
+
 - **Mobile UX, Offline Data & Infrastructure:** 225 records (31.8%)
 - **Teachers, Homework & Institutional Usage:** 140 records (19.8%)
 - **Parents & Emotional Distress in Children:** 120 records (17.0%)
@@ -186,7 +229,7 @@ In mobile-first environments and developing economies where students rely on low
 
 ## 4. Testable Product Hypotheses for Khan Academy Leadership
 
-Based on the empirical evidence, a Head of Product should prioritize the following 5 strategic hypotheses:
+> **Methodology Note on Product Hypotheses:** This discovery dossier intentionally omits prescriptive roadmap recommendations. An empirical research engine should not prescribe organizational strategy without internal engineering cost, budget, and pedagogical context. Rather, following rigorous Product Management discipline, the verified learner failure modes identified above are translated into **5 falsifiable product hypotheses** designed to be validated through controlled runtime A/B telemetry (Phases 4–6).
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -220,20 +263,7 @@ Based on the empirical evidence, a Head of Product should prioritize the followi
 
 ---
 
-## 5. Strategic Recommendations for Khan Academy's Product Roadmap
-
-1. **Shift Focus from Content Production to Diagnostic Intelligence:**
-   Khan Academy has already built world-class video libraries. Creating more videos will not solve the retention crisis. The single highest-leverage investment is building **diagnostic intelligence** into the practice loop.
-2. **Empower Khanmigo as a Diagnostic Interceptor, Not a Generic Chatbot:**
-   Khanmigo (AI tutor) should not wait passively for students to ask questions. It should actively intercept execution slips, identify unmastered prerequisite nodes, and scaffold alternative solution methods.
-3. **Overhaul the Perseus Assessment Engine:**
-   Deprecate rigid regex-based string grading. Transition to a semantic evaluation engine that recognizes mathematical and conceptual equivalence across all subjects (Math, Sciences, Grammar).
-4. **Fix Mobile Equity Basics:**
-   Before rolling out AI features, resolve critical mobile bugs: Chromebook keypad navigation, non-resumable video downloads, and continuous login redirects.
-
----
-
-## 6. Accessing the Discovery Dossier
+## 5. Accessing the Discovery Dossier
 
 * **Interactive Dossier Web View:** [http://127.0.0.1:8000/report](http://127.0.0.1:8000/report)
 * **Live Review Explorer & Database:** [http://127.0.0.1:8000](http://127.0.0.1:8000)

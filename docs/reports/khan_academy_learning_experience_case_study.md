@@ -12,7 +12,7 @@ This comprehensive case study presents the design, technical implementation, and
 
 1. **Subsystem 1 (AI Discovery Engine):** An automated multi-source voice-of-the-learner intelligence pipeline harvesting learner feedback across the Google Play Store, Reddit (`r/khanacademy`), Apple App Store, YouTube, and community forums. Powered by BAAI BGE dense embeddings (`bge-small-en-v1.5`) and Groq LPU inference, this engine identified that **72.4% of student abandonment stems from middle-school prerequisite deficits (negative numbers, fraction division) rather than algebra instruction deficiencies**.
 2. **Subsystem 2 (Cognitive Diagnostic & Mastery Engine):** A sub-200ms runtime microservice that diagnoses student errors into a 5-class cognitive taxonomy using a 27-rule distractor catalog and a 42-node Algebra Knowledge Graph DAG. When a student falters, the engine provides targeted micro-remediation callouts and 60-second prerequisite fast-bridges without resetting exercise state.
-3. **Randomized Controlled Trial (A/B Test Results):** Across a 4-week trial with $N = 20,000$ active learner sessions:
+3. **Randomized Controlled Trial (A/B Test Results):** Across a 4-week trial with N = 20,000 active learner sessions:
    - **Primary Metric:** Session abandonment following repeated failures dropped from **38.4% to 21.4%** (**-44.4% relative reduction**, $p = 4.7 \times 10^{-153}$, target $\ge 15\%$).
    - **Secondary Metric:** First-retry success rate following intervention jumped from **34.1% to 63.8%** (**+87.3% relative increase**, $p < 10^{-100}$, target $\ge 20\%$).
    - **Efficiency:** Average time to concept mastery decreased from **28.6 minutes to 18.2 minutes** (-36.2%).
@@ -98,7 +98,7 @@ The raw corpus was processed through a 3-tier hygiene filter:
 
 Student mistakes in introductory algebra were classified into a validated 5-tier cognitive taxonomy.
 
-> **Methodology & Denominator Note:** The total ingested discovery corpus contains $N = 707$ discussions. However, 225 records (31.8%) describe mobile application infrastructure defects (crashes, video download failure, battery drain, storage) which carry no cognitive failure mode. The cognitive failure mode taxonomy is strictly computed on the **Math-Specific Learning-Struggle Subset ($N = 304$)**.
+> **Methodology & Denominator Note:** The total ingested discovery corpus contains N = 707 discussions. However, 225 records (31.8%) describe mobile application infrastructure defects (crashes, video download failure, battery drain, storage) which carry no cognitive failure mode. The cognitive failure mode taxonomy is strictly computed on the **Math-Specific Learning-Struggle Subset (N = 304)**.
 
 ```mermaid
 pie title Cognitive Distribution of Math Practice Errors (N = 304 Math-Struggle Records)
@@ -234,9 +234,9 @@ Three bespoke UI components were delivered in `src/frontend/components/remediati
 
 ## 7. In-Product Pilot & A/B Experimentation Results
 
-A 4-week randomized controlled trial was conducted with $N = 20,000$ active learner sessions:
-- **Control Group ($N = 10,000$):** Standard Khan Academy experience (generic hints, binary retry).
-- **Treatment Group ($N = 10,000$):** Cognitive Diagnostic Engine enabled (targeted distractor callout, prerequisite fast-bridge).
+A 4-week randomized controlled trial was conducted with N = 20,000 active learner sessions:
+- **Control Group (N = 10,000):** Standard Khan Academy experience (generic hints, binary retry).
+- **Treatment Group (N = 10,000):** Cognitive Diagnostic Engine enabled (targeted distractor callout, prerequisite fast-bridge).
 
 ### 7.1 Quantitative Metric Comparison
 

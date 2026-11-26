@@ -201,6 +201,8 @@ def unified_discovery_platform():
   <title>Khan Academy | AI Discovery Engine & Learner Intelligence Platform</title>
   <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function() {{ if (window.mermaid) {{ mermaid.initialize({{ startOnLoad: true, theme: 'neutral' }}); }} }});</script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap');
     body {{ font-family: 'Plus Jakarta Sans', sans-serif; background-color: #f8fafc; }}
@@ -243,10 +245,11 @@ def unified_discovery_platform():
           <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
           <span>Live AI Engine</span>
         </a>
+        <a href="#visual-methodology" class="px-2.5 py-1.5 rounded-lg bg-blue-50 text-blue-700 hover:bg-blue-100 transition flex items-center space-x-1"><i class="fa-solid fa-chart-pie mr-1"></i> Visual Methodology</a>
         <a href="#business-problem" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">Business Problem</a>
         <a href="#how-it-works" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">How It Works</a>
         <a href="#pain-points" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">6 Pain Points</a>
-        <a href="#hypotheses" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">5 Hypotheses</a>
+        <a href="#hypotheses" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">5 Hypotheses (A/B Bets)</a>
         <a href="#phases" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">6 Phases</a>
         <a href="#questions" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">9 Questions</a>
         <a href="#explorer" class="px-2.5 py-1.5 rounded-lg hover:text-blue-600 hover:bg-slate-100 transition">707 Reviews</a>
@@ -567,6 +570,142 @@ def unified_discovery_platform():
       </div>
     </section>
 
+    <!-- SECTION: VISUAL CORPUS SEGMENTATION & COGNITIVE BREAKDOWN -->
+    <section id="visual-methodology" class="space-y-6">
+      <div class="border-b border-slate-200 pb-4">
+        <div class="flex items-center space-x-2 text-xs font-bold text-blue-600 uppercase tracking-wider">
+          <i class="fa-solid fa-chart-pie"></i>
+          <span>Visual Corpus Segmentation &amp; Denominator Hierarchy</span>
+        </div>
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">Corpus Funnel &amp; Cognitive Failure Distribution</h2>
+        <p class="text-sm text-slate-600 mt-1 max-w-4xl">
+          To ensure scientific validity, cognitive failure modes are never computed against the whole corpus indiscriminately. Mobile infrastructure defects (225 records, 31.8%) have no learning failure mode and are excluded. Failure modes are strictly computed on the <strong>Math-Specific Practice Struggle Subset (N = 304)</strong>.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+        <!-- Funnel Step-Down Graph (Left Column) -->
+        <div class="lg:col-span-5 bg-white p-6 rounded-2xl border border-slate-200 shadow-xs space-y-4">
+          <h3 class="font-extrabold text-sm text-slate-900 flex items-center justify-between border-b border-slate-100 pb-2">
+            <span>The 3-Stage Ingestion Funnel</span>
+            <span class="text-[11px] font-semibold text-slate-400">707 &rarr; 304 Records</span>
+          </h3>
+
+          <!-- Funnel Step 1 -->
+          <div class="p-3.5 bg-slate-50 rounded-xl border border-slate-200 space-y-1">
+            <div class="flex items-center justify-between text-xs">
+              <span class="font-bold text-slate-800">1. Total Ingested Corpus</span>
+              <span class="font-extrabold text-slate-900 mono">N = 707 (100%)</span>
+            </div>
+            <p class="text-[11px] text-slate-500">Play Store (153) &bull; Reddit (439) &bull; App Store (106) &bull; Others (9)</p>
+          </div>
+
+          <div class="text-center text-slate-300 text-xs my-0.5"><i class="fa-solid fa-arrow-down"></i></div>
+
+          <!-- Funnel Step 2 -->
+          <div class="p-3.5 bg-rose-50/60 rounded-xl border border-rose-200/80 space-y-1">
+            <div class="flex items-center justify-between text-xs">
+              <span class="font-bold text-rose-800">2. Technical &amp; App Defects</span>
+              <span class="font-extrabold text-rose-700 mono">225 Records (31.8%)</span>
+            </div>
+            <p class="text-[11px] text-rose-600">Downloads, offline video bugs, crashes. <strong>EXCLUDED (No learning mode)</strong></p>
+          </div>
+
+          <div class="text-center text-slate-300 text-xs my-0.5"><i class="fa-solid fa-arrow-down"></i></div>
+
+          <!-- Funnel Step 3 -->
+          <div class="p-3.5 bg-blue-50/60 rounded-xl border border-blue-200/80 space-y-1">
+            <div class="flex items-center justify-between text-xs">
+              <span class="font-bold text-blue-800">3. Pedagogical Struggle Corpus</span>
+              <span class="font-extrabold text-blue-700 mono">482 Records (68.2%)</span>
+            </div>
+            <p class="text-[11px] text-blue-600">Math (304) &bull; Sciences (44) &bull; Teacher Timers (140) &bull; Adult (61)</p>
+          </div>
+
+          <div class="text-center text-slate-300 text-xs my-0.5"><i class="fa-solid fa-arrow-down"></i></div>
+
+          <!-- Funnel Step 4 (Target Denominator) -->
+          <div class="p-4 bg-emerald-50 rounded-xl border-2 border-emerald-500/40 space-y-1 shadow-2xs">
+            <div class="flex items-center justify-between text-xs">
+              <span class="font-extrabold text-emerald-900 flex items-center"><i class="fa-solid fa-bullseye text-emerald-600 mr-1.5"></i> Target Denominator</span>
+              <span class="font-extrabold text-emerald-800 mono text-sm">N = 304</span>
+            </div>
+            <p class="text-[11px] text-emerald-700 font-medium">Math-Specific Practice Struggles (Algebra, Calculus, Geometry, Quizzes)</p>
+          </div>
+        </div>
+
+        <!-- Failure Modes Visual Progress Bars (Right Column) -->
+        <div class="lg:col-span-7 bg-white p-6 rounded-2xl border border-slate-200 shadow-xs space-y-4">
+          <h3 class="font-extrabold text-sm text-slate-900 flex items-center justify-between border-b border-slate-100 pb-2">
+            <span>Cognitive Failure Distribution in Math</span>
+            <span class="text-[11px] font-semibold text-slate-400">Denominator: N = 304</span>
+          </h3>
+
+          <div class="space-y-4 pt-1">
+            <!-- Mode 1 -->
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-slate-800 flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-blue-600 mr-2"></span>Prerequisite Gaps</span>
+                <span class="font-extrabold text-blue-600 mono">41.8% (127 of 304)</span>
+              </div>
+              <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden">
+                <div class="bg-blue-600 h-2.5 rounded-full" style="width: 41.8%"></div>
+              </div>
+              <p class="text-[10px] text-slate-500">Missing Grade 6–7 foundational arithmetic (negative numbers, fractions) blocking current lessons.</p>
+            </div>
+
+            <!-- Mode 2 -->
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-slate-800 flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-amber-500 mr-2"></span>Rule Misconceptions</span>
+                <span class="font-extrabold text-amber-600 mono">31.6% (96 of 304)</span>
+              </div>
+              <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden">
+                <div class="bg-amber-500 h-2.5 rounded-full" style="width: 31.6%"></div>
+              </div>
+              <p class="text-[10px] text-slate-500">Flawed mental models of equality (one-sided operations, improper negative sign distribution).</p>
+            </div>
+
+            <!-- Mode 3 -->
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-slate-800 flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-rose-500 mr-2"></span>Execution Slips &amp; Syntax</span>
+                <span class="font-extrabold text-rose-600 mono">14.1% (43 of 304)</span>
+              </div>
+              <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden">
+                <div class="bg-rose-500 h-2.5 rounded-full" style="width: 14.1%"></div>
+              </div>
+              <p class="text-[10px] text-slate-500">Binary grading penalty on syntax equivalence (e.g. typing 1.5 instead of 3/2 triggers total failure).</p>
+            </div>
+
+            <!-- Mode 4 -->
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-slate-800 flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-purple-500 mr-2"></span>Explanation &amp; Hint Friction</span>
+                <span class="font-extrabold text-purple-600 mono">9.5% (29 of 304)</span>
+              </div>
+              <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden">
+                <div class="bg-purple-500 h-2.5 rounded-full" style="width: 9.5%"></div>
+              </div>
+              <p class="text-[10px] text-slate-500">Pre-authored hints reveal canonical answers without diagnosing the student's specific step error.</p>
+            </div>
+
+            <!-- Mode 5 -->
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between text-xs">
+                <span class="font-bold text-slate-800 flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-teal-500 mr-2"></span>Word Problem Translation</span>
+                <span class="font-extrabold text-teal-600 mono">3.0% (9 of 304)</span>
+              </div>
+              <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden">
+                <div class="bg-teal-500 h-2.5 rounded-full" style="width: 3.0%"></div>
+              </div>
+              <p class="text-[10px] text-slate-500">Linguistic barriers translating sentence descriptions into formal algebraic variables.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- SECTION 3: HOW THE AI PLATFORM WORKS -->
     <section id="how-it-works" class="space-y-6">
       <div class="border-b border-slate-200 pb-4">
@@ -726,8 +865,14 @@ def unified_discovery_platform():
         </div>
         <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">Five Testable Product Hypotheses for Leadership</h2>
         <p class="text-sm text-slate-600 mt-1">
-          Formulated directly from the empirical discovery evidence to guide Khan Academy's product strategy:
+          Formulated directly from empirical discovery evidence to structure experimental validation in Phase 6:
         </p>
+        <div class="mt-2.5 p-3.5 bg-purple-50/70 rounded-xl border border-purple-200/80 text-xs text-purple-900 leading-relaxed font-medium flex items-start space-x-2">
+          <i class="fa-solid fa-shield-halved text-purple-600 mt-0.5 text-sm"></i>
+          <div>
+            <strong>Methodology Note on Product Hypotheses:</strong> This platform intentionally omits prescriptive roadmap recommendations. An empirical research engine should not prescribe organizational strategy without internal engineering cost, budget, and pedagogical context. Rather, following standard Product Management discipline, verified learner failure modes are translated into <strong>5 falsifiable product hypotheses</strong> designed to be validated through controlled A/B testing in Phase 6.
+          </div>
+        </div>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-5 gap-4">

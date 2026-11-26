@@ -163,7 +163,7 @@ Open your browser to:
 ## 📊 Key Research Findings
 
 - **707 Normalized Reviews Analyzed:** Reddit (439), Google Play (153), App Store (106), YouTube (5), Forums (4).
-- **Corpus Denominators:** 225 records (31.8%) describe mobile application infrastructure/crashes (carrying no cognitive learning failure mode). Cognitive failure modes are strictly computed against the **Math-Specific Learning-Struggle Subset ($N = 304$)**.
+- **Corpus Denominators:** 225 records (31.8%) describe mobile application infrastructure/crashes (carrying no cognitive learning failure mode). Cognitive failure modes are strictly computed against the **Math-Specific Learning-Struggle Subset (N = 304)**.
 - **Foundational Bottleneck:** 41.8% of math-struggle errors (127 of 304) stem from unaddressed foundational arithmetic prerequisites (e.g. negative numbers, fraction operations) rather than current topic complexity.
 - **Rule Misconceptions:** 31.6% (96 of 304 math records) reflect faulty algebraic mental models (e.g. one-sided operations, sign distribution).
 - **Abandonment Threshold:** Repeated unassisted failures (typically 2–3 consecutive attempts) trigger session churn *(Directional qualitative hypothesis from review narratives; requires instrumented telemetry to measure exact per-attempt dropoff)*.
